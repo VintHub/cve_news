@@ -1,0 +1,118 @@
+{
+    "CVE-2026-85706": [
+        {
+            "title": "CISA Warns of Critical GitLab Vulnerability Exploited in Attacks",
+            "link": "https://gbhackers.com/cisa-warns-of-critical-gitlab-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Warns of Critical GitLab Path Traversal Flaw Exploited to Read Arbitrary Server Files",
+            "link": "https://cyberpress.org/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-server-files/"
+        },
+        {
+            "title": "CISA Warns of GitLab Path Traversal Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-gitlab-path-traversal/"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
+            "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        },
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
+        }
+    ],
+    "CVE-2026-87491": [
+        {
+            "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
+            "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
+            "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "Check Point Discloses Two Critical VPN Vulnerabilities Allowing RCE",
+            "link": "https://www.cysecurity.news/2026/09/check-point-discloses-two-critical-vpn.html"
+        },
+        {
+            "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+            "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
+        }
+    ],
+    "CVE-2026-85103": [
+        {
+            "title": "Check Point Discloses Two Critical VPN Vulnerabilities Allowing RCE",
+            "link": "https://www.cysecurity.news/2026/09/check-point-discloses-two-critical-vpn.html"
+        },
+        {
+            "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+            "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
+        }
+    ],
+    "CVE-2026-82079": [
+        {
+            "title": "Nintendo Switch Security Flaw Lets Nearby Attackers Exploit QR Codes Used to Share Screenshots",
+            "link": "https://www.cysecurity.news/2026/09/nintendo-switch-security-flaw-lets.html"
+        }
+    ],
+    "CVE-2021-38003": [
+        {
+            "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+            "link": "https://www.cysecurity.news/2026/09/china-linked-unc3569-exploited-sogou.html"
+        }
+    ],
+    "CVE-2026-51990": [
+        {
+            "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+            "link": "https://www.cysecurity.news/2026/09/china-linked-unc3569-exploited-sogou.html"
+        }
+    ],
+    "CVE-2026-56711": [
+        {
+            "title": "Multiple VLC Media Player Vulnerabilities Allow Attackers to Corrupt or Read Heap Memory",
+            "link": "https://cybersecuritynews.com/multiple-vlc-media-player-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-73324": [
+        {
+            "title": "Multiple VLC Media Player Vulnerabilities Allow Attackers to Corrupt or Read Heap Memory",
+            "link": "https://cybersecuritynews.com/multiple-vlc-media-player-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20079": [
+        {
+            "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+            "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html"
+        }
+    ],
+    "CVE-2026-42016": [
+        {
+            "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+            "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+        }
+    ],
+    "CVE-2026-65669": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
+        }
+    ]
+}

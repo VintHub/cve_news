@@ -1,0 +1,214 @@
+{
+    "CVE-2026-97229": [
+        {
+            "title": "CVE-2026-97229: Critical Unauthenticated Remote Code Execution in GitLab",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab"
+        }
+    ],
+    "CVE-2026-0322": [
+        {
+            "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+            "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html"
+        },
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        },
+        {
+            "title": "Palo Alto Warns of PAN-OS 0-day Flaw Actively Exploited in Attacks",
+            "link": "https://gbhackers.com/palo-alto-pan-os-zero-day/"
+        }
+    ],
+    "CVE-2026-105740": [
+        {
+            "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+            "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+            "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+        },
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+            "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+        },
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        }
+    ],
+    "CVE-2026-76519": [
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        },
+        {
+            "title": "Cisco Email Gateway Zero-Day Under Attack, Root Access at Risk",
+            "link": "https://www.esecurityplanet.com/news/news-cisco-email-gateway-zero-day-exploited/"
+        }
+    ],
+    "CVE-2026-35029": [
+        {
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
+        }
+    ],
+    "CVE-2026-59823": [
+        {
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
+        }
+    ],
+    "CVE-2026-102701": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        },
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ],
+    "CVE-2026-79610": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        },
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ],
+    "CVE-2026-79611": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        },
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ],
+    "CVE-2026-102700": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        },
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ],
+    "CVE-2026-96889": [
+        {
+            "title": "Critical Next.js Vulnerabilities Allow Hackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/critical-next-js-vulnerabilities/"
+        },
+        {
+            "title": "Critical Next.js SVG Image Processing Vulnerability Could Enable Remote Code Execution",
+            "link": "https://gbhackers.com/nextjs-svg-image-processing-vulnerability/"
+        },
+        {
+            "title": "Critical Next.js Vulnerabilities Let Remote Attackers Execute Malicious Code and Crash Servers",
+            "link": "https://cyberpress.org/critical-next-js-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-78952": [
+        {
+            "title": "AI Agents Build Chrome Zero-Day Exploit in Six Days, Winning $250,000 Reward",
+            "link": "https://www.cysecurity.news/2026/10/ai-agents-build-chrome-zero-day-exploit.html"
+        }
+    ],
+    "CVE-2026-85045": [
+        {
+            "title": "AI Agents Build Chrome Zero-Day Exploit in Six Days, Winning $250,000 Reward",
+            "link": "https://www.cysecurity.news/2026/10/ai-agents-build-chrome-zero-day-exploit.html"
+        }
+    ],
+    "CVE-2026-21589": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-21589",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-21589"
+        }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
+        }
+    ],
+    "CVE-2026-99999": [
+        {
+            "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+            "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+        }
+    ],
+    "CVE-2026-10631": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-50055": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-93637": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-73571": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-93635": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2024-47575": [
+        {
+            "title": "Hackers Chain Fortinet Vulnerabilities to Deploy Memory-Resident Malware on Firewalls",
+            "link": "https://cyberpress.org/fortinet-firewalls-face-memory-malware/"
+        }
+    ],
+    "CVE-2025-61624": [
+        {
+            "title": "Hackers Chain Fortinet Vulnerabilities to Deploy Memory-Resident Malware on Firewalls",
+            "link": "https://cyberpress.org/fortinet-firewalls-face-memory-malware/"
+        }
+    ],
+    "CVE-2026-53562": [
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ],
+    "CVE-2026-53563": [
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ],
+    "CVE-2026-53564": [
+        {
+            "title": "Multiple Citrix UniconOS and XenServer Flaws Let Attackers Escalate Privileges and Compromise Hosts",
+            "link": "https://cyberpress.org/multiple-citrix-uniconos-and-xenserver-flaws/"
+        }
+    ]
+}

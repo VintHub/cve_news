@@ -1,0 +1,345 @@
+{
+    "CVE-2026-58138": [
+        {
+            "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-93387": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93373": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93377": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93380": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93382": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93386": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93376": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93378": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93384": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93372": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93381": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93375": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93383": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93374": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93379": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93385": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86060": [
+        {
+            "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login",
+            "link": "https://cybersecuritynews.com/mikrotrick-attack/"
+        },
+        {
+            "title": "MikroTik SSH Rekeying and Username Flaws Chain Into Unauthenticated RouterOS Admin Access",
+            "link": "https://cyberpress.org/mikrotik-flaws-enable-admin-access/"
+        }
+    ],
+    "CVE-2026-67279": [
+        {
+            "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login",
+            "link": "https://cybersecuritynews.com/mikrotrick-attack/"
+        },
+        {
+            "title": "MikroTik SSH Rekeying and Username Flaws Chain Into Unauthenticated RouterOS Admin Access",
+            "link": "https://cyberpress.org/mikrotik-flaws-enable-admin-access/"
+        }
+    ],
+    "CVE-2026-81000": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-74469": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-68121": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-80844": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-86863": [
+        {
+            "title": "Critical pgAdmin Authentication Bypass Lets Attackers Login as Administrator Without Credentials",
+            "link": "https://gbhackers.com/critical-pgadmin-authentication-bypass/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Agentic Ransomware Lets AI Agents Execute Cyberattacks Without Human Operators",
+            "link": "https://cyberpress.org/ai-ransomware-goes-autonomous/"
+        },
+        {
+            "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators",
+            "link": "https://cybersecuritynews.com/ai-agents-3/"
+        }
+    ],
+    "CVE-2026-78175": [
+        {
+            "title": "Tutor LMS PHP Object Injection Flaw Lets Attackers Plant Web Shells on WordPress Sites",
+            "link": "https://cyberpress.org/tutor-lms-enables-webshells/"
+        },
+        {
+            "title": "Tutor LMS Flaw Exposes 100,000+ WordPress Sites to Remote Code Execution",
+            "link": "https://cybersecuritynews.com/tutor-lms-flaw/"
+        }
+    ],
+    "CVE-2026-85889": [
+        {
+            "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+            "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
+        },
+        {
+            "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+        }
+    ],
+    "CVE-2026-20235": [
+        {
+            "title": "ZDI-26-718: Cisco Identity Services Engine MnTRESTLivelogService XML External Entity Processing Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-718/"
+        }
+    ],
+    "CVE-2026-20211": [
+        {
+            "title": "ZDI-26-717: Cisco Identity Services Engine AlarmMessageDiskQueue Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-717/"
+        }
+    ],
+    "CVE-2026-20176": [
+        {
+            "title": "ZDI-26-716: Cisco Identity Services Engine createDBLink Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-716/"
+        }
+    ],
+    "CVE-2026-19772": [
+        {
+            "title": "ZDI-26-715: Linux Mint Xreader PDF File Parsing Type Confusion Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-715/"
+        }
+    ],
+    "CVE-2024-33655": [
+        {
+            "title": "Unbound 1.26.1 Patches Critical RCE, DoS, and DNSSEC Flaws",
+            "link": "https://www.cysecurity.news/2026/09/unbound-1261-patches-critical-rce-dos.html"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "CISA Warns Attackers Are Exploiting Acronis Backup Flaw on Linux Servers",
+            "link": "https://www.esecurityplanet.com/news/news-acronis-backup-flaw-exploited/"
+        }
+    ],
+    "CVE-2026-87886": [
+        {
+            "title": "CISA Warns Attackers Are Exploiting Acronis Backup Flaw on Linux Servers",
+            "link": "https://www.esecurityplanet.com/news/news-acronis-backup-flaw-exploited/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-39964",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-39964"
+        }
+    ],
+    "CVE-2026-53266": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-53266",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-53266"
+        }
+    ],
+    "CVE-2026-77179": [
+        {
+            "title": "Docker Fixes Critical Sandboxes Flaw That Could Expose Host Files",
+            "link": "https://www.cysecurity.news/2026/09/docker-fixes-critical-sandboxes-flaw.html"
+        }
+    ],
+    "CVE-2026-79994": [
+        {
+            "title": "Docker Fixes Critical Sandboxes Flaw That Could Expose Host Files",
+            "link": "https://www.cysecurity.news/2026/09/docker-fixes-critical-sandboxes-flaw.html"
+        }
+    ],
+    "CVE-2026-58704": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
+    ],
+    "CVE-2026-76461": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        },
+        {
+            "title": "Cisco Secure Email Gateway Zero-Day Exploited for Root Command Execution",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-secure-email-gateway-cve-2026-76461/"
+        }
+    ],
+    "CVE-2026-27540": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
+    ],
+    "CVE-2026-76460": [
+        {
+            "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues"
+        }
+    ],
+    "CVE-2026-85885": [
+        {
+            "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+        }
+    ],
+    "CVE-2026-85878": [
+        {
+            "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+        }
+    ],
+    "CVE-2023-22515": [
+        {
+            "title": "Feral Wolf Ransomware Attacks Exploit Atlassian Confluence and Misconfigured 1C Systems",
+            "link": "https://cybersecuritynews.com/feral-wolf-ransomware/"
+        }
+    ],
+    "CVE-2026-24858": [
+        {
+            "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators",
+            "link": "https://cybersecuritynews.com/ai-agents-3/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-39682": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-39682",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-39682"
+        }
+    ]
+}

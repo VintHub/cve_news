@@ -1,0 +1,314 @@
+{
+    "CVE-2026-50656": [
+        {
+            "title": "Microsoft Defender Update Causes Quick and Full Virus Scans to Crash",
+            "link": "https://cyberpress.org/microsoft-defender-update-causes-quick/"
+        }
+    ],
+    "CVE-2026-32475": [
+        {
+            "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+            "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Critical Zimbra RCE Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/zimbra-rce-vulnerability-exploited/"
+        },
+        {
+            "title": "Zimbra RCE Vulnerability Lets Remote Attackers Execute System Commands",
+            "link": "https://gbhackers.com/zimbra-rce-vulnerability/"
+        },
+        {
+            "title": "Critical Zimbra OS Command Injection Vulnerability Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-zimbra-os-command-injection-vulnerability/"
+        },
+        {
+            "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html"
+        },
+        {
+            "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+            "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/"
+        }
+    ],
+    "CVE-2026-19489": [
+        {
+            "title": "Critical Citrix NetScaler Authentication Bypass Flaw Exposes Gateway Appliances",
+            "link": "https://cyberpress.org/critical-citrix-netscaler-authentication-bypass-flaw/"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Critical Citrix NetScaler Authentication Bypass Flaw Exposes Gateway Appliances",
+            "link": "https://cyberpress.org/critical-citrix-netscaler-authentication-bypass-flaw/"
+        },
+        {
+            "title": "Critical Citrix NetScaler Flaw Allows Attackers to Bypass Authentication",
+            "link": "https://gbhackers.com/critical-citrix-netscaler-flaw/"
+        }
+    ],
+    "CVE-2026-57580": [
+        {
+            "title": "Claude AI Finds SAML Security Flaws That Can Let Attackers Take Over Accounts",
+            "link": "https://cybersecuritynews.com/claude-ai-finds-saml-security-flaws/"
+        },
+        {
+            "title": "Claude AI Finds Full Authentication Bypasses Across Multiple SAML Libraries",
+            "link": "https://cyberpress.org/claude-ai-finds-full-authentication-bypasses/"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
+            "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/"
+        },
+        {
+            "title": "GitLab Released GraphQL Vulnerability (CVE-2026-19478) Emergency Patch",
+            "link": "https://hackersonlineclub.com/gitlab-released-graphql-vulnerability-patch/"
+        }
+    ],
+    "CVE-2026-76392": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76391": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76396": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76394": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76402": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76405": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76397": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76398": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76403": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76400": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76399": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76390": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76395": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76401": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76404": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76393": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76389": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-41472": [
+        {
+            "title": "CyberPanel Pre-Auth RCE Flaws Let Attackers Gain Remote Server Access",
+            "link": "https://gbhackers.com/cyberpanel-pre-auth-rce-flaws/"
+        },
+        {
+            "title": "CyberPanel Pre-Auth RCE Chain Lets Attackers Gain Server Shell via AI Scanner Flaws",
+            "link": "https://cybersecuritynews.com/cyberpanel-pre-auth-rce-chain-gain-server-shell/"
+        },
+        {
+            "title": "CyberPanel Flaws Chain Authentication Bypass and Stored XSS Into Remote Code Execution",
+            "link": "https://cyberpress.org/cyberpanel-flaws-chain-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-41473": [
+        {
+            "title": "CyberPanel Pre-Auth RCE Flaws Let Attackers Gain Remote Server Access",
+            "link": "https://gbhackers.com/cyberpanel-pre-auth-rce-flaws/"
+        },
+        {
+            "title": "CyberPanel Pre-Auth RCE Chain Lets Attackers Gain Server Shell via AI Scanner Flaws",
+            "link": "https://cybersecuritynews.com/cyberpanel-pre-auth-rce-chain-gain-server-shell/"
+        },
+        {
+            "title": "CyberPanel Flaws Chain Authentication Bypass and Stored XSS Into Remote Code Execution",
+            "link": "https://cyberpress.org/cyberpanel-flaws-chain-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-63182": [
+        {
+            "title": "Claude AI Finds Full Authentication Bypasses Across Multiple SAML Libraries",
+            "link": "https://cyberpress.org/claude-ai-finds-full-authentication-bypasses/"
+        }
+    ],
+    "CVE-2026-64849": [
+        {
+            "title": "U.S. CISA adds an MLflow flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197558/hacking/u-s-cisa-adds-a-mlflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-66794": [
+        {
+            "title": "Red Hat Kubernetes Flaw Lets Unauthenticated Attackers Access Internal Cluster Services",
+            "link": "https://gbhackers.com/red-hat-kubernetes-flaw-2/"
+        },
+        {
+            "title": "Critical Red Hat Kubernetes SSRF Flaw Exposes Internal Services Across Managed Clusters",
+            "link": "https://cybersecuritynews.com/red-hat-kubernetes-ssrf-flaw/"
+        },
+        {
+            "title": "Red Hat Kubernetes SSRF Vulnerability Exposes Internal Managed Cluster Services",
+            "link": "https://cyberpress.org/red-hat-kubernetes-ssrf-vulnerability/"
+        }
+    ],
+    "CVE-2026-20320": [
+        {
+            "title": "Cisco BroadWorks Vulnerability Allows Remote Attackers to Access Sensitive Files",
+            "link": "https://gbhackers.com/cisco-broadworks-vulnerability/"
+        },
+        {
+            "title": "Cisco External Entity Injection Vulnerability Allows Attackers to Read Sensitive Data",
+            "link": "https://cybersecuritynews.com/cisco-external-entity-injection-vulnerability/"
+        },
+        {
+            "title": "Cisco BroadWorks XXE Flaw Allows Unauthenticated Remote File Disclosure",
+            "link": "https://cyberpress.org/cisco-broadworks-xxe-flaw/"
+        }
+    ],
+    "CVE-2026-6837": [
+        {
+            "title": "Zyxel Patches Command Injection Flaw in 18 Access Points Allowing Root OS Command Execution",
+            "link": "https://cybersecuritynews.com/zyxel-patches-command-injection-flaw/"
+        }
+    ],
+    "CVE-2025-59536": [
+        {
+            "title": "Anthropic\u2019s Stubborn Stand on AGENTS.md Leaves Claude Code Developers Frustrated",
+            "link": "https://www.webpronews.com/anthropics-stubborn-stand-on-agents-md-leaves-claude-code-developers-frustrated/"
+        }
+    ],
+    "CVE-2026-21852": [
+        {
+            "title": "Anthropic\u2019s Stubborn Stand on AGENTS.md Leaves Claude Code Developers Frustrated",
+            "link": "https://www.webpronews.com/anthropics-stubborn-stand-on-agents-md-leaves-claude-code-developers-frustrated/"
+        }
+    ],
+    "CVE-2026-39861": [
+        {
+            "title": "Anthropic\u2019s Stubborn Stand on AGENTS.md Leaves Claude Code Developers Frustrated",
+            "link": "https://www.webpronews.com/anthropics-stubborn-stand-on-agents-md-leaves-claude-code-developers-frustrated/"
+        }
+    ],
+    "CVE-2026-72530": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-72530",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-72530"
+        }
+    ],
+    "CVE-2026-72529": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-72529",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-72529"
+        }
+    ],
+    "CVE-2026-20825": [
+        {
+            "title": "Windows\u2019 Hidden Hypervisor: Why Most Pro Users Ignore the Type-1 Engine Running Beneath Their OS",
+            "link": "https://www.webpronews.com/windows-hidden-hypervisor-why-most-pro-users-ignore-the-type-1-engine-running-beneath-their-os/"
+        }
+    ],
+    "CVE-2026-50256": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-56000": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-55999": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-50263": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-60112": [
+        {
+            "title": "Critical NASA AIT-GUI Flaw Lets Unauthenticated Attackers Issue Spacecraft Commands",
+            "link": "https://cybersecuritynews.com/nasa-ait-gui-flaw/"
+        }
+    ]
+}

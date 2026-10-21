@@ -1,0 +1,112 @@
+{
+    "CVE-2026-99999": [
+        {
+            "title": "IT Security News Roundup: 2026-10-19 Overnight",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-19-overnight/"
+        },
+        {
+            "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+            "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "ConnectWise backup app breaches 173 Microsoft tenants, Chinese spies exploit BeyondTrust zero-day, Japan declares first cyber state of emergency",
+            "link": "https://cybersecuritytoday.libsyn.com/connectwise-backup-app-breaches-173-microsoft-tenants-chinese-spies-exploit-beyondtrust-zero-day-japan-declares-first-cyber-state-of-emergency"
+        }
+    ],
+    "CVE-2026-96654": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-96656": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-96655": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-96652": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-106931": [
+        {
+            "title": "Japan\u2019s SiteGuard WAF flaw CVE-2026-106931 is already being exploited",
+            "link": "https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html"
+        },
+        {
+            "title": "CVE-2026-106931 SiteGuard WAF Flaw Exploited: Save Evidence Before Patching",
+            "link": "https://www.esecurityplanet.com/vulnerabilities/news-cve-2026-106931-siteguard-waf-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SiteGuard WAF Vulnerability That Could Give Them Full Control of Servers",
+            "link": "https://cybersecuritynews.com/hackers-exploit-siteguard-waf-vulnerability/"
+        },
+        {
+            "title": "SiteGuard Warns Patching Actively Exploited Security Flaw Could Erase Evidence of Attacks",
+            "link": "https://gbhackers.com/siteguard-warns-patching/"
+        }
+    ],
+    "CVE-2026-81376": [
+        {
+            "title": "Microsoft Pays Researcher $4,000 for Discovering Critical VS Code Security Bypass Flaw",
+            "link": "https://gbhackers.com/critical-vs-code-security-bypass-flaw/"
+        }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+            "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+        }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+            "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+            "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+        }
+    ],
+    "CVE-2026-108097": [
+        {
+            "title": "Critical Drupal RCE Vulnerability Could Let Attackers Take Over Websites Without Authentication",
+            "link": "https://cybersecuritynews.com/drupal-rce-vulnerability/"
+        },
+        {
+            "title": "Drupal Warns Critical RCE Flaw Could Let Unauthenticated Attackers Compromise Websites",
+            "link": "https://gbhackers.com/drupal-warns-critical-rce-flaw/"
+        }
+    ],
+    "CVE-2026-104622": [
+        {
+            "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
+            "link": "https://cybersecuritynews.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/"
+        }
+    ],
+    "CVE-2026-104621": [
+        {
+            "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
+            "link": "https://cybersecuritynews.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
+            "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
+        }
+    ]
+}

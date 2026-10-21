@@ -1,0 +1,78 @@
+{
+    "CVE-2026-88772": [
+        {
+            "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+            "link": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited",
+            "link": "https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/"
+        }
+    ],
+    "CVE-2026-90970": [
+        {
+            "title": "Security Affairs newsletter Round 598 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+            "link": "https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html"
+        }
+    ],
+    "CVE-2026-54472": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2021-21551": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-22769": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-67273": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-61421": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-63692": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-63688": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-67269": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-88779",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-88779"
+        },
+        {
+            "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
+        }
+    ]
+}

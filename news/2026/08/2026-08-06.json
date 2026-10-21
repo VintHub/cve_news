@@ -1,0 +1,164 @@
+{
+    "CVE-2026-20304": [
+        {
+            "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
+        }
+    ],
+    "CVE-2026-20303": [
+        {
+            "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
+        }
+    ],
+    "CVE-2026-20310": [
+        {
+            "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
+        }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+            "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html"
+        },
+        {
+            "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+            "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/"
+        },
+        {
+            "title": "U.S. CISA adds a JetBrains TeamCity flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-jetbrains-teamcity-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        },
+        {
+            "title": "CISA Alerts Issues on Actively Exploited TeamCity Remote Code Execution Vulnerability",
+            "link": "https://www.itsecuritynews.info/cisa-alerts-issues-on-actively-exploited-teamcity-remote-code-execution-vulnerability/"
+        }
+    ],
+    "CVE-2026-20272": [
+        {
+            "title": "Cisco Patches 7 IOS XE Vulnerability Classes, Including Critical Command Injection Flaws",
+            "link": "https://www.itsecuritynews.info/cisco-patches-7-ios-xe-vulnerability-classes-including-critical-command-injection-flaws/"
+        }
+    ],
+    "CVE-2026-20200": [
+        {
+            "title": "Critical Cisco IMC bug gives attackers root, PoC is out (CVE-2026-20200)",
+            "link": "https://www.helpnetsecurity.com/2026/08/06/cisco-imc-cve-2026-20200-public-poc-exploit/"
+        }
+    ],
+    "CVE-2026-70426": [
+        {
+            "title": "Critical Jenkins Deserialization Flaw Allows Attackers to Execute Code on Controllers",
+            "link": "https://www.itsecuritynews.info/critical-jenkins-deserialization-flaw-allows-attackers-to-execute-code-on-controllers/"
+        }
+    ],
+    "CVE-2026-64561": [
+        {
+            "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+            "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-41679": [
+        {
+            "title": "Critical Paperclip AI Flaws Enable Unauthenticated RCE and Agent Takeover",
+            "link": "https://cyberpress.org/critical-paperclip-ai-flaws/"
+        }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Apple Rushes macOS Patches Across Three Versions to Fix Screen Sharing Authentication Bypass",
+            "link": "https://www.webpronews.com/apple-rushes-macos-patches-across-three-versions-to-fix-screen-sharing-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Rushes macOS Patches Across Three Versions to Fix Screen Sharing Authentication Bypass",
+            "link": "https://www.webpronews.com/apple-rushes-macos-patches-across-three-versions-to-fix-screen-sharing-authentication-bypass/"
+        }
+    ],
+    "CVE-2025-9289": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15627": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15544": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-7850": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2024-21827": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15631": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-7851": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-12935": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-3227": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-9293": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15517": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-12001": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-41234": [
+        {
+            "title": "Critical RCE Vulnerability (CVE-2026-41234) in Gitea 1.21\u20131.22.2 Allows Unauthenticated Remote Code Execution",
+            "link": "https://www.webpronews.com/critical-rce-vulnerability-cve-2026-41234-in-gitea-1-21-1-22-2-allows-unauthenticated-remote-code-execution/"
+        }
+    ],
+    "CVE-2023-20569": [
+        {
+            "title": "Linux Spectre Defenses Can Be Bypassed by Precisely Timed Interrupts, Researchers Find",
+            "link": "https://www.cysecurity.news/2026/08/linux-spectre-defenses-can-be-bypassed.html"
+        }
+    ]
+}

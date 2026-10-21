@@ -1,0 +1,206 @@
+{
+    "CVE-2026-69836": [
+        {
+            "title": "Microsoft patches perfect-ten Entra ID flaw, Defender driver deletes Defender at boot, Malware turns cars into proxy botnet",
+            "link": "https://cybersecuritytoday.libsyn.com/microsoft-patches-perfect-ten-entra-id-flaw-defender-driver-deletes-defender-at-boot-malware-turns-cars-into-proxy-botnet"
+        }
+    ],
+    "CVE-2026-19598": [
+        {
+            "title": "Critical WordPress Pods Flaw Lets Unauthenticated Attackers Gain Admin Access",
+            "link": "https://gbhackers.com/critical-wordpress-pods-flaw/"
+        },
+        {
+            "title": "Critical WordPress Pods Flaw Lets Unauthenticated Attackers Gain Admin Access",
+            "link": "https://cyberpress.org/critical-wordpress-pods-flaw/"
+        },
+        {
+            "title": "WordPress Plugin Vulnerability Exposes 100,000 Sites to Complete Site Takeover Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-everest-forms-plugin-flaw/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Actively Exploited Zimbra Flaw Lets Unauthenticated Attackers Execute Shell Commands",
+            "link": "https://cyberpress.org/actively-exploited-zimbra-flaw/"
+        },
+        {
+            "title": "Zimbra Collaboration Suite Flaw Actively Exploited to Execute Arbitrary Commands",
+            "link": "https://gbhackers.com/zimbra-collaboration-suite-flaw/"
+        },
+        {
+            "title": "Zimbra Collaboration Suite Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/zimbra-collaboration-suite-vulnerability-exploited/"
+        },
+        {
+            "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch"
+        }
+    ],
+    "CVE-2026-18963": [
+        {
+            "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+            "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
+        },
+        {
+            "title": "Critical Keycloak Vulnerability (CVE-2026-18963) Enables Account Takeover via Password Reset Bypass",
+            "link": "https://www.webpronews.com/critical-keycloak-vulnerability-cve-2026-18963-enables-account-takeover-via-password-reset-bypass/"
+        }
+    ],
+    "CVE-2026-21962": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-21962",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-21962"
+        }
+    ],
+    "CVE-2026-50508": [
+        {
+            "title": "ZDI-26-605: Microsoft Windows Localized Filenames Improper Input Validation NTLM Response Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-605/"
+        }
+    ],
+    "CVE-2026-13126": [
+        {
+            "title": "ZDI-26-604: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-604/"
+        }
+    ],
+    "CVE-2026-13127": [
+        {
+            "title": "ZDI-26-603: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-603/"
+        }
+    ],
+    "CVE-2026-13128": [
+        {
+            "title": "ZDI-26-602: Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-602/"
+        }
+    ],
+    "CVE-2026-13129": [
+        {
+            "title": "ZDI-26-601: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-601/"
+        }
+    ],
+    "CVE-2026-57237": [
+        {
+            "title": "ZDI-26-600: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-600/"
+        }
+    ],
+    "CVE-2026-57238": [
+        {
+            "title": "ZDI-26-599: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-599/"
+        }
+    ],
+    "CVE-2026-57242": [
+        {
+            "title": "ZDI-26-598: Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-598/"
+        }
+    ],
+    "CVE-2026-57252": [
+        {
+            "title": "ZDI-26-597: Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-597/"
+        }
+    ],
+    "CVE-2026-57253": [
+        {
+            "title": "ZDI-26-596: Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-596/"
+        }
+    ],
+    "CVE-2026-57254": [
+        {
+            "title": "ZDI-26-595: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-595/"
+        }
+    ],
+    "CVE-2026-24251": [
+        {
+            "title": "ZDI-26-594: NVIDIA Megatron Bridge load_model_config Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-594/"
+        }
+    ],
+    "CVE-2026-24268": [
+        {
+            "title": "ZDI-26-593: NVIDIA TensorRT ONNX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-593/"
+        }
+    ],
+    "CVE-2026-24238": [
+        {
+            "title": "ZDI-26-592: NVIDIA TensorRT ONNX File Parsing Improper Validation of Array Index Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-592/"
+        }
+    ],
+    "CVE-2026-24272": [
+        {
+            "title": "ZDI-26-591: NVIDIA TensorRT ONNX File Parsing  Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-591/"
+        }
+    ],
+    "CVE-2026-19773": [
+        {
+            "title": "ZDI-26-590: libwebsockets HTTP/2 HPACK Path Header Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-590/"
+        }
+    ],
+    "CVE-2026-19774": [
+        {
+            "title": "ZDI-26-589: BlueZ A2DP Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-589/"
+        }
+    ],
+    "CVE-2026-19504": [
+        {
+            "title": "ZDI-26-588: Fabric.js loadFromJSON Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-588/"
+        }
+    ],
+    "CVE-2026-19781": [
+        {
+            "title": "ZDI-26-587: Ashlar-Vellum Cobalt VS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-587/"
+        }
+    ],
+    "CVE-2026-19886": [
+        {
+            "title": "ZDI-26-586: OriginLab Origin Viewer OGM File Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-586/"
+        }
+    ],
+    "CVE-2026-19885": [
+        {
+            "title": "ZDI-26-585: OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-585/"
+        }
+    ],
+    "CVE-2026-64715": [
+        {
+            "title": "ZDI-26-610: Apple Safari JavaScriptCore B3 ReduceStrength Phase Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-610/"
+        }
+    ],
+    "CVE-2026-0163": [
+        {
+            "title": "Google Pixel August Update Fixes High-Severity Security Flaw",
+            "link": "https://www.esecurityplanet.com/cybersecurity-threats/news-google-pixel-august-2026-security-update-flaw/"
+        }
+    ],
+    "CVE-2026-72529": [
+        {
+            "title": "CISA Orders Civilian Agencies to Patch Exploited TrueConf Server Flaws",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-cisa-trueconf-server-flaws-patch-order/"
+        }
+    ],
+    "CVE-2026-72530": [
+        {
+            "title": "CISA Orders Civilian Agencies to Patch Exploited TrueConf Server Flaws",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-cisa-trueconf-server-flaws-patch-order/"
+        }
+    ]
+}

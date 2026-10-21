@@ -1,0 +1,147 @@
+{
+    "CVE-2026-105032": [
+        {
+            "title": "Cute Robot Toy Exposes Millions of Private Chats and Children\u2019s Profiles on Unprotected Chinese Servers",
+            "link": "https://www.webpronews.com/cute-robot-toy-exposes-millions-of-private-chats-and-childrens-profiles-on-unprotected-chinese-servers/"
+        }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "IT Security News Roundup: 2026-10-17 Morning",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-17-morning/"
+        },
+        {
+            "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Backup Servers Under Siege: How Two AhsayCBS Flaws Let Attackers Drop Webshells and Mine Crypto",
+            "link": "https://www.webpronews.com/backup-servers-under-siege-how-two-ahsaycbs-flaws-let-attackers-drop-webshells-and-mine-crypto/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Backup Servers Under Siege: How Two AhsayCBS Flaws Let Attackers Drop Webshells and Mine Crypto",
+            "link": "https://www.webpronews.com/backup-servers-under-siege-how-two-ahsaycbs-flaws-let-attackers-drop-webshells-and-mine-crypto/"
+        }
+    ],
+    "CVE-2026-105740": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-0768": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-105697": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-51886": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "Hackers Exploit Critical WordPress Flaws to Execute Remote Code Without Authentication",
+            "link": "https://cyberpress.org/critical-wordpress-flaws/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "Hackers Exploit Critical WordPress Flaws to Execute Remote Code Without Authentication",
+            "link": "https://cyberpress.org/critical-wordpress-flaws/"
+        }
+    ],
+    "CVE-2025-41450": [
+        {
+            "title": "Cyber Attack Disrupts Refrigeration Systems at 700 French Supermarkets, Triggering Food Waste and Fires",
+            "link": "https://www.cysecurity.news/2026/10/cyber-attack-disrupts-refrigeration.html"
+        }
+    ],
+    "CVE-2025-41451": [
+        {
+            "title": "Cyber Attack Disrupts Refrigeration Systems at 700 French Supermarkets, Triggering Food Waste and Fires",
+            "link": "https://www.cysecurity.news/2026/10/cyber-attack-disrupts-refrigeration.html"
+        }
+    ],
+    "CVE-2026-110914": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110916": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110917": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110920": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110921": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110913": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110922": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110915": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110919": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110918": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-66208": [
+        {
+            "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/"
+        }
+    ]
+}

@@ -1,0 +1,744 @@
+{
+    "CVE-2026-10702": [
+        {
+            "title": "Hackers Can Compromise Tor Browser Users by Exploiting Firefox JIT Flaw",
+            "link": "https://gbhackers.com/hackers-can-compromise-tor-browser-users/"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Critical Rails Flaw Lets Unauthenticated Attackers Read Server Files and Execute Code",
+            "link": "https://gbhackers.com/critical-rails-flaw/"
+        },
+        {
+            "title": "Critical Rails Flaw Lets Attackers Read Arbitrary Files and Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/critical-rails-vulnerability/"
+        },
+        {
+            "title": "CVE-2026-66066: Defending Against the \u201cKindaRails2Shell\u201d Pre-Auth RCE",
+            "link": "https://www.itsecuritynews.info/cve-2026-66066-defending-against-the-kindarails2shell-pre-auth-rce/"
+        }
+    ],
+    "CVE-2026-20316": [
+        {
+            "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+            "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html"
+        },
+        {
+            "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/"
+        },
+        {
+            "title": "Cisco Firewall Management Center 0-Day Actively Exploited to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/cisco-firewall-management-center-0-day/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Cisco FMC Zero-Day Exposing Sensitive Data",
+            "link": "https://cyberpress.org/cisa-warns-cisco-fmc-zero-day/"
+        },
+        {
+            "title": "U.S. CISA adds a Cisco Secure Firewall Management Center (FMC) flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-cisco-secure-firewall-management-center-fmc-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        },
+        {
+            "title": "Cisco FMC static credentials exploited by attackers (CVE-2026-20316)",
+            "link": "https://www.helpnetsecurity.com/2026/07/30/cisco-fmc-cve-2026-20316-exploited/"
+        },
+        {
+            "title": "CISA Adds Cisco Secure Firewall Management Flaw to Exploited Vulnerabilities List",
+            "link": "https://gbhackers.com/cisa-adds-cisco-secure-firewall-management-flaw/"
+        },
+        {
+            "title": "CISA Warns of Cisco Secure Firewall Management 0-Day Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisco-secure-firewall-management-0-day/"
+        }
+    ],
+    "CVE-2026-56850": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58042": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58043": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58040": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-56846": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58044": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-56848": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58045": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-56847": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58041": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58039": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-42897": [
+        {
+            "title": "TA488 May Have Exploited Outlook Web Access 0-Day Flaw Before Microsoft\u2019s Emergency Patch",
+            "link": "https://cybersecuritynews.com/ta488-exploited-outlook-web-access-0-day-flaw/"
+        },
+        {
+            "title": "TA488 Exploits CVE-2026-42897 Outlook Flaw to Deploy OWAReaper Backdoor",
+            "link": "https://cyberpress.org/ta488-deploys-owareaper-backdoor/"
+        },
+        {
+            "title": "Laundry Bear\u2019s new Microsoft Exchange attack triggers on email open (CVE-2026-42897)",
+            "link": "https://www.helpnetsecurity.com/2026/07/30/cve-2026-42897-microsoft-exchange-email-attack/"
+        }
+    ],
+    "CVE-2026-6336": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15831": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2025-14562": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-12436": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-13113": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-6267": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-16553": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-3093": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15975": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-14351": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-14341": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15077": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-4672": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-17684": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17663": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17696": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17682": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17692": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17666": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17695": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17662": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17652": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17708": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17650": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17681": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17693": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17679": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17686": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17659": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17866": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17661": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17687": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17654": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17673": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17660": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17668": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17690": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17688": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17680": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17685": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17667": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17683": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17697": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17691": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17694": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17670": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17651": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17698": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17676": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17657": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17655": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17677": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17678": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17669": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17671": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17672": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17675": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17664": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17658": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17656": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17653": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
+        }
+    ],
+    "CVE-2026-17689": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17665": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17674": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-55977": [
+        {
+            "title": "EShare App Vulnerability CVE-2026-55977",
+            "link": "https://www.itsecuritynews.info/eshare-app-vulnerability-cve-2026-55977-2/"
+        }
+    ],
+    "CVE-2026-24858": [
+        {
+            "title": "CosmosEscape Flaw Enabled Cross-Tenant Takeover of Azure Cosmos DB Accounts",
+            "link": "https://cyberpress.org/cosmosescape-flaw-enabled-azure-cosmos-db-takeover/"
+        }
+    ],
+    "CVE-2026-15679": [
+        {
+            "title": "ZDI-26-523: Hugging Face PyTorch Image Models checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-523/"
+        }
+    ],
+    "CVE-2026-41032": [
+        {
+            "title": "ZDI-26-522: Phoenix Contact CHARX SEC-3000 Insertion of Sensitive Information into Log File Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-522/"
+        }
+    ],
+    "CVE-2026-44095": [
+        {
+            "title": "ZDI-26-521: Phoenix Contact CHARX SEC-3000 Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-521/"
+        },
+        {
+            "title": "ZDI-26-508: (Pwn2Own) Phoenix Contact CHARX SEC-3150 charx_set_ip_address Improper Input Validation Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-508/"
+        }
+    ],
+    "CVE-2026-44103": [
+        {
+            "title": "ZDI-26-520: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Jupicore External Control of Path Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-520/"
+        }
+    ],
+    "CVE-2026-44099": [
+        {
+            "title": "ZDI-26-519: (Pwn2Own) Phoenix Contact CHARX SEC-3150 CharxSystemConfigManager Configuration Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-519/"
+        }
+    ],
+    "CVE-2026-44091": [
+        {
+            "title": "ZDI-26-518: (Pwn2Own) Phoenix Contact CHARX SEC-3150 MQTT Service Server-Side Request Forgery Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-518/"
+        }
+    ],
+    "CVE-2026-44098": [
+        {
+            "title": "ZDI-26-517: (Pwn2Own) Phoenix Contact CHARX SEC-3150 BackendURL WebSocket Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-517/"
+        }
+    ],
+    "CVE-2026-44090": [
+        {
+            "title": "ZDI-26-516: (Pwn2Own) Phoenix Contact CHARX SEC-3150 ModBus Server Exposed Dangerous Function Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-516/"
+        }
+    ],
+    "CVE-2026-44100": [
+        {
+            "title": "ZDI-26-515: (Pwn2Own) Phoenix Contact CHARX SEC-3150 charx-jupicore Missing Authentication Configuration Modification Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-515/"
+        }
+    ],
+    "CVE-2026-44094": [
+        {
+            "title": "ZDI-26-514: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Failing Open Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-514/"
+        }
+    ],
+    "CVE-2026-44097": [
+        {
+            "title": "ZDI-26-513: (Pwn2Own) Phoenix Contact CHARX SEC-3150 update2-upload Arbitrary File Upload Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-513/"
+        }
+    ],
+    "CVE-2026-44107": [
+        {
+            "title": "ZDI-26-512: (Pwn2Own) Phoenix Contact CHARX SEC-3150 ModBus Server Exposed Dangerous Function Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-512/"
+        }
+    ],
+    "CVE-2026-44093": [
+        {
+            "title": "ZDI-26-511: (Pwn2Own) Phoenix Contact CHARX SEC-3150 user-applications Symlink Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-511/"
+        }
+    ],
+    "CVE-2026-44104": [
+        {
+            "title": "ZDI-26-510: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Missing Cryptographic Signature Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-510/"
+        }
+    ],
+    "CVE-2026-44101": [
+        {
+            "title": "ZDI-26-509: (Pwn2Own) Phoenix Contact CHARX SEC-3150 OCPP Missing Authentication for Critical Function Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-509/"
+        }
+    ],
+    "CVE-2026-44096": [
+        {
+            "title": "ZDI-26-507: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Privilege Defined With Unsafe Actions Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-507/"
+        }
+    ],
+    "CVE-2026-44105": [
+        {
+            "title": "ZDI-26-506: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Insertion of Sensitive Information into Log File Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-506/"
+        }
+    ],
+    "CVE-2026-44092": [
+        {
+            "title": "ZDI-26-505: (Pwn2Own) Phoenix Contact CHARX SEC-3150 charx-system-config-manager Service CRLF Injection Firewall Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-505/"
+        }
+    ],
+    "CVE-2026-7849": [
+        {
+            "title": "ZDI-26-504: (Pwn2Own) Phoenix Contact CHARX SEC-3150 CharxSystemConfigManager Configuration Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-504/"
+        }
+    ],
+    "CVE-2026-44108": [
+        {
+            "title": "ZDI-26-503: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Race Condition Firewall Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-503/"
+        }
+    ],
+    "CVE-2026-44106": [
+        {
+            "title": "ZDI-26-502: (Pwn2Own) Phoenix Contact CHARX SEC-3150 user-applications Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-502/"
+        }
+    ],
+    "CVE-2026-5027": [
+        {
+            "title": "Hackers Are Exploiting Nearly One in Four Vulnerabilities Before Defenders Get a CVE",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-one-in-four-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0769": [
+        {
+            "title": "Hackers Are Exploiting Nearly One in Four Vulnerabilities Before Defenders Get a CVE",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-one-in-four-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "The Patchpocalypse Has Arrived: Why Isolation Beats Racing Against Machine-Speed Attacks",
+            "link": "https://www.webpronews.com/the-patchpocalypse-has-arrived-why-isolation-beats-racing-against-machine-speed-attacks/"
+        }
+    ]
+}

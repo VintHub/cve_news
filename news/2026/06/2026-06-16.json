@@ -1,0 +1,228 @@
+{
+    "CVE-2026-20262": [
+        {
+            "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+            "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
+        },
+        {
+            "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
+            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/"
+        },
+        {
+            "title": "Cisco SD-WAN vManage Vulnerability Exploited in Zero-Day Attacks",
+            "link": "https://cybersecuritynews.com/cisco-sd-wan-vmanage-vulnerability-exploit/"
+        },
+        {
+            "title": "Cisco discloses second exploited SD-WAN vulnerability in two weeks (CVE-2026-20262)",
+            "link": "https://www.helpnetsecurity.com/2026/06/16/cisco-sd-wan-cve-2026-20262-exploited/"
+        },
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
+        }
+    ],
+    "CVE-2026-54420": [
+        {
+            "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
+            "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html"
+        },
+        {
+            "title": "LiteSpeed cPanel Plugin 0-Day Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/litespeed-cpanel-plugin-0-day-vulnerability-exploit/"
+        },
+        {
+            "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/"
+        }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "Nearly 14,000 SimpleHelp Servers Exposed Amid Critical Authentication Bypass Disclosure",
+            "link": "https://cybersecuritynews.com/simplehelp-servers-exposed-authentication-bypass-disclosure/"
+        },
+        {
+            "title": "SimpleHelp RMM flaw could give attackers full access to managed endpoints (CVE-2026-48558)",
+            "link": "https://www.helpnetsecurity.com/2026/06/16/simplehelp-rmm-cve-2026-48558/"
+        }
+    ],
+    "CVE-2026-42824": [
+        {
+            "title": "Critical SearchLeak Vulnerability Lets Attackers Steal Emails, MFA Codes, and Files via Microsoft 365 Copilot",
+            "link": "https://cyberpress.org/critical-searchleak-vulnerability/"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-fortinet-fortisandbox-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Fortinet FortiSandbox Flaws in Active Attacks",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-fortinet-fortisandbox-flaws-in-active-attacks/"
+        },
+        {
+            "title": "Attackers are exploiting FortiSandbox vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/06/16/fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808-cve-2026-25089/"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerabilities-exploit/"
+        }
+    ],
+    "CVE-2026-39813": [
+        {
+            "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-fortinet-fortisandbox-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Fortinet FortiSandbox Flaws in Active Attacks",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-fortinet-fortisandbox-flaws-in-active-attacks/"
+        },
+        {
+            "title": "Attackers are exploiting FortiSandbox vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/06/16/fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808-cve-2026-25089/"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerabilities-exploit/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-fortinet-fortisandbox-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Fortinet FortiSandbox Flaws in Active Attacks",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-fortinet-fortisandbox-flaws-in-active-attacks/"
+        },
+        {
+            "title": "Attackers are exploiting FortiSandbox vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/06/16/fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808-cve-2026-25089/"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerabilities-exploit/"
+        }
+    ],
+    "CVE-2026-20131": [
+        {
+            "title": "Interlock and Rhysida Ransomware Operations Share Supper Backdoor and Malware Codebase",
+            "link": "https://cybersecuritynews.com/interlock-and-rhysida-ransomware-operations/"
+        }
+    ],
+    "CVE-2023-36036": [
+        {
+            "title": "Interlock and Rhysida Ransomware Operations Share Supper Backdoor and Malware Codebase",
+            "link": "https://cybersecuritynews.com/interlock-and-rhysida-ransomware-operations/"
+        }
+    ],
+    "CVE-2025-61155": [
+        {
+            "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
+            "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        },
+        {
+            "title": "Hackers Weaponize Microsoft Teams Relay to Hide Ransomware Traffic",
+            "link": "https://cybersecuritynews.com/microsoft-teams-relay-abused/"
+        }
+    ],
+    "CVE-2023-52271": [
+        {
+            "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
+            "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        },
+        {
+            "title": "Hackers Weaponize Microsoft Teams Relay to Hide Ransomware Traffic",
+            "link": "https://cybersecuritynews.com/microsoft-teams-relay-abused/"
+        }
+    ],
+    "CVE-2025-1055": [
+        {
+            "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
+            "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        },
+        {
+            "title": "Hackers Weaponize Microsoft Teams Relay to Hide Ransomware Traffic",
+            "link": "https://cybersecuritynews.com/microsoft-teams-relay-abused/"
+        }
+    ],
+    "CVE-2025-11694": [
+        {
+            "title": "Rockwell Automation CompactLogix",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-compactlogix/"
+        }
+    ],
+    "CVE-2026-9307": [
+        {
+            "title": "Rockwell Automation CompactLogix",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-compactlogix/"
+        }
+    ],
+    "CVE-2025-14272": [
+        {
+            "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-factorytalk-analytics-pavilionx/"
+        }
+    ],
+    "CVE-2026-0646": [
+        {
+            "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-flex-i-o-ethernet-ip-adapters/"
+        }
+    ],
+    "CVE-2026-0647": [
+        {
+            "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-flex-i-o-ethernet-ip-adapters/"
+        }
+    ],
+    "CVE-2020-13573": [
+        {
+            "title": "Rockwell Automation RSLinx",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-rslinx/"
+        }
+    ],
+    "CVE-2026-11317": [
+        {
+            "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-logix-5370-5570-controllers-vulnerable-to-denial-of-service-via-cip/"
+        }
+    ],
+    "CVE-2026-48907": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48907",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48907"
+        }
+    ],
+    "CVE-2022-20775": [
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
+        }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
+        }
+    ]
+}

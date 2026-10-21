@@ -1,0 +1,410 @@
+{
+    "CVE-2026-16812": [
+        {
+            "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+            "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html"
+        },
+        {
+            "title": "Hackers Exploiting Arista VeloCloud Orchestrator 0-Day Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/arista-velocloud-orchestrator-0-day/"
+        }
+    ],
+    "CVE-2025-68686": [
+        {
+            "title": "CISA Warns of Fortinet FortiOS Vulnerability Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortios-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+            "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html"
+        },
+        {
+            "title": "Critical TeamCity Flaw Lets Unauthenticated Attackers Execute System Commands",
+            "link": "https://gbhackers.com/critical-teamcity-flaw/"
+        },
+        {
+            "title": "JetBrains fixes critical unauthenticated RCE in TeamCity On-Premises (CVE-2026-63077)",
+            "link": "https://www.helpnetsecurity.com/2026/07/28/teamcity-rce-cve-2026-63077-fixed/"
+        },
+        {
+            "title": "Critical TeamCity Flaw Lets Unauthenticated Attackers Execute System Commands",
+            "link": "https://cyberpress.org/critical-teamcity-flaw-unauthenticated-system-commands/"
+        },
+        {
+            "title": "JetBrains Patches Critical TeamCity Flaw Allowing Server Takeover",
+            "link": "https://www.itsecuritynews.info/jetbrains-patches-critical-teamcity-flaw-allowing-server-takeover/"
+        },
+        {
+            "title": "JetBrains Urging Customers to Patch Critical TeamCity Flaw that Enables OS Command Execution",
+            "link": "https://cybersecuritynews.com/jetbrains-patch-teamcity-flaw/"
+        },
+        {
+            "title": "Critical TeamCity Flaw Could Let Unauthenticated Attackers Execute Server Commands",
+            "link": "https://www.techrepublic.com/article/news-critical-teamcity-rce-flaw/"
+        }
+    ],
+    "CVE-2026-53264": [
+        {
+            "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+            "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html"
+        },
+        {
+            "title": "AI Helps Discover Linux Kernel Zero-Day Enabling Root Privilege Escalation",
+            "link": "https://cyberpress.org/ai-helps-discover-linux-kernel-zero-day/"
+        },
+        {
+            "title": "AI-Assisted Research Uncovers Linux Kernel Zero-Day Enabling Root Privilege Escalation",
+            "link": "https://cybersecuritynews.com/ai-assisted-linux-kernel-zero-day/"
+        },
+        {
+            "title": "AI-Discovered Linux Kernel Zero-Day Enables Root Privilege Escalation",
+            "link": "https://gbhackers.com/ai-discovered-linux-kernel-zero-day/"
+        }
+    ],
+    "CVE-2026-66032": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-66035": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-66033": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-66034": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-59688": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59686": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59687": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59690": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59689": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-66040": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66037": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66039": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66038": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66036": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66041": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-64300": [
+        {
+            "title": "AI-Assisted Research Uncovers Linux Kernel Zero-Day Enabling Root Privilege Escalation",
+            "link": "https://cybersecuritynews.com/ai-assisted-linux-kernel-zero-day/"
+        }
+    ],
+    "CVE-2026-64728": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-3783": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-64747": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-64740": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-64713": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-28931": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-43813": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-4424": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-43723": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-43753": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-3784": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-28973": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-64726": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-43821": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-53921": [
+        {
+            "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+            "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-16723": [
+        {
+            "title": "Hackers Exploiting FastJson RCE 0-Day in the Wild to Attack US-based Organizations",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-fastjson-rce-0-day/"
+        },
+        {
+            "title": "FastJson RCE Zero-Day Actively Targets Organizations",
+            "link": "https://www.itsecuritynews.info/fastjson-rce-zero-day-actively-targets-organizations/"
+        }
+    ],
+    "CVE-2026-61511": [
+        {
+            "title": "Public Exploit Lands for vBulletin\u2019s Pre-Auth RCE, CVE-2026-61511",
+            "link": "https://www.itsecuritynews.info/public-exploit-lands-for-vbulletins-pre-auth-rce-cve-2026-61511/"
+        },
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
+        }
+    ],
+    "CVE-2026-43810": [
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-42533": [
+        {
+            "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-42530": [
+        {
+            "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-63093": [
+        {
+            "title": "Cursor Quietly Patches High-Severity Git Vulnerability After Seven-Month Delay",
+            "link": "https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/"
+        }
+    ],
+    "CVE-2023-3595": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ],
+    "CVE-2024-6242": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ],
+    "CVE-2021-22681": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ],
+    "CVE-2025-29935": [
+        {
+            "title": "AMD\u2019s PMF Testing Tool Heads to Linux 7.3, Opening New Views Into Laptop Power and Thermal Behavior",
+            "link": "https://www.webpronews.com/amds-pmf-testing-tool-heads-to-linux-7-3-opening-new-views-into-laptop-power-and-thermal-behavior/"
+        }
+    ],
+    "CVE-2025-0028": [
+        {
+            "title": "AMD\u2019s PMF Testing Tool Heads to Linux 7.3, Opening New Views Into Laptop Power and Thermal Behavior",
+            "link": "https://www.webpronews.com/amds-pmf-testing-tool-heads-to-linux-7-3-opening-new-views-into-laptop-power-and-thermal-behavior/"
+        }
+    ],
+    "CVE-2025-48828": [
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
+        }
+    ],
+    "CVE-2025-48827": [
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
+        }
+    ],
+    "CVE-2023-3596": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ]
+}

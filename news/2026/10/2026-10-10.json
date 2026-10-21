@@ -1,0 +1,72 @@
+{
+    "CVE-2026-83548": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-102255": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-102256": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-102258": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-102257": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-83549": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Attackers Are Already Exploiting SonicWall\u2019s Freshly Patched Max-Severity SMA1000 Flaw",
+            "link": "https://www.cysecurity.news/2026/10/attackers-are-already-exploiting.html"
+        }
+    ],
+    "CVE-2026-21589": [
+        {
+            "title": "Atlassian CVE-2026-21589 Exploited Hours After Public Disclosure",
+            "link": "https://www.cysecurity.news/2026/10/atlassian-cve-2026-21589-exploited.html"
+        },
+        {
+            "title": "IT Security News Roundup: 2026-10-10 Evening",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-10-evening/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Hackers Exploit Two AhsayCBS Zero-Day Flaws to Gain SYSTEM Access on Backup Servers",
+            "link": "https://cyberpress.org/hackers-exploit-two-ahsaycbs-zero-day-flaws/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Hackers Exploit Two AhsayCBS Zero-Day Flaws to Gain SYSTEM Access on Backup Servers",
+            "link": "https://cyberpress.org/hackers-exploit-two-ahsaycbs-zero-day-flaws/"
+        }
+    ]
+}

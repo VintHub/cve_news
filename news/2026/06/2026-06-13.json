@@ -1,0 +1,32 @@
+{
+    "CVE-2026-35273": [
+        {
+            "title": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        }
+    ],
+    "CVE-2026-20253": [
+        {
+            "title": "Critical Splunk Enterprise Pre-Auth RCE Chain Exposes Databases",
+            "link": "https://www.itsecuritynews.info/critical-splunk-enterprise-pre-auth-rce-chain-exposes-databases/"
+        },
+        {
+            "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+            "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
+        },
+        {
+            "title": "Splunk Enterprise Pre-Auth RCE Chain Exposes Database With Zero Authentication",
+            "link": "https://cybersecuritynews.com/splunk-enterprise-pre-auth-rce-chain-exposes/"
+        },
+        {
+            "title": "Critical Splunk Enterprise Flaw Enables Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/critical-splunk-enterprise-flaw/"
+        }
+    ],
+    "CVE-2026-40677": [
+        {
+            "title": "AMD Denies $10,000 Bounty to Researcher Who Exposed Flawed Auto-Updater",
+            "link": "https://www.webpronews.com/amd-denies-10000-bounty-to-researcher-who-exposed-flawed-auto-updater/"
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "CVE-2026-19489": [
+        {
+            "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Citrix NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-rce-2/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-65660": [
+        {
+            "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+            "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/"
+        },
+        {
+            "title": "IT Security News Roundup: 2026-09-27",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-09-27/"
+        }
+    ],
+    "CVE-2019-19781": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2020-8193": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2023-6548": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-7775": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2023-6549": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-3055": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2023-3519": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-6543": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-5777": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-88772",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-88772"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-88771",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-88771"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-88773": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88774": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88777": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88775": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88776": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88778": [
+        {
+            "title": "Citrix Confirms NetScaler 0-Day RCE Vulnerabilities Actively Exploited in Attack",
+            "link": "https://cybersecuritynews.com/citrix-confirms-netscaler-0-day/"
+        },
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
+    ]
+}

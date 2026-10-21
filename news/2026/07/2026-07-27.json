@@ -1,0 +1,188 @@
+{
+    "CVE-2026-41940": [
+        {
+            "title": "CyberPress Weekly \u2013 Top 50 Cybersecurity Stories of the Week \u2013 Cl0p Windchill Zero-Day, Zimbra Attacks, 23M-User Breach, AI Exploits & More",
+            "link": "https://cyberpress.org/weekly-cybersecurity-newsletter-roundup-july-20-24-2026/"
+        }
+    ],
+    "CVE-2026-13385": [
+        {
+            "title": "CyberPress Weekly \u2013 Top 50 Cybersecurity Stories of the Week \u2013 Cl0p Windchill Zero-Day, Zimbra Attacks, 23M-User Breach, AI Exploits & More",
+            "link": "https://cyberpress.org/weekly-cybersecurity-newsletter-roundup-july-20-24-2026/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "CyberPress Weekly \u2013 Top 50 Cybersecurity Stories of the Week \u2013 Cl0p Windchill Zero-Day, Zimbra Attacks, 23M-User Breach, AI Exploits & More",
+            "link": "https://cyberpress.org/weekly-cybersecurity-newsletter-roundup-july-20-24-2026/"
+        }
+    ],
+    "CVE-2025-59829": [
+        {
+            "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
+            "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        },
+        {
+            "title": "Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files",
+            "link": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/"
+        }
+    ],
+    "CVE-2026-21852": [
+        {
+            "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
+            "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        }
+    ],
+    "CVE-2026-25724": [
+        {
+            "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
+            "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        },
+        {
+            "title": "Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files",
+            "link": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/"
+        }
+    ],
+    "CVE-2026-49176": [
+        {
+            "title": "WalletService Privilege Escalation Flaw Allows Attackers Full Control of Windows Systems",
+            "link": "https://cybersecuritynews.com/walletservice-privilege-escalation-flaw/"
+        },
+        {
+            "title": "Windows WalletService Flaw Lets Standard Users Gain SYSTEM Privileges",
+            "link": "https://gbhackers.com/windows-walletservice-flaw/"
+        },
+        {
+            "title": "Windows WalletService Flaw Lets Local Attackers Gain SYSTEM Privileges",
+            "link": "https://cyberpress.org/windows-walletservice-flaw/"
+        }
+    ],
+    "CVE-2017-11882": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2018-0802": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2017-8570": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2025-5777": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-50752": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-3055": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-61511": [
+        {
+            "title": "vBulletin Pre-Auth RCE Flaw Allows Remote PHP Code Execution",
+            "link": "https://gbhackers.com/vbulletin-pre-auth-rce-flaw/"
+        },
+        {
+            "title": "Critical vBulletin Vulnerability Lets Unauthenticated Attackers Execute Remote PHP Code",
+            "link": "https://cyberpress.org/critical-vbulletin-vulnerability/"
+        },
+        {
+            "title": "Critical vBulletin Flaw Lets Unauthenticated Attackers Execute PHP Code Remotely",
+            "link": "https://cybersecuritynews.com/vbulletin-flaw-execute-php-code/"
+        }
+    ],
+    "CVE-2026-27577": [
+        {
+            "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+            "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "PoC exploit released for critical AD CS domain-takeover flaw (CVE-2026-54121)",
+            "link": "https://www.helpnetsecurity.com/2026/07/27/certighost-cve-2026-54121-poc-exploit-released/"
+        }
+    ],
+    "CVE-2025-68686": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-68686",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-68686"
+        }
+    ],
+    "CVE-2026-41511": [
+        {
+            "title": "Critical vBulletin Flaw Lets Unauthenticated Attackers Execute PHP Code Remotely",
+            "link": "https://cybersecuritynews.com/vbulletin-flaw-execute-php-code/"
+        }
+    ],
+    "CVE-2026-16812": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-16812",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-16812"
+        }
+    ],
+    "CVE-2017-17215": [
+        {
+            "title": "IoT Botnet Dysphoria Turns to Blockchain and Hijacked Devices to Dodge Takedown",
+            "link": "https://www.webpronews.com/iot-botnet-dysphoria-turns-to-blockchain-and-hijacked-devices-to-dodge-takedown/"
+        }
+    ],
+    "CVE-2026-46331": [
+        {
+            "title": "SharedRoot Exposes Claude Cowork: How One Kernel Flaw Let AI Agents Roam Free on Macs",
+            "link": "https://www.webpronews.com/sharedroot-exposes-claude-cowork-how-one-kernel-flaw-let-ai-agents-roam-free-on-macs/"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "KVM Chainsaw Slices Through Decades-Old Code Tangle Ahead of Linux 7.3",
+            "link": "https://www.webpronews.com/kvm-chainsaw-slices-through-decades-old-code-tangle-ahead-of-linux-7-3/"
+        }
+    ]
+}

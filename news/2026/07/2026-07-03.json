@@ -1,0 +1,116 @@
+{
+    "CVE-2025-5777": [
+        {
+            "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+            "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "Microsoft\u2019s \u2018Less Likely\u2019 SharePoint Bug Becomes CISA Priority as Exploitation Confirmed",
+            "link": "https://www.webpronews.com/microsofts-less-likely-sharepoint-bug-becomes-cisa-priority-as-exploitation-confirmed/"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "Microsoft\u2019s \u2018Less Likely\u2019 SharePoint Bug Becomes CISA Priority as Exploitation Confirmed",
+            "link": "https://www.webpronews.com/microsofts-less-likely-sharepoint-bug-becomes-cisa-priority-as-exploitation-confirmed/"
+        }
+    ],
+    "CVE-2026-45504": [
+        {
+            "title": "Microsoft Exchange SSRF Vulnerability Lets Low-Privileged Attackers Read Arbitrary Files",
+            "link": "https://www.itsecuritynews.info/microsoft-exchange-ssrf-vulnerability-lets-low-privileged-attackers-read-arbitrary-files/"
+        },
+        {
+            "title": "Microsoft Exchange SSRF Vulnerability Details Released Along With Public PoC Exploit",
+            "link": "https://www.itsecuritynews.info/microsoft-exchange-ssrf-vulnerability-details-released-along-with-public-poc-exploit/"
+        },
+        {
+            "title": "PoC Released for Microsoft Exchange SSRF Flaw That Lets Low-Privileged Users Read Files",
+            "link": "https://cyberpress.org/microsoft-exchange-ssrf-flaw/"
+        }
+    ],
+    "CVE-2026-53917": [
+        {
+            "title": "Multiple Apache ActiveMQ Vulnerabilities Enable DoS Attacks and Lead to Crashes",
+            "link": "https://cybersecuritynews.com/apache-activemq-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-49877": [
+        {
+            "title": "Multiple Apache ActiveMQ Vulnerabilities Enable DoS Attacks and Lead to Crashes",
+            "link": "https://cybersecuritynews.com/apache-activemq-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54475": [
+        {
+            "title": "Multiple Apache ActiveMQ Vulnerabilities Enable DoS Attacks and Lead to Crashes",
+            "link": "https://cybersecuritynews.com/apache-activemq-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-45321": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
+        }
+    ],
+    "CVE-2026-48027": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
+        }
+    ],
+    "CVE-2026-33634": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Nissan Confirms Employee Data Breach Following Oracle PeopleSoft Zero-Day Cyberattack",
+            "link": "https://www.itsecuritynews.info/nissan-confirms-employee-data-breach-following-oracle-peoplesoft-zero-day-cyberattack/"
+        }
+    ],
+    "CVE-2026-46242": [
+        {
+            "title": "New \u201cBad Epoll\u201d Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-linux-kernel-flaw-lets-unprivileged-users-gain-root-hits-android/"
+        }
+    ],
+    "CVE-2021-29441": [
+        {
+            "title": "AI Agent JadePuffer Pulls Off First Full Ransomware Operation Solo",
+            "link": "https://www.webpronews.com/ai-agent-jadepuffer-pulls-off-first-full-ransomware-operation-solo/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "AI Agent JadePuffer Pulls Off First Full Ransomware Operation Solo",
+            "link": "https://www.webpronews.com/ai-agent-jadepuffer-pulls-off-first-full-ransomware-operation-solo/"
+        }
+    ]
+}

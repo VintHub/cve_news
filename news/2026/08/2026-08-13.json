@@ -1,0 +1,438 @@
+{
+    "CVE-2026-65640": [
+        {
+            "title": "WordPress RCE Vulnerability Lets Authenticated Authors Execute Remote Code",
+            "link": "https://gbhackers.com/wordpress-rce-vulnerability/"
+        },
+        {
+            "title": "Critical WordPress RCE Vulnerability Allows Authors to Execute Code via Malicious PNG File",
+            "link": "https://cybersecuritynews.com/wordpress-imagick-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+        },
+        {
+            "title": "SharePoint CVE-2026-55040 Comes Under Attack Following Public Exploit",
+            "link": "https://securityaffairs.com/197137/hacking/sharepoint-cve-2026-55040-comes-under-attack-following-public-exploit.html"
+        },
+        {
+            "title": "Attackers exploit critical SharePoint flaw after PoC goes public (CVE-2026-55040)",
+            "link": "https://www.helpnetsecurity.com/2026/08/13/microsoft-sharepoint-cve-2026-55040-poc-exploit/"
+        },
+        {
+            "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
+        }
+    ],
+    "CVE-2026-71362": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Commerce Flaw Lets Unauthenticated Attackers Escalate Privileges",
+            "link": "https://gbhackers.com/critical-adobe-commerce-flaw/"
+        },
+        {
+            "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+            "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/"
+        },
+        {
+            "title": "Adobe Commerce CVE-2026-71362 Comes Under Attack Shortly After Public Disclosure",
+            "link": "https://securityaffairs.com/197149/hacking/adobe-commerce-cve-2026-71362-comes-under-attack-shortly-after-public-disclosure.html"
+        }
+    ],
+    "CVE-2026-48416": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48414": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48411": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48412": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48415": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48413": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco Firewall 0-Day Vulnerability Exploited in the Wild to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/cisco-firewall-0-day-vulnerability/"
+        },
+        {
+            "title": "Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)",
+            "link": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/"
+        },
+        {
+            "title": "U.S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197110/uncategorized/u-s-cisa-adds-metabase-windows-and-cisco-secure-firewall-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2023-38831": [
+        {
+            "title": "One Missing MFA Control Lets Credential Spray Become Full Akira Ransomware Intrusion",
+            "link": "https://cyberpress.org/missing-mfa-enables-akira/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "Gunra Targets Primary and Disaster-Recovery Backups Before File Encryption",
+            "link": "https://cyberpress.org/gunra-cripples-backup-recovery/"
+        }
+    ],
+    "CVE-2025-24472": [
+        {
+            "title": "Gunra Targets Primary and Disaster-Recovery Backups Before File Encryption",
+            "link": "https://cyberpress.org/gunra-cripples-backup-recovery/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Critical VMware vCenter Vulnerability in Attackers\u2019 Crosshairs",
+            "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/"
+        },
+        {
+            "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/"
+        },
+        {
+            "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw"
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "CopyEscape: Taking Over Docker Hosts with docker cp",
+            "link": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/"
+        }
+    ],
+    "CVE-2026-68820": [
+        {
+            "title": "CISA Adds Actively Exploited Windows WinSock Vulnerability to KEV Catalog",
+            "link": "https://gbhackers.com/cisa-adds-actively-exploited-windows-winsock-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Windows Ancillary Function 0-Day Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/windows-ancillary-function-0-day-exploited/"
+        },
+        {
+            "title": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+            "link": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/"
+        },
+        {
+            "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+            "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+        },
+        {
+            "title": "DefCon airplane Wi-Fi drama. GhostJacking leads to agent hijacks, AI agent hacks gym",
+            "link": "https://cybersecuritytoday.libsyn.com/defcon-airplane-wi-fi-drama-ghostjacking-leads-to-agent-hijacks-ai-agent-hacks-gym"
+        }
+    ],
+    "CVE-2026-62913": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Allow DoS, Privilege Escalation, and RCE",
+            "link": "https://gbhackers.com/microsoft-exchange-server-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-67261": [
+        {
+            "title": "Critical Dell VMware vSphere Client Flaw Lets Remote Attackers Execute Commands as Root",
+            "link": "https://gbhackers.com/critical-dell-vmware-vsphere-client-flaw/"
+        }
+    ],
+    "CVE-2024-13962": [
+        {
+            "title": "ZDI-26-567: Norton Utilities Ultimate NortonUtilitiesSvc Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-567/"
+        }
+    ],
+    "CVE-2026-40272": [
+        {
+            "title": "ZDI-26-566: BlackBerry QNX  KEV File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-566/"
+        }
+    ],
+    "CVE-2026-12410": [
+        {
+            "title": "ZDI-26-565: Gen Digital CCleaner Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-565/"
+        }
+    ],
+    "CVE-2026-24232": [
+        {
+            "title": "ZDI-26-564: NVIDIA Transformers4Rec load_model_trainer_states_from_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-564/"
+        }
+    ],
+    "CVE-2026-62912": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62911": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62914": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62910": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62915": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-16627": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15423": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15217": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-16494": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15216": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-19228": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-54316": [
+        {
+            "title": "AI Coding Agents Open Door to CI Secrets With One Malicious GitHub Issue",
+            "link": "https://www.webpronews.com/ai-coding-agents-open-door-to-ci-secrets-with-one-malicious-github-issue/"
+        }
+    ],
+    "CVE-2026-12537": [
+        {
+            "title": "AI Coding Agents Open Door to CI Secrets With One Malicious GitHub Issue",
+            "link": "https://www.webpronews.com/ai-coding-agents-open-door-to-ci-secrets-with-one-malicious-github-issue/"
+        }
+    ],
+    "CVE-2026-53802": [
+        {
+            "title": "Rsync 3.5 Overhauls Decades-Old File Sync Tool With 33 Security Fixes",
+            "link": "https://www.webpronews.com/rsync-3-5-overhauls-decades-old-file-sync-tool-with-33-security-fixes/"
+        }
+    ],
+    "CVE-2026-53803": [
+        {
+            "title": "Rsync 3.5 Overhauls Decades-Old File Sync Tool With 33 Security Fixes",
+            "link": "https://www.webpronews.com/rsync-3-5-overhauls-decades-old-file-sync-tool-with-33-security-fixes/"
+        }
+    ],
+    "CVE-2026-4890": [
+        {
+            "title": "ZDI-26-584: dnsmasq DNSSEC NSEC/NSEC3 Type Bitmap Processing Infinite Loop Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-584/"
+        }
+    ],
+    "CVE-2026-20215": [
+        {
+            "title": "ZDI-26-583: Clam AntiVirus 7z Archive Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-583/"
+        }
+    ],
+    "CVE-2026-20148": [
+        {
+            "title": "ZDI-26-582: Cisco Identity Services Engine PatchUpdateListener Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-582/"
+        }
+    ],
+    "CVE-2026-20147": [
+        {
+            "title": "ZDI-26-581: Cisco Identity Services Engine invokeScript Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-581/"
+        }
+    ],
+    "CVE-2026-20190": [
+        {
+            "title": "ZDI-26-580: Cisco Identity Services Engine Missing Authentication for Critical Function Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-580/"
+        }
+    ],
+    "CVE-2026-20181": [
+        {
+            "title": "ZDI-26-579: Cisco Identity Services Engine zipFiles Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-579/"
+        }
+    ],
+    "CVE-2026-27654": [
+        {
+            "title": "ZDI-26-578: NGINX HTTP Dav Module Alias Directive Integer Underflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-578/"
+        }
+    ],
+    "CVE-2026-67212": [
+        {
+            "title": "ZDI-26-577: Trend Micro VPN OpenSSL Configuration Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-577/"
+        }
+    ],
+    "CVE-2026-46319": [
+        {
+            "title": "ZDI-26-574: Linux Kernel Net Scheduler Connection Tracking Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-574/"
+        }
+    ],
+    "CVE-2026-64530": [
+        {
+            "title": "ZDI-26-571: Linux Kernel Net Scheduler Packet Classifier API Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-571/"
+        }
+    ],
+    "CVE-2026-53413": [
+        {
+            "title": "Zoom Patches \u201cZoomsday\u201d Zero-Click Flaw Enabling Remote Code Execution",
+            "link": "https://securityaffairs.com/197042/hacking/zoom-patches-zoomsday-zero-click-flaw-enabling-remote-code-execution.html"
+        }
+    ],
+    "CVE-2026-26035": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-59375": [
+        {
+            "title": "Inside Echo and NanoClaw\u2019s Hardened AI Agent Runtime: How They Cut 1,400 CVEs",
+            "link": "https://www.webpronews.com/inside-echo-and-nanoclaws-hardened-ai-agent-runtime-how-they-cut-1400-cves/"
+        }
+    ],
+    "CVE-2012-4701": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2019-9569": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2021-38450": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2024-8525": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2026-70467": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-70466": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-49975": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-71407": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-70465": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-71408": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-70468": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-68431": [
+        {
+            "title": "ZDI-26-573: Linux Kernel KSMBD Response Header Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-573/"
+        }
+    ]
+}

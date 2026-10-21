@@ -1,0 +1,164 @@
+{
+    "CVE-2026-48558": [
+        {
+            "title": "CISA Warns of SimpleHelp Authentication Bypass Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/simplehelp-auth-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+            "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+            "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Microsoft SharePoint Server Code Execution Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sharepoint-server-code-execution-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA Warns Actively Exploited Microsoft SharePoint RCE Flaw Requires Urgent Patch",
+            "link": "https://cyberpress.org/cisa-microsoft-sharepoint-rce/"
+        },
+        {
+            "title": "U.S. CISA adds a Microsoft SharePoint Server flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-microsoft-sharepoint-server-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        }
+    ],
+    "CVE-2026-14191": [
+        {
+            "title": "WinRAR 7.23 Fixes Heap Overflow Vulnerability that Leads to Application Crashes",
+            "link": "https://cybersecuritynews.com/winrar-7-23-fixes-heap-overflow-vulnerability/"
+        }
+    ],
+    "CVE-2025-62554": [
+        {
+            "title": "Critical Flaws Double as Elevation of Privilege Dominates the Cyber Threats \u2013 Analysis of Microsoft Vulnerabilities Report 2026",
+            "link": "https://cybersecuritynews.com/microsoft-vulnerabilities-report-2026/"
+        }
+    ],
+    "CVE-2025-55241": [
+        {
+            "title": "Critical Flaws Double as Elevation of Privilege Dominates the Cyber Threats \u2013 Analysis of Microsoft Vulnerabilities Report 2026",
+            "link": "https://cybersecuritynews.com/microsoft-vulnerabilities-report-2026/"
+        }
+    ],
+    "CVE-2025-62557": [
+        {
+            "title": "Critical Flaws Double as Elevation of Privilege Dominates the Cyber Threats \u2013 Analysis of Microsoft Vulnerabilities Report 2026",
+            "link": "https://cybersecuritynews.com/microsoft-vulnerabilities-report-2026/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "JADEPUFFER Agentic Ransomware Uses LLM to Automate Database Extortion",
+            "link": "https://www.itsecuritynews.info/jadepuffer-agentic-ransomware-uses-llm-to-automate-database-extortion/"
+        }
+    ],
+    "CVE-2026-50548": [
+        {
+            "title": "Critical Cursor IDE Flaws Let Attackers Execute Code via Zero-Click Prompt Injection",
+            "link": "https://www.itsecuritynews.info/critical-cursor-ide-flaws-let-attackers-execute-code-via-zero-click-prompt-injection/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "Critical Cursor IDE Flaws Let Attackers Execute Code via Zero-Click Prompt Injection",
+            "link": "https://www.itsecuritynews.info/critical-cursor-ide-flaws-let-attackers-execute-code-via-zero-click-prompt-injection/"
+        }
+    ],
+    "CVE-2026-49367": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-33392": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-56142": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-53915": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-49366": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-56141": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-50242": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-49373": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-44413": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "950 Oracle E-Business Suite Instances Exposed as Critical Flaw Faces Exploitation",
+            "link": "https://cyberpress.org/950-oracle-e-business-suite-exposed/"
+        },
+        {
+            "title": "950 Oracle E-Business Suite Instances Exposed as CVE-2026-46817 Attacks Observed in the Wild",
+            "link": "https://www.itsecuritynews.info/950-oracle-e-business-suite-instances-exposed-as-cve-2026-46817-attacks-observed-in-the-wild/"
+        }
+    ],
+    "CVE-2023-29298": [
+        {
+            "title": "Threat Actor Uses Steganographic Webshell and Defence Impairment Before Mimikatz Execution",
+            "link": "https://cyberpress.org/steganographic-webshell-mimikatz-execution/"
+        }
+    ],
+    "CVE-2023-29300": [
+        {
+            "title": "Threat Actor Uses Steganographic Webshell and Defence Impairment Before Mimikatz Execution",
+            "link": "https://cyberpress.org/steganographic-webshell-mimikatz-execution/"
+        }
+    ],
+    "CVE-2023-26360": [
+        {
+            "title": "Threat Actor Uses Steganographic Webshell and Defence Impairment Before Mimikatz Execution",
+            "link": "https://cyberpress.org/steganographic-webshell-mimikatz-execution/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "NetScaler Memory Overread Flaw Revives CitrixBleed Fears",
+            "link": "https://www.itsecuritynews.info/netscaler-memory-overread-flaw-revives-citrixbleed-fears/"
+        },
+        {
+            "title": "CitrixBleed Vulnerability Exploited by Hackers Within 24 Hours of Public Disclosure",
+            "link": "https://www.itsecuritynews.info/citrixbleed-vulnerability-exploited-by-hackers-within-24-hours-of-public-disclosure/"
+        }
+    ]
+}

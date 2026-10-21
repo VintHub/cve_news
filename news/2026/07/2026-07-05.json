@@ -1,0 +1,50 @@
+{
+    "CVE-2025-59536": [
+        {
+            "title": "How Helpful AI Coders Like Claude Open Hidden Doors to Attackers",
+            "link": "https://www.webpronews.com/how-helpful-ai-coders-like-claude-open-hidden-doors-to-attackers/"
+        }
+    ],
+    "CVE-2026-25725": [
+        {
+            "title": "How Helpful AI Coders Like Claude Open Hidden Doors to Attackers",
+            "link": "https://www.webpronews.com/how-helpful-ai-coders-like-claude-open-hidden-doors-to-attackers/"
+        }
+    ],
+    "CVE-2026-43074": [
+        {
+            "title": "New Bad Epoll Bug Impacts Android and Linux, Allows Root Access",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-bug-impacts-android-and-linux-allows-root-access/"
+        }
+    ],
+    "CVE-2026-46242": [
+        {
+            "title": "New Bad Epoll Bug Impacts Android and Linux, Allows Root Access",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-bug-impacts-android-and-linux-allows-root-access/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "JadePuffer Uses AI to Streamline End to End Ransomware Operations",
+            "link": "https://www.itsecuritynews.info/jadepuffer-uses-ai-to-streamline-end-to-end-ransomware-operations/"
+        }
+    ],
+    "CVE-2026-55957": [
+        {
+            "title": "Cyber Security News Bulletin Weekly \u2013 Mythos is Back, WhatsApp Username, Kali Linux 2026.2, +20 Stories",
+            "link": "https://cybersecuritynews.com/cyber-security-news-bulletin-weekly/"
+        }
+    ],
+    "CVE-2026-55956": [
+        {
+            "title": "Cyber Security News Bulletin Weekly \u2013 Mythos is Back, WhatsApp Username, Kali Linux 2026.2, +20 Stories",
+            "link": "https://cybersecuritynews.com/cyber-security-news-bulletin-weekly/"
+        }
+    ],
+    "CVE-2025-48595": [
+        {
+            "title": "Google\u2019s June Android Patches Close 124 Holes as One Zero-Day Sees Active Attacks",
+            "link": "https://www.webpronews.com/googles-june-android-patches-close-124-holes-as-one-zero-day-sees-active-attacks/"
+        }
+    ]
+}

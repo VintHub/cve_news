@@ -1,0 +1,308 @@
+{
+    "CVE-2026-0257": [
+        {
+            "title": "WordPress Feeding Frenzy, Another Healthcare Supply Chain Breach, Qillin Targets Palo Alto Bug",
+            "link": "https://www.itsecuritynews.info/wordpress-feeding-frenzy-another-healthcare-supply-chain-breach-qillin-targets-palo-alto-bug/"
+        }
+    ],
+    "CVE-2026-6330": [
+        {
+            "title": "WordPress Feeding Frenzy, Another Healthcare Supply Chain Breach, Qillin Targets Palo Alto Bug",
+            "link": "https://www.itsecuritynews.info/wordpress-feeding-frenzy-another-healthcare-supply-chain-breach-qillin-targets-palo-alto-bug/"
+        }
+    ],
+    "CVE-2026-6137": [
+        {
+            "title": "WordPress Feeding Frenzy, Another Healthcare Supply Chain Breach, Qillin Targets Palo Alto Bug",
+            "link": "https://www.itsecuritynews.info/wordpress-feeding-frenzy-another-healthcare-supply-chain-breach-qillin-targets-palo-alto-bug/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "CISA Warns of WordPress Core SQL Injection Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
+        },
+        {
+            "title": "CISA Warns WordPress Core SQL Injection Vulnerability Is Actively Exploited in Attacks",
+            "link": "https://gbhackers.com/cisa-warns-wordpress-core-sql-injection-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited WordPress Flaws Enabling Pre-Auth RCE",
+            "link": "https://cyberpress.org/cisa-actively-exploited-wordpress-flaw/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "CISA Warns of WordPress Core SQL Injection Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited WordPress Flaws Enabling Pre-Auth RCE",
+            "link": "https://cyberpress.org/cisa-actively-exploited-wordpress-flaw/"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "Anonymous Researcher Dumps 204 0-Day Exploit Files Before Vendors Can Patch Them",
+            "link": "https://cybersecuritynews.com/researcher-dumps-0-day-exploit-files/"
+        }
+    ],
+    "CVE-2026-13385": [
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://gbhackers.com/critical-asus-router-flaw/"
+        },
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
+        },
+        {
+            "title": "ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution",
+            "link": "https://cybersecuritynews.com/asus-patches-router-vulnerability/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Fourth SharePoint Vulnerability Exploited in Past Month\u2019s Wave of Attacks",
+            "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/"
+        },
+        {
+            "title": "Another SharePoint RCE exploited: Patch, then rotate your machine keys (CVE-2026-50522)",
+            "link": "https://www.helpnetsecurity.com/2026/07/22/sharepoint-cve-2026-50522-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-50522",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-50522"
+        }
+    ],
+    "CVE-2026-29059": [
+        {
+            "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+            "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
+        }
+    ],
+    "CVE-2026-28313": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28308": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28302": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28304": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28306": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28312": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28305": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28321": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28311": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28317": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28307": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28316": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28314": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28309": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28315": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28310": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-16232": [
+        {
+            "title": "Security Advisory \u2013 Action Required \u2013 July 2026 Security Update",
+            "link": "https://www.itsecuritynews.info/security-advisory-action-required-july-2026-security-update/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-16232",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-16232"
+        }
+    ],
+    "CVE-2026-4295": [
+        {
+            "title": "AWS Kiro IDE Flaw Lets Hidden Web Prompts Execute Code on Developer Machines",
+            "link": "https://cyberpress.org/aws-kiro-ide-flaw/"
+        }
+    ],
+    "CVE-2026-11851": [
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
+        }
+    ],
+    "CVE-2026-12960": [
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
+        }
+    ],
+    "CVE-2026-8933": [
+        {
+            "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+            "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
+        },
+        {
+            "title": "CVE-2026-8933: Ubuntu security flaw breaks Snap sandbox protections",
+            "link": "https://www.itsecuritynews.info/cve-2026-8933-ubuntu-security-flaw-breaks-snap-sandbox-protections/"
+        }
+    ],
+    "CVE-2026-48294": [
+        {
+            "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+            "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
+        },
+        {
+            "title": "Adobe Acrobat Extension Flaw Lets Attackers Steal WhatsApp Chats From 329 Million Users",
+            "link": "https://cybersecuritynews.com/acrobat-extension-flaw-whatsapp-chats/"
+        },
+        {
+            "title": "Adobe Acrobat Chrome extension bug enabled silent WhatsApp data theft",
+            "link": "https://www.itsecuritynews.info/adobe-acrobat-chrome-extension-bug-enabled-silent-whatsapp-data-theft/"
+        }
+    ],
+    "CVE-2026-64600": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-46333": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-43284": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-43500": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-43503": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-42980": [
+        {
+            "title": "Public PoC Released for Windows NT OS Kernel Privilege Escalation Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-windows-nt-os-kernel/"
+        }
+    ],
+    "CVE-2026-25253": [
+        {
+            "title": "OpenClaw security best practices for CISOs",
+            "link": "https://www.itsecuritynews.info/openclaw-security-best-practices-for-cisos/"
+        }
+    ],
+    "CVE-2026-62549": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-60773": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-62546": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-60880": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ]
+}

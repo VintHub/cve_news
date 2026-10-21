@@ -1,0 +1,932 @@
+{
+    "CVE-2026-68820": [
+        {
+            "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+            "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+        },
+        {
+            "title": "DefCon airplane Wi-Fi drama. GhostJacking leads to agent hijacks, AI agent hacks gym",
+            "link": "https://cybersecuritytoday.libsyn.com/defcon-airplane-wi-fi-drama-ghostjacking-leads-to-agent-hijacks-ai-agent-hacks-gym"
+        },
+        {
+            "title": "Lazarus Hackers Actively Exploiting Windows AFD.sys Zero-Day to Deploy FudModule Rootkit",
+            "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        },
+        {
+            "title": "Windows AFD.sys Zero-Day Exploited by Lazarus Hackers to Gain SYSTEM Access",
+            "link": "https://gbhackers.com/windows-afd-sys-zero-day-exploited-by-lazarus-hackers/"
+        },
+        {
+            "title": "Microsoft patches 400+ vulnerabilities, one zero-day under attack (CVE-2026-68820)",
+            "link": "https://www.helpnetsecurity.com/2026/08/12/august-2026-patch-tuesday-cve-2026-68820/"
+        },
+        {
+            "title": "Hackers Weaponize Job Offers With Zero-Day Exploit to Gain Silent System Access",
+            "link": "https://cyberpress.org/hackers-weaponize-job-offers-with-zero-day-exploit/"
+        },
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        },
+        {
+            "title": "North Korean Hackers Turn Quantum-Resistant Crypto Against Defenders in Zero-Day Campaign",
+            "link": "https://www.webpronews.com/north-korean-hackers-turn-quantum-resistant-crypto-against-defenders-in-zero-day-campaign/"
+        },
+        {
+            "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
+            "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        },
+        {
+            "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+            "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+            "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/"
+        },
+        {
+            "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+            "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
+        }
+    ],
+    "CVE-2026-53413": [
+        {
+            "title": "Zoom Zero-Click \u2018Zoomsday\u2019 Flaw Lets Meeting Participants Execute Code on Other Users\u2019 Devices",
+            "link": "https://gbhackers.com/zoom-zero-click-zoomsday-flaw/"
+        },
+        {
+            "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
+            "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        },
+        {
+            "title": "Zoom Annotation Bug Turned Video Calls Into Silent Device Takeovers",
+            "link": "https://www.webpronews.com/zoom-annotation-bug-turned-video-calls-into-silent-device-takeovers/"
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "Docker CopyEscape Vulnerability Enables Host File Overwrite and Root Code Execution",
+            "link": "https://gbhackers.com/docker-copyescape-vulnerability/"
+        }
+    ],
+    "CVE-2026-70329": [
+        {
+            "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        },
+        {
+            "title": "Microsoft Outlook RCE Vulnerability Lets Attackers Execute Code Remotely",
+            "link": "https://gbhackers.com/microsoft-outlook-rce-vulnerability/"
+        },
+        {
+            "title": "Microsoft Outlook RCE Flaw Lets Attackers Execute Code via Malicious Office Files",
+            "link": "https://cyberpress.org/microsoft-outlook-rce-flaw/"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+            "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+        },
+        {
+            "title": "ShieldBreak: New Windows Zero-Day Bypasses Microsoft\u2019s RoguePlanet Patch",
+            "link": "https://securityaffairs.com/197063/hacking/shieldbreak-new-windows-zero-day-bypasses-microsofts-rogueplanet-patch.html"
+        },
+        {
+            "title": "Nightmare-Eclipse Drops ShieldBreak Windows Defender 0-day Vulnerability",
+            "link": "https://cybersecuritynews.com/nightmare-eclipse-drops-shieldbreak-0-day/"
+        },
+        {
+            "title": "ShieldBreak Windows Defender 0-Day Lets Attackers Bypass Microsoft Patch and Gain SYSTEM Privileges",
+            "link": "https://gbhackers.com/shieldbreak-windows-defender-0-day/"
+        },
+        {
+            "title": "A Lone Researcher Forces Microsoft\u2019s Hand With Latest Windows Defender Flaw",
+            "link": "https://www.webpronews.com/a-lone-researcher-forces-microsofts-hand-with-latest-windows-defender-flaw/"
+        },
+        {
+            "title": "ShieldBreak Windows Defender Zero-Day Bypasses Microsoft Patch to Gain SYSTEM Access",
+            "link": "https://cyberpress.org/shieldbreak-windows-defender-zero-day-bypasses/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/"
+        },
+        {
+            "title": "Microsoft SharePoint RCE Flaw Chains Allow Unauthenticated Server Takeover",
+            "link": "https://cyberpress.org/microsoft-sharepoint-rce-flaw/"
+        }
+    ],
+    "CVE-2026-63520": [
+        {
+            "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/"
+        },
+        {
+            "title": "Microsoft SharePoint RCE Flaw Chains Allow Unauthenticated Server Takeover",
+            "link": "https://cyberpress.org/microsoft-sharepoint-rce-flaw/"
+        },
+        {
+            "title": "Microsoft SharePoint RCE Vulnerability Lets Remote Attackers Execute Code",
+            "link": "https://gbhackers.com/microsoft-sharepoint-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-62882": [
+        {
+            "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-50528": [
+        {
+            "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        }
+    ],
+    "CVE-2024-38193": [
+        {
+            "title": "Windows AFD.sys 0-Day Actively Exploited by Lazarus Hackers to Deploy FudModule Rootkit",
+            "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        },
+        {
+            "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
+            "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        }
+    ],
+    "CVE-2025-49113": [
+        {
+            "title": "Windows AFD.sys 0-Day Actively Exploited by Lazarus Hackers to Deploy FudModule Rootkit",
+            "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        },
+        {
+            "title": "Hackers Weaponize Job Offers With Zero-Day Exploit to Gain Silent System Access",
+            "link": "https://cyberpress.org/hackers-weaponize-job-offers-with-zero-day-exploit/"
+        },
+        {
+            "title": "North Korean Hackers Turn Quantum-Resistant Crypto Against Defenders in Zero-Day Campaign",
+            "link": "https://www.webpronews.com/north-korean-hackers-turn-quantum-resistant-crypto-against-defenders-in-zero-day-campaign/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
+        },
+        {
+            "title": "Hackers Exploit Critical VMware vCenter Flaw to Deploy Reverse SSH Across 47 Countries",
+            "link": "https://gbhackers.com/hackers-exploit-critical-vmware-vcenter-flaw/"
+        },
+        {
+            "title": "Critical VMware vCenter Directory Traversal Flaw Used in Global Attacks",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-directory-traversal-flaw/"
+        },
+        {
+            "title": "Hackers Actively Exploiting VMware vCenter Systems to Gain and Maintain Remote Access",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-remote-access-exploited/"
+        }
+    ],
+    "CVE-2026-19556": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-19559": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-19560": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-19557": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-19558": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-59113": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-49179": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2021-36946": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59125": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59115": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2025-29821": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70348": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56161": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50515": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50493": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59134": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-47303": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59135": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50659": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59124": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59138": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61347": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-55050": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50341": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2024-21380": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70344": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59136": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61348": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2021-34474": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70346": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58641": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50416": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54113": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59128": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58651": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54123": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-57105": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2023-38167": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70340": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-72971": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        },
+        {
+            "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
+            "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        }
+    ],
+    "CVE-2026-59131": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59130": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61349": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-57104": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2024-35249": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2022-41066": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58639": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58612": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59122": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50516": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54984": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59137": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58650": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50472": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61346": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61345": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-49163": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59133": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2021-40440": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2024-38225": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59126": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50309": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70355": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70354": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50357": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-40417": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70347": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59132": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-47285": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59118": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-62832": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        },
+        {
+            "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
+            "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        }
+    ],
+    "CVE-2026-70345": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59127": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56174": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54981": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-47299": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59119": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56162": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-42976": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50481": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-71331": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56179": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-48362": [
+        {
+            "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+            "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        },
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "CISA Warns Critical Metabase SQL Injection Flaw Lets Unauthenticated Attackers Gain Admin Access",
+            "link": "https://gbhackers.com/cisa-warns-critical-metabase-sql-injection-flaw/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Metabase Flaw Enabling Admin Account Takeover",
+            "link": "https://cyberpress.org/cisa-warns-of-actively-exploited-metabase-flaw/"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "Hackers Linked to China Install StormEncryptor Ransomware",
+            "link": "https://www.cysecurity.news/2026/08/hackers-linked-to-china-install.html"
+        }
+    ],
+    "CVE-2025-21418": [
+        {
+            "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
+            "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        }
+    ],
+    "CVE-2025-32709": [
+        {
+            "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
+            "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        }
+    ],
+    "CVE-2026-53414": [
+        {
+            "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
+            "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        },
+        {
+            "title": "Zoom Annotation Bug Turned Video Calls Into Silent Device Takeovers",
+            "link": "https://www.webpronews.com/zoom-annotation-bug-turned-video-calls-into-silent-device-takeovers/"
+        }
+    ],
+    "CVE-2026-53415": [
+        {
+            "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
+            "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        },
+        {
+            "title": "Zoom Annotation Bug Turned Video Calls Into Silent Device Takeovers",
+            "link": "https://www.webpronews.com/zoom-annotation-bug-turned-video-calls-into-silent-device-takeovers/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "New Ransomware Targets AI Model Weights but Fails to Collect Ransom",
+            "link": "https://www.cysecurity.news/2026/08/new-ransomware-targets-ai-model-weights.html"
+        }
+    ],
+    "CVE-2026-0296": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0294": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0297": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0293": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0292": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0299": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0295": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0291": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0301": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0298": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34635": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71383": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-25652": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-48386": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71386": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71385": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71384": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-48440": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-48273": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-21279": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71387": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71362": [
+        {
+            "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
+        }
+    ],
+    "CVE-2026-91131": [
+        {
+            "title": "ZDI-26-563: (Pwn2Own) Home Assistant Green Simple Service Discovery Protocol Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-563/"
+        }
+    ],
+    "CVE-2026-91129": [
+        {
+            "title": "ZDI-26-562: (Pwn2Own) Home Assistant Green mDNS Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-562/"
+        }
+    ]
+}

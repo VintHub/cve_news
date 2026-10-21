@@ -1,0 +1,236 @@
+{
+    "CVE-2026-69414": [
+        {
+            "title": "CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days",
+            "link": "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days",
+            "link": "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response"
+        }
+    ],
+    "CVE-2026-0251": [
+        {
+            "title": "Researcher Discloses Five High-Risk Vulnerabilities in Palo Alto GlobalProtect",
+            "link": "https://cybersecuritynews.com/5-vulnerabilities-palo-alto-globalprotect/"
+        },
+        {
+            "title": "Five GlobalProtect Vulnerabilities Expose Enterprise VPN Users to Privilege Escalation",
+            "link": "https://cyberpress.org/five-globalprotect-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-21962": [
+        {
+            "title": "Hackers Exploit Critical Oracle HTTP Server Flaw to Access and Modify Sensitive Data",
+            "link": "https://gbhackers.com/hackers-exploit-critical-oracle-http-server-flaw/"
+        },
+        {
+            "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+            "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
+        },
+        {
+            "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+            "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/"
+        },
+        {
+            "title": "U.S. CISA adds maximum-severity Oracle flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197801/security/u-s-cisa-adds-maximum-severity-oracle-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Oracle HTTP and WebLogic Server Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/oracle-http-and-weblogic-server-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-18963": [
+        {
+            "title": "Critical Red Hat Keycloak Password Reset Flaw Enables Unauthenticated Account Takeover",
+            "link": "https://gbhackers.com/critical-red-hat-keycloak-password-reset-flaw/"
+        },
+        {
+            "title": "Critical Red Hat Keycloak Flaw Lets Unauthenticated Attackers Take Over Any User Account",
+            "link": "https://cybersecuritynews.com/red-hat-keycloak-flaw/"
+        }
+    ],
+    "CVE-2026-61979": [
+        {
+            "title": "Hackers Exploit Critical miniOrange SAML SSO Flaws to Hijack WordPress Admin Accounts",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "Critical miniOrange SAML SSO Flaws Let Attackers Take Over WordPress Admin Accounts",
+            "link": "https://gbhackers.com/critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+            "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
+        },
+        {
+            "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+            "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/"
+        },
+        {
+            "title": "Critical WordPress SAML SSO Flaws Enable Unauthenticated Admin Account Takeover",
+            "link": "https://cyberpress.org/critical-wordpress-saml-sso-flaws/"
+        },
+        {
+            "title": "Two CVSS 9.8 Auth Bypasses in miniOrange SAML WordPress Plugin Were Exploited Before Any Database Even Listed the Paid Editions as Vulnerable",
+            "link": "https://securityaffairs.com/197815/security/two-cvss-9-8-auth-bypasses-in-miniorange-saml-wordpress-plugin-were-exploited-before-any-database-even-listed-the-paid-editions-as-vulnerable.html"
+        }
+    ],
+    "CVE-2026-15981": [
+        {
+            "title": "Hackers Exploit Critical miniOrange SAML SSO Flaws to Hijack WordPress Admin Accounts",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "Critical miniOrange SAML SSO Flaws Let Attackers Take Over WordPress Admin Accounts",
+            "link": "https://gbhackers.com/critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+            "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/"
+        },
+        {
+            "title": "Critical WordPress SAML SSO Flaws Enable Unauthenticated Admin Account Takeover",
+            "link": "https://cyberpress.org/critical-wordpress-saml-sso-flaws/"
+        },
+        {
+            "title": "Two CVSS 9.8 Auth Bypasses in miniOrange SAML WordPress Plugin Were Exploited Before Any Database Even Listed the Paid Editions as Vulnerable",
+            "link": "https://securityaffairs.com/197815/security/two-cvss-9-8-auth-bypasses-in-miniorange-saml-wordpress-plugin-were-exploited-before-any-database-even-listed-the-paid-editions-as-vulnerable.html"
+        }
+    ],
+    "CVE-2026-9254": [
+        {
+            "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-78541": [
+        {
+            "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-16348": [
+        {
+            "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Unpatched Zimbra servers are falling to CVE-2026-73570 attacks",
+            "link": "https://www.helpnetsecurity.com/2026/08/25/zimbra-cve-2026-73570-compromised/"
+        }
+    ],
+    "CVE-2026-59568": [
+        {
+            "title": "Multiple Zscaler Client Connector Flaws Enable Remote Code Execution",
+            "link": "https://gbhackers.com/multiple-zscaler-client-connector-flaws/"
+        },
+        {
+            "title": "Multiple Zscaler Client Connector Vulnerabilities Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/multiple-zscaler-client-connector-vulnerabilities/"
+        },
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
+        }
+    ],
+    "CVE-2026-59285": [
+        {
+            "title": "91 Spring Vulnerabilities Impact 209,000+ Software Components Across Open-Source Ecosystem",
+            "link": "https://cybersecuritynews.com/91-spring-vulnerabilities/"
+        },
+        {
+            "title": "Critical Spring GraphQL Deserialization Flaw Enables Remote Code Execution",
+            "link": "https://cyberpress.org/critical-spring-graphql-deserialization-flaw/"
+        }
+    ],
+    "CVE-2026-59318": [
+        {
+            "title": "91 Spring Vulnerabilities Impact 209,000+ Software Components Across Open-Source Ecosystem",
+            "link": "https://cybersecuritynews.com/91-spring-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "CVE-2026-72898: Critical Metabase Unauthenticated SQL Injection Vulnerability",
+            "link": "https://www.offsec.com/blog/cve-2026-72898-2/"
+        }
+    ],
+    "CVE-2026-65810": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62902": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-70354": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62886": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62897": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62872": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-59567": [
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
+        }
+    ],
+    "CVE-2026-59565": [
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
+        }
+    ],
+    "CVE-2026-59564": [
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
+        }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-60004",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-60004"
+        }
+    ],
+    "CVE-2024-28224": [
+        {
+            "title": "How One Malicious Page Can Hijack Your Local AI Model",
+            "link": "https://www.webpronews.com/how-one-malicious-page-can-hijack-your-local-ai-model/"
+        }
+    ],
+    "CVE-2025-21588": [
+        {
+            "title": "CISA Issues Urgent 3-Day Patch Mandate for Critical Oracle RCE Flaw (CVE-2025-21588)",
+            "link": "https://www.webpronews.com/cisa-issues-urgent-3-day-patch-mandate-for-critical-oracle-rce-flaw-cve-2025-21588/"
+        }
+    ]
+}

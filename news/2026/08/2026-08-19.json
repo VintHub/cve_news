@@ -1,0 +1,508 @@
+{
+    "CVE-2026-19650": [
+        {
+            "title": "GitLab\u2019s Out-of-Band Patch Exposes Lingering GraphQL Risks in Self-Managed DevOps Pipelines",
+            "link": "https://www.webpronews.com/gitlabs-out-of-band-patch-exposes-lingering-graphql-risks-in-self-managed-devops-pipelines/"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "GitLab\u2019s Out-of-Band Patch Exposes Lingering GraphQL Risks in Self-Managed DevOps Pipelines",
+            "link": "https://www.webpronews.com/gitlabs-out-of-band-patch-exposes-lingering-graphql-risks-in-self-managed-devops-pipelines/"
+        },
+        {
+            "title": "Critical GitLab Code Injection Flaw CVE-2026-19478",
+            "link": "https://www.cybermaterial.com/p/critical-gitlab-code-injection-flaw"
+        },
+        {
+            "title": "GitLab Patches Critical CVE-2026-19478 GraphQL Vulnerability",
+            "link": "https://www.esecurityplanet.com/threats/gitlab-patches-critical-cve-2026-19478-graphql-vulnerability/"
+        }
+    ],
+    "CVE-2026-5173": [
+        {
+            "title": "GitLab\u2019s Out-of-Band Patch Exposes Lingering GraphQL Risks in Self-Managed DevOps Pipelines",
+            "link": "https://www.webpronews.com/gitlabs-out-of-band-patch-exposes-lingering-graphql-risks-in-self-managed-devops-pipelines/"
+        }
+    ],
+    "CVE-2026-24301": [
+        {
+            "title": "Critical Microsoft Copilot CoSnitch Vulnerability Lets Attackers Steal Sensitive Data With One Click",
+            "link": "https://cybersecuritynews.com/copilot-cosnitch-vulnerability/"
+        },
+        {
+            "title": "Critical Microsoft Copilot CoSnitch Flaw Lets Hackers Steal Sensitive Data With One Click",
+            "link": "https://gbhackers.com/critical-microsoft-copilot-cosnitch-flaw/"
+        },
+        {
+            "title": "CoSnitch Microsoft Copilot Flaw Enables Silent Data Theft With a Single Click",
+            "link": "https://cyberpress.org/cosnitch-microsoft-copilot-flaw/"
+        },
+        {
+            "title": "Microsoft Copilot Flaws Could Expose User Data With One Click",
+            "link": "https://www.cysecurity.news/2026/08/microsoft-copilot-flaws-could-expose.html"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "Cl0p Hackers Exploit PTC Windchill Vulnerability to Deploy Custom Web Shell and Steal Data",
+            "link": "https://gbhackers.com/cl0p-exploits-windchill-vulnerability/"
+        },
+        {
+            "title": "Cl0p Hackers Exploit PTC Windchill Flaw to Steal Passwords and Sensitive Company Data",
+            "link": "https://cybersecuritynews.com/cl0p-hackers-exploit-ptc/"
+        },
+        {
+            "title": "Cl0p Hackers Exploit PTC Windchill RCE Flaw to Deploy Custom Data-Theft Web Shell",
+            "link": "https://cyberpress.org/cl0ps-windchill-data-theft-webshell/"
+        },
+        {
+            "title": "Clop-Linked Web Shell Targets PTC Windchill Servers in Data Theft Attacks",
+            "link": "https://www.cysecurity.news/2026/08/clop-linked-web-shell-targets-ptc.html"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware vCenter Path Traversal Flaw",
+            "link": "https://gbhackers.com/cisa-warns-vmware-vcenter-path-traversal-flaw/"
+        },
+        {
+            "title": "CISA Warns of VMware vCenter Path Traversal Flaw Exploited in the Wild",
+            "link": "https://cyberpress.org/vmware-vcenter-path-traversal-flaw-exploited/"
+        },
+        {
+            "title": "CISA Warns of VMware vCenter Path Traversal Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-path-traversal-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2023-48788": [
+        {
+            "title": "CISA Warns of Medusa Ransomware-as-a-Service Attacks Over 300 Organizations",
+            "link": "https://cyberpress.org/cisa-warns-of-medusa-ransomware-as-a-service-attacks/"
+        }
+    ],
+    "CVE-2024-1709": [
+        {
+            "title": "CISA Warns of Medusa Ransomware-as-a-Service Attacks Over 300 Organizations",
+            "link": "https://cyberpress.org/cisa-warns-of-medusa-ransomware-as-a-service-attacks/"
+        }
+    ],
+    "CVE-2026-33824": [
+        {
+            "title": "U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft\u00a0IKE flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197490/hacking/u-s-cisa-adds-apple-macos-microsoft-sharepoint-broadcom-vmware-vcenter-and-microsoft-ike-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Windows IKE Flaw Allowing Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-of-windows-ike-flaw/"
+        },
+        {
+            "title": "CISA Warns Microsoft Internet Key Exchange RCE Flaw Is Actively Exploited",
+            "link": "https://gbhackers.com/cisa-warns-microsoft-internet-key-exchange-rce-flaw/"
+        },
+        {
+            "title": "CISA Adds Microsoft Internet Key Exchange RCE Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-internet-key-exchange-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-71290": [
+        {
+            "title": "Critical Apache HttpComponents Client Flaw Lets Attackers Impersonate Servers",
+            "link": "https://gbhackers.com/critical-apache-httpcomponents-client-flaw/"
+        },
+        {
+            "title": "Critical Apache HttpComponents Flaw Allows Server Impersonation in MITM Attacks",
+            "link": "https://cyberpress.org/critical-apache-httpcomponents-flaw/"
+        }
+    ],
+    "CVE-2026-71952": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71958": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71945": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71953": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71948": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71957": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71950": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71955": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71947": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71951": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71956": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71949": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71944": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71946": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71954": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-40144": [
+        {
+            "title": "BeyondTrust Windows EPM Vulnerabilities Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/beyondtrust-windows-epm-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Endpoint Privilege Management Flaws Enable Local Privilege Escalation",
+            "link": "https://gbhackers.com/beyondtrust-endpoint-privilege-management-flaws/"
+        },
+        {
+            "title": "BeyondTrust EPM Flaw Lets Standard Windows Users Execute Code in Kernel Mode",
+            "link": "https://cyberpress.org/beyondtrust-epm-flaw/"
+        }
+    ],
+    "CVE-2026-40145": [
+        {
+            "title": "BeyondTrust Windows EPM Vulnerabilities Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/beyondtrust-windows-epm-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Endpoint Privilege Management Flaws Enable Local Privilege Escalation",
+            "link": "https://gbhackers.com/beyondtrust-endpoint-privilege-management-flaws/"
+        },
+        {
+            "title": "BeyondTrust EPM Flaw Lets Standard Windows Users Execute Code in Kernel Mode",
+            "link": "https://cyberpress.org/beyondtrust-epm-flaw/"
+        }
+    ],
+    "CVE-2026-76040": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76046": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76043": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76047": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76038": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76036": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76037": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76045": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76033": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76039": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76041": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76035": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76034": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76042": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76044": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-50548": [
+        {
+            "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-63093": [
+        {
+            "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
+        },
+        {
+            "title": "Cursor 0-Day Lets Attackers Execute Malicious Code by Opening a Repository",
+            "link": "https://gbhackers.com/cursor-0-day-lets-attackers-execute-malicious-code/"
+        },
+        {
+            "title": "Cursor 0-Day Allows Arbitrary Code Execution by Simply Opening a Repository",
+            "link": "https://cyberpress.org/cursor-0-day-allows-arbitrary-code-execution/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+            "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+        },
+        {
+            "title": "Hackers Actively Exploiting macOS\u2019s Built-in Screen Sharing Service Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-macoss-screen-sharing-service/"
+        }
+    ],
+    "CVE-2026-13242": [
+        {
+            "title": "Google Agentic AI Finds Over 100 Critical Security Flaws in Just Two Days",
+            "link": "https://cyberpress.org/google-agentic-ai-finds-over-100-critical-security-flaws/"
+        }
+    ],
+    "CVE-2026-55803": [
+        {
+            "title": "Google Agentic AI Finds Over 100 Critical Security Flaws in Just Two Days",
+            "link": "https://cyberpress.org/google-agentic-ai-finds-over-100-critical-security-flaws/"
+        }
+    ],
+    "CVE-2026-60696": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-60698": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-60977": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-60702": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-60672": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-61241": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "Windows Defender Update for 0-day Vulnerability Breaks Virus Scans",
+            "link": "https://cybersecuritynews.com/windows-defender-0-day-update-crash/"
+        }
+    ],
+    "CVE-2026-70926": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0August\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-60782": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0August\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-65346": [
+        {
+            "title": "Dangerous Apple Bug Lets Images Execute Malicious Code",
+            "link": "https://www.cyberdefensemagazine.com/dangerous-apple-bug-lets-images-execute-malicious-code/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "CISA Adds Microsoft SharePoint Weak Authentication Vulnerability to KEV List",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-authentication-vulnerability/"
+        },
+        {
+            "title": "Hackers exploit SharePoint bypass, Snowflake hacker\u2019s threats to researcher backfire, CISA warns schools",
+            "link": "https://cybersecuritytoday.libsyn.com/hackers-exploit-sharepoint-bypass-snowflake-hackers-threats-to-researcher-backfire-cisa-warns-schools"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Critical Citrix NetScaler Flaw Lets Remote Attackers Bypass Authentication Without Credentials",
+            "link": "https://cybersecuritynews.com/critical-citrix-netscaler-vulnerability/"
+        },
+        {
+            "title": "NetScaler CVE-2026-19490 Lets Attackers Bypass Authentication",
+            "link": "https://www.esecurityplanet.com/threats/netscaler-cve-2026-19490-lets-attackers-bypass-authentication/"
+        }
+    ],
+    "CVE-2026-19489": [
+        {
+            "title": "Critical Citrix NetScaler Flaw Lets Remote Attackers Bypass Authentication Without Credentials",
+            "link": "https://cybersecuritynews.com/critical-citrix-netscaler-vulnerability/"
+        }
+    ],
+    "CVE-2026-64849": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-64849",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-64849"
+        }
+    ],
+    "CVE-2024-29748": [
+        {
+            "title": "GrapheneOS Breaks Free From Pixels: Motorola Deal Promises Hardened Android on Flagships by 2027",
+            "link": "https://www.webpronews.com/grapheneos-breaks-free-from-pixels-motorola-deal-promises-hardened-android-on-flagships-by-2027/"
+        }
+    ],
+    "CVE-2024-29745": [
+        {
+            "title": "GrapheneOS Breaks Free From Pixels: Motorola Deal Promises Hardened Android on Flagships by 2027",
+            "link": "https://www.webpronews.com/grapheneos-breaks-free-from-pixels-motorola-deal-promises-hardened-android-on-flagships-by-2027/"
+        }
+    ],
+    "CVE-2026-0073": [
+        {
+            "title": "GrapheneOS Breaks Free From Pixels: Motorola Deal Promises Hardened Android on Flagships by 2027",
+            "link": "https://www.webpronews.com/grapheneos-breaks-free-from-pixels-motorola-deal-promises-hardened-android-on-flagships-by-2027/"
+        }
+    ]
+}

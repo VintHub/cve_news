@@ -1,0 +1,226 @@
+{
+    "CVE-2026-43707": [
+        {
+            "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+            "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html"
+        },
+        {
+            "title": "Critical Oracle E-Business Suite Bug Lets Attackers Hijack Enterprise Systems",
+            "link": "https://cyberpress.org/critical-oracle-e-business-suite-bug/"
+        },
+        {
+            "title": "Oracle E-Business Suite Payments flaw under attack (CVE-2026-46817)",
+            "link": "https://www.helpnetsecurity.com/2026/06/30/oracle-payments-cve-2026-46817-exploitation/"
+        }
+    ],
+    "CVE-2025-61882": [
+        {
+            "title": "Nissan Confirms Data Breach Following Oracle PeopleSoft 0-Day Attacks",
+            "link": "https://cybersecuritynews.com/nissan-confirms-data-breach/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Nissan Confirms Data Breach Following Oracle PeopleSoft 0-Day Attacks",
+            "link": "https://cybersecuritynews.com/nissan-confirms-data-breach/"
+        },
+        {
+            "title": "Nissan Confirms Employee Records Accessed Through Oracle PeopleSoft Attack",
+            "link": "https://cyberpress.org/nissan-employee-records-oracle-peoplesoft/"
+        },
+        {
+            "title": "Nissan Americas Hit in Global Oracle PeopleSoft Data Breach",
+            "link": "https://www.itsecuritynews.info/nissan-americas-hit-in-global-oracle-peoplesoft-data-breach/"
+        }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html"
+        },
+        {
+            "title": "SimpleHelp vulnerability exploited to deliver mighty Djinn Stealer (CVE-2026-48558)",
+            "link": "https://www.helpnetsecurity.com/2026/06/30/simplehelp-vulnerability-exploited-cve-2026-48558/"
+        },
+        {
+            "title": "U.S. CISA adds SimpleHelp\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-simplehelp-flaw-to-its-known-exploited-vulnerabilities-catalog-2/"
+        },
+        {
+            "title": "SimpleHelp OIDC Bypass Lets Attackers Gain Technician Session and Deploy Malware",
+            "link": "https://cyberpress.org/simplehelp-oidc-bypass/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+            "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html"
+        },
+        {
+            "title": "Critical Progress Kemp LoadMaster Vulnerability Enables Pre-Auth Remote Code Execution",
+            "link": "https://cybersecuritynews.com/critical-progress-kemp-loadmaster-vulnerability/"
+        }
+    ],
+    "CVE-2026-12957": [
+        {
+            "title": "Amazon Q\u2019s MCP Flaw Is an Industry Warning: AI Tools Still Lack Workspace Trust Standards",
+            "link": "https://www.itsecuritynews.info/amazon-qs-mcp-flaw-is-an-industry-warning-ai-tools-still-lack-workspace-trust-standards/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
+            "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+            "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "libssh2 CVE-2026-55200 Shows Why Outbound SSH Is an Attack Surface",
+            "link": "https://www.itsecuritynews.info/libssh2-cve-2026-55200-shows-why-outbound-ssh-is-an-attack-surface/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "CVE-2026-8451: Citrix NetScaler Vulnerability Leaks Memory",
+            "link": "https://www.itsecuritynews.info/cve-2026-8451-citrix-netscaler-vulnerability-leaks-memory/"
+        }
+    ],
+    "CVE-2026-39951": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-39938": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-39893": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-39955": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6091": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55958": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11999": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55960": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11310": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55964": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-5501": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-5194": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6291": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6679": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-10592": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6731": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-24294": [
+        {
+            "title": "Windows Authentication Reflection Bypass Lets Attackers Gain SYSTEM Shells",
+            "link": "https://cyberpress.org/windows-authentication-reflection-bypass-lets-attackers-gain-system-shells/"
+        }
+    ],
+    "CVE-2025-33073": [
+        {
+            "title": "Windows Authentication Reflection Bypass Lets Attackers Gain SYSTEM Shells",
+            "link": "https://cyberpress.org/windows-authentication-reflection-bypass-lets-attackers-gain-system-shells/"
+        }
+    ],
+    "CVE-2026-13135": [
+        {
+            "title": "Critical Synology MailPlus Server Bugs Enable File Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/critical-synology-mailplus-server-bug/"
+        }
+    ],
+    "CVE-2026-13136": [
+        {
+            "title": "Critical Synology MailPlus Server Bugs Enable File Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/critical-synology-mailplus-server-bug/"
+        }
+    ],
+    "CVE-2025-15660": [
+        {
+            "title": "Critical Synology MailPlus Server Bugs Enable File Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/critical-synology-mailplus-server-bug/"
+        }
+    ]
+}

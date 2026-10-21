@@ -1,0 +1,310 @@
+{
+    "CVE-2026-0257": [
+        {
+            "title": "Hackers Exploiting Palo Alto\u2019s PAN-OS Vulnerability to Deploy Qilin Ransomware",
+            "link": "https://cybersecuritynews.com/cve-2026-0257-qilin-ransomware/"
+        },
+        {
+            "title": "Hackers Exploit Palo Alto PAN-OS Flaw to Deploy Qilin Ransomware",
+            "link": "https://gbhackers.com/palo-alto-pan-os-flaw-to-deploy-qilin-ransomware/"
+        },
+        {
+            "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+            "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
+        },
+        {
+            "title": "Qilin Ransomware Affiliates Abuse CVE-2026-0257 to Gain Unauthorized VPN Access",
+            "link": "https://www.itsecuritynews.info/qilin-ransomware-affiliates-abuse-cve-2026-0257-to-gain-unauthorized-vpn-access/"
+        },
+        {
+            "title": "Qilin Ransomware Claims 1,358 Victims as Global Attacks Reach New Record",
+            "link": "https://cybersecuritynews.com/qilin-ransomware-claims-1358-victims/"
+        }
+    ],
+    "CVE-2026-6875": [
+        {
+            "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+            "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html"
+        },
+        {
+            "title": "Attackers Exploit Critical ServiceNow RCE Flaw CVE-2026-6875",
+            "link": "https://www.itsecuritynews.info/attackers-exploit-critical-servicenow-rce-flaw-cve-2026-6875/"
+        },
+        {
+            "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+            "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/"
+        },
+        {
+            "title": "Hackers Exploit ServiceNow Sandbox Escape Flaw for Pre-Auth Remote Code Execution",
+            "link": "https://cyberpress.org/hackers-exploit-servicenow-sandbox-escape-flaw/"
+        },
+        {
+            "title": "Hackers Exploit ServiceNow AI Platform Flaw to Gain Unauthenticated Remote Code Execution",
+            "link": "https://gbhackers.com/hackers-exploit-servicenow-ai-platform-flaw-to-gain-unauthenticated-remote-code-execution/"
+        }
+    ],
+    "CVE-2026-58443": [
+        {
+            "title": "Critical Gitea Flaw Lets Public-Only Tokens Write to Private Repositories and Trigger Actions Workflows",
+            "link": "https://www.itsecuritynews.info/critical-gitea-flaw-lets-public-only-tokens-write-to-private-repositories-and-trigger-actions-workflows/"
+        },
+        {
+            "title": "Critical Gitea Vulnerability Lets Public Repository Tokens Trigger Private Workflows",
+            "link": "https://cyberpress.org/critical-gitea-vulnerability/"
+        },
+        {
+            "title": "Critical Gitea Vulnerability Enables Private Repository Writes and Actions Workflow Triggers",
+            "link": "https://cybersecuritynews.com/gitea-vulnerability/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+            "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-63030",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-63030"
+        },
+        {
+            "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
+        },
+        {
+            "title": "WordPress Under Siege: Attackers Chain Core Flaws for Rapid Site Takeovers",
+            "link": "https://www.webpronews.com/wordpress-under-siege-attackers-chain-core-flaws-for-rapid-site-takeovers/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+            "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-60137",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-60137"
+        },
+        {
+            "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
+        },
+        {
+            "title": "WordPress Under Siege: Attackers Chain Core Flaws for Rapid Site Takeovers",
+            "link": "https://www.webpronews.com/wordpress-under-siege-attackers-chain-core-flaws-for-rapid-site-takeovers/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall SMA zero-days were exploited weeks before disclosure",
+            "link": "https://www.helpnetsecurity.com/2026/07/21/sonicwall-sma-zero-days-exploited-cve-2026-15409-cve-2026-15410/"
+        },
+        {
+            "title": "SonicWall 0-day Vulnerabilities Exploited in the Wild to Deploy Custom Malware",
+            "link": "https://cybersecuritynews.com/sonicwall-0-day-vulnerabilities-exploited/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall SMA zero-days were exploited weeks before disclosure",
+            "link": "https://www.helpnetsecurity.com/2026/07/21/sonicwall-sma-zero-days-exploited-cve-2026-15409-cve-2026-15410/"
+        },
+        {
+            "title": "SonicWall 0-day Vulnerabilities Exploited in the Wild to Deploy Custom Malware",
+            "link": "https://cybersecuritynews.com/sonicwall-0-day-vulnerabilities-exploited/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Agentic Hacker Exploits Langflow RCE to Encrypt AI and Machine-Learning Infrastructure",
+            "link": "https://cyberpress.org/agentic-hacker-encrypts-ai-infrastructure/"
+        },
+        {
+            "title": "Agentic JADEPUFFER Exploits Langflow Flaw to Deploy ENCFORGE AI Ransomware",
+            "link": "https://cybersecuritynews.com/agentic-jadepuffer-langflow-flaw/"
+        }
+    ],
+    "CVE-2026-64187": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64207": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64191": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64205": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64188": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64189": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64120": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64206": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64074": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64192": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64190": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-53358": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-33053": [
+        {
+            "title": "One Security Alert Exposed a GenAI-Powered Malware Factory Containing More Than 1,000 Attack Files",
+            "link": "https://cybersecuritynews.com/one-security-alert-exposed-a-genai-powered-malware-factory/"
+        }
+    ],
+    "CVE-2026-64122": [
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+            "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
+        },
+        {
+            "title": "Critical SharePoint Remote Code Execution Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/sharepoint-rce-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/"
+        },
+        {
+            "title": "Public PoC triggers active exploitation of critical SharePoint RCE vulnerability CVE-2026-50522",
+            "link": "https://www.itsecuritynews.info/public-poc-triggers-active-exploitation-of-critical-sharepoint-rce-vulnerability-cve-2026-50522/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Critical SharePoint Remote Code Execution Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/sharepoint-rce-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2017-8570": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2022-30190": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2017-11882": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2017-0199": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2026-0770": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-0770",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-0770"
+        }
+    ],
+    "CVE-2021-27137": [
+        {
+            "title": "CISA KEV Addition: CVE-2021-27137",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-27137"
+        }
+    ],
+    "CVE-2026-50297": [
+        {
+            "title": "ZDI-26-446: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-446/"
+        }
+    ],
+    "CVE-2026-50325": [
+        {
+            "title": "ZDI-26-445: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-445/"
+        }
+    ],
+    "CVE-2026-8933": [
+        {
+            "title": "CVE-2026-8933: Local Privilege Escalation in Set-Capabilities snap-confine",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ]
+}

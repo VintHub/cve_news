@@ -1,0 +1,54 @@
+{
+    "CVE-2026-64638": [
+        {
+            "title": "WordPress XSS2Shell Flaw Lets Unauthenticated Attackers Gain Remote Code Execution",
+            "link": "https://cyberpress.org/wordpress-xss2shell-flaw-lets-unauthenticated-attackers-gain-remote-code-execution/"
+        },
+        {
+            "title": "WordPress XSS2Shell Flaw Enables Attackers to Achieve Remote Code Execution",
+            "link": "https://gbhackers.com/critical-wordpress-vulnerability/"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "Storm-1175 Deploys New StormEncryptor Ransomware, Likely Exploiting N-able Flaw",
+            "link": "https://cyberpress.org/storm-1175-deploys-new-stormencryptor-ransomware/"
+        }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Critical macOS Screen Sharing Flaw Enables Pre-Auth RCE and Root File Access",
+            "link": "https://cyberpress.org/critical-macos-screen-sharing-flaw/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Critical macOS Screen Sharing Flaw Enables Pre-Auth RCE and Root File Access",
+            "link": "https://cyberpress.org/critical-macos-screen-sharing-flaw/"
+        },
+        {
+            "title": "Critical macOS RCE Vulnerability Allows Attackers to Gain Root Access Without Password",
+            "link": "https://gbhackers.com/critical-macos-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-64564": [
+        {
+            "title": "SCTPhantom Linux Kernel Flaw Lets Local Attackers Gain Root and Escape Containers",
+            "link": "https://cyberpress.org/sctphantom-linux-kernel-flaw/"
+        },
+        {
+            "title": "18-Year-Old Linux Kernel SCTP Vulnerability Lets Attackers Gain Root and Escape Containers",
+            "link": "https://gbhackers.com/18-year-old-linux-kernel-sctp-vulnerability/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+            "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
+        },
+        {
+            "title": "U.S. CISA adds a Progress LoadMaster flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-progress-loadmaster-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        }
+    ]
+}

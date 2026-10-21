@@ -1,0 +1,182 @@
+{
+    "CVE-2026-93485": [
+        {
+            "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+            "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html"
+        }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+            "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html"
+        },
+        {
+            "title": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)",
+            "link": "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "Hackers Exploit WordPress CVE-2026-63030 and CVE-2026-60137 to Steal Government Data",
+            "link": "https://gbhackers.com/wordpress-vulnerability-exploitation/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "Hackers Exploit WordPress CVE-2026-63030 and CVE-2026-60137 to Steal Government Data",
+            "link": "https://gbhackers.com/wordpress-vulnerability-exploitation/"
+        }
+    ],
+    "CVE-2026-89775": [
+        {
+            "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+            "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html"
+        },
+        {
+            "title": "Linux KVM/arm64 Vulnerability Lets Attackers Escape Virtual Machines and Gain Host Access",
+            "link": "https://cybersecuritynews.com/linux-kvm-arm64-vulnerability/"
+        },
+        {
+            "title": "Critical Linux KVM Flaw Enables Guest-to-Host Escape on ARM64 Systems",
+            "link": "https://gbhackers.com/critical-linux-kvm-flaw/"
+        },
+        {
+            "title": "Critical Linux KVM Flaw Lets Attackers Escape Virtual Machines and Gain Root Access",
+            "link": "https://cyberpress.org/critical-linux-kvm-flaw/"
+        }
+    ],
+    "CVE-2026-65660": [
+        {
+            "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+            "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
+        },
+        {
+            "title": "Microsoft SharePoint Flaw Lets Attackers Execute Code Remotely With Low Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-rce-flaw/"
+        }
+    ],
+    "CVE-2026-53266": [
+        {
+            "title": "CISA Sounds Alarm on Three Exploited Linux Kernel Flaws: Federal Agencies Face Tight Deadline",
+            "link": "https://www.webpronews.com/cisa-sounds-alarm-on-three-exploited-linux-kernel-flaws-federal-agencies-face-tight-deadline/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "CISA Sounds Alarm on Three Exploited Linux Kernel Flaws: Federal Agencies Face Tight Deadline",
+            "link": "https://www.webpronews.com/cisa-sounds-alarm-on-three-exploited-linux-kernel-flaws-federal-agencies-face-tight-deadline/"
+        }
+    ],
+    "CVE-2025-39682": [
+        {
+            "title": "CISA Sounds Alarm on Three Exploited Linux Kernel Flaws: Federal Agencies Face Tight Deadline",
+            "link": "https://www.webpronews.com/cisa-sounds-alarm-on-three-exploited-linux-kernel-flaws-federal-agencies-face-tight-deadline/"
+        }
+    ],
+    "CVE-2026-58138": [
+        {
+            "title": "Orkes Conductor RCE Draws Nearly 7,000 Exploit Attempts",
+            "link": "https://www.esecurityplanet.com/threats/news-orkes-conductor-rce-cve-2026-58138/"
+        }
+    ],
+    "CVE-2026-32996": [
+        {
+            "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows",
+            "link": "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/"
+        },
+        {
+            "title": "Veeam Agent Flaw Actively Exploited to Gain SYSTEM Privileges on Windows",
+            "link": "https://cybersecuritynews.com/veeam-agent-flaw-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Veeam Agent Flaw to Gain SYSTEM Privileges on Windows",
+            "link": "https://cyberpress.org/hackers-exploit-veeam-agent-flaw/"
+        }
+    ],
+    "CVE-2026-75939": [
+        {
+            "title": "Red Hat OpenShift Flaw Lets Attackers Poison Disconnected Registries With Malicious Releases",
+            "link": "https://gbhackers.com/red-hat-openshift-flaw/"
+        },
+        {
+            "title": "Red Hat OpenShift Flaw Lets Attackers Bypass PGP Checks and Push Malicious Releases",
+            "link": "https://cybersecuritynews.com/red-hat-openshift-flaw/"
+        },
+        {
+            "title": "Red Hat OpenShift Flaw Lets Attackers Bypass Signature Checks and Inject Malicious Release Images",
+            "link": "https://cyberpress.org/red-hat-openshift-flaw-lets-attackers-bypass-signature-checks-and-inject-malicious-release-images/"
+        }
+    ],
+    "CVE-2026-77521": [
+        {
+            "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute System Commands",
+            "link": "https://gbhackers.com/critical-maxkb-ai-agent-flaw/"
+        },
+        {
+            "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-maxkb-ai-agent-flaw/"
+        }
+    ],
+    "CVE-2026-93952": [
+        {
+            "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+            "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-93952",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-93952"
+        }
+    ],
+    "CVE-2026-86296": [
+        {
+            "title": "D-Link DIR-822A Router Vulnerability Scores CVSS 10.0 With Public PoC Available",
+            "link": "https://gbhackers.com/d-link-dir-822a-router-vulnerability/"
+        },
+        {
+            "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+            "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/"
+        }
+    ],
+    "CVE-2026-93616": [
+        {
+            "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+            "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html"
+        },
+        {
+            "title": "Check Point Management Server 0-Day Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/check-point-management-server-0-day-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-93616",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-93616"
+        },
+        {
+            "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw",
+            "link": "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html"
+        }
+    ],
+    "CVE-2026-90898": [
+        {
+            "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+            "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html"
+        }
+    ],
+    "CVE-2026-94127": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-94127",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-94127"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-85102",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-85102"
+        }
+    ],
+    "CVE-2026-20350": [
+        {
+            "title": "ZDI-26-719: Cisco ThousandEyes Virtual Appliance DHCP Client Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-719/"
+        }
+    ]
+}

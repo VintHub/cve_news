@@ -1,0 +1,674 @@
+{
+    "CVE-2026-8451": [
+        {
+            "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+            "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
+        }
+    ],
+    "CVE-2026-55956": [
+        {
+            "title": "Multiple Apache Tomcat Vulnerabilities Allow Attackers to Bypass Authentication",
+            "link": "https://cybersecuritynews.com/multiple-apache-tomcat-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55957": [
+        {
+            "title": "Multiple Apache Tomcat Vulnerabilities Allow Attackers to Bypass Authentication",
+            "link": "https://cybersecuritynews.com/multiple-apache-tomcat-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13777": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13786": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13781": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13775": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13779": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13787": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13784": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13785": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13776": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13774": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13780": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13783": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13778": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13788": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13782": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13474": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
+        }
+    ],
+    "CVE-2026-10817": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
+        }
+    ],
+    "CVE-2026-8655": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
+        }
+    ],
+    "CVE-2026-10816": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
+        }
+    ],
+    "CVE-2026-13790": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13795": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13859": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13856": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13845": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13844": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13789": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13832": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13870": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13830": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13827": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13853": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13840": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13794": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13860": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13793": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13791": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13792": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13846": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13861": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13848": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13869": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13854": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13831": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13855": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13858": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13857": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13862": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "CISA Adds Actively Exploited SimpleHelp Authentication Bypass Flaw to KEV Catalog",
+            "link": "https://cyberpress.org/cisa-exploited-simplehelp-authentication/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited SimpleHelp Vulnerability to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-actively-exploited-simplehelp-vulnerability-to-kev-catalog/"
+        }
+    ],
+    "CVE-2026-55407": [
+        {
+            "title": "Anthropic buffa Library Zero-Day Lets Attackers Trigger Memory-Amplification DoS",
+            "link": "https://www.itsecuritynews.info/anthropic-buffa-library-zero-day-lets-attackers-trigger-memory-amplification-dos/"
+        },
+        {
+            "title": "Anthropic\u2019s Buffa Rust Library 0-Day Vulnerability Enables DoS Attack",
+            "link": "https://www.itsecuritynews.info/anthropics-buffa-rust-library-0-day-vulnerability-enables-dos-attack/"
+        },
+        {
+            "title": "Anthropic buffa Library Hit by Zero-Day DoS Flaw in Rust Protobuf Decoder",
+            "link": "https://cyberpress.org/anthropic-buffa-library-flaw/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+            "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html"
+        }
+    ],
+    "CVE-2026-50548": [
+        {
+            "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+            "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html"
+        },
+        {
+            "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
+            "link": "https://cybersecuritynews.com/cursor-ide-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+            "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html"
+        },
+        {
+            "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
+            "link": "https://cybersecuritynews.com/cursor-ide-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44160": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44024": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44161": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44025": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48307": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48283": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48281": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48313": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48285": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48276": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48315": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48314": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48316": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48277": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-31928": [
+        {
+            "title": "Remote Exploits Target Controller Flaws in Highway Signs and Digital Billboards",
+            "link": "https://www.itsecuritynews.info/remote-exploits-target-controller-flaws-in-highway-signs-and-digital-billboards/"
+        }
+    ],
+    "CVE-2026-33560": [
+        {
+            "title": "Remote Exploits Target Controller Flaws in Highway Signs and Digital Billboards",
+            "link": "https://www.itsecuritynews.info/remote-exploits-target-controller-flaws-in-highway-signs-and-digital-billboards/"
+        }
+    ],
+    "CVE-2026-28701": [
+        {
+            "title": "Remote Exploits Target Controller Flaws in Highway Signs and Digital Billboards",
+            "link": "https://www.itsecuritynews.info/remote-exploits-target-controller-flaws-in-highway-signs-and-digital-billboards/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "BlueHammer Microsoft Defender Vulnerability Linked to Ransomware Attacks After CISA Confirms Active Exploitation",
+            "link": "https://www.itsecuritynews.info/bluehammer-microsoft-defender-vulnerability-linked-to-ransomware-attacks-after-cisa-confirms-active-exploitation/"
+        }
+    ],
+    "CVE-2021-41186": [
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2022-39379": [
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-45659",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45659"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "Oracle E-Business Suite Flaw Under Active Attack, 950 Systems Exposed",
+            "link": "https://www.itsecuritynews.info/oracle-e-business-suite-flaw-under-active-attack-950-systems-exposed/"
+        }
+    ],
+    "CVE-2026-6902": [
+        {
+            "title": "Code Injection in Perforce Helix Core (CVE-2026-6902)",
+            "link": "https://www.itsecuritynews.info/code-injection-in-perforce-helix-core-cve-2026-6902/"
+        }
+    ]
+}

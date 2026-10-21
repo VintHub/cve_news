@@ -1,0 +1,142 @@
+{
+    "CVE-2026-45495": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
+        }
+    ],
+    "CVE-2026-45492": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
+        }
+    ],
+    "CVE-2026-45494": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
+        }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
+            "link": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/"
+        },
+        {
+            "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/"
+        },
+        {
+            "title": "Cisco SD-WAN Security Flaw Actively Exploited for Root-Level Command Execution",
+            "link": "https://www.itsecuritynews.info/cisco-sd-wan-security-flaw-actively-exploited-for-root-level-command-execution/"
+        },
+        {
+            "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
+            "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
+        },
+        {
+            "title": "Cisco SD-WAN Has a New Root-Level Problem, and There\u2019s No Fix Yet",
+            "link": "https://www.itsecuritynews.info/cisco-sd-wan-has-a-new-root-level-problem-and-theres-no-fix-yet/"
+        }
+    ],
+    "CVE-2022-0492": [
+        {
+            "title": "CISA Issues Alert on Actively Exploited Linux Kernel Security Flaw",
+            "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-actively-exploited-linux-kernel-security-flaw/"
+        }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
+            "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
+            "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
+        }
+    ],
+    "CVE-2026-3300": [
+        {
+            "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+            "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"
+        }
+    ],
+    "CVE-2026-4372": [
+        {
+            "title": "Hugging Face Transformers Security Flaw Allows Remote Code Execution",
+            "link": "https://www.itsecuritynews.info/hugging-face-transformers-security-flaw-allows-remote-code-execution/"
+        }
+    ],
+    "CVE-2021-27137": [
+        {
+            "title": "New Gafgyt Variant Targets Linux Systems With Modular Spread Tactics",
+            "link": "https://www.itsecuritynews.info/new-gafgyt-variant-targets-linux-systems-with-modular-spread-tactics/"
+        },
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
+            "link": "https://www.itsecuritynews.info/threat-brief-active-exploitation-of-pan-os-cve-2026-0257/"
+        }
+    ],
+    "CVE-2026-28318": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-28318",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-28318"
+        }
+    ],
+    "CVE-2016-15047": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2022-35914": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2015-2051": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2025-34054": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2026-25253": [
+        {
+            "title": "Agentic AI Red Teaming Reveals Zero-Click Human-in-the-Loop Bypass Attack Chains",
+            "link": "https://cybersecuritynews.com/agentic-ai-red-teaming-reveals-zero-click/"
+        }
+    ],
+    "CVE-2025-62626": [
+        {
+            "title": "AMD\u2019s Zen 5 Stumbles: The RDSEED Bug, Refresh Plans and What It Means for Buyers",
+            "link": "https://www.webpronews.com/amds-zen-5-stumbles-the-rdseed-bug-refresh-plans-and-what-it-means-for-buyers/"
+        }
+    ],
+    "CVE-2026-20045": [
+        {
+            "title": "Cisco Races to Patch Unified CM Flaw as Public Exploit Code Raises Stakes",
+            "link": "https://www.webpronews.com/cisco-races-to-patch-unified-cm-flaw-as-public-exploit-code-raises-stakes/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Races to Patch Unified CM Flaw as Public Exploit Code Raises Stakes",
+            "link": "https://www.webpronews.com/cisco-races-to-patch-unified-cm-flaw-as-public-exploit-code-raises-stakes/"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "CVE-2026-70465": [
+        {
+            "title": "Fortinet FortiWeb and FortiClient Flaws Let Unauthenticated Attackers Gain Access and Execute Arbitrary Code",
+            "link": "https://gbhackers.com/fortinet-fortiweb-and-forticlient-flaws/"
+        },
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-26035": [
+        {
+            "title": "Fortinet FortiWeb and FortiClient Flaws Let Unauthenticated Attackers Gain Access and Execute Arbitrary Code",
+            "link": "https://gbhackers.com/fortinet-fortiweb-and-forticlient-flaws/"
+        },
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+            "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+        },
+        {
+            "title": "ShieldBreak: New Windows Zero-Day Bypasses Microsoft\u2019s RoguePlanet Patch",
+            "link": "https://securityaffairs.com/197063/hacking/shieldbreak-new-windows-zero-day-bypasses-microsofts-rogueplanet-patch.html"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+            "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+        },
+        {
+            "title": "SAP Commerce Cloud RCE Flaw Actively Exploited",
+            "link": "https://www.esecurityplanet.com/threats/sap-commerce-cloud-rce-flaw-actively-exploited/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
+        }
+    ],
+    "CVE-2024-36401": [
+        {
+            "title": "GeoServer 0-Day Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/geoserver-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-23670": [
+        {
+            "title": "Download More RAM Attack Bypasses Windows VBS and Disables Defender Through Memory Aliasing",
+            "link": "https://cybersecuritynews.com/download-more-ram-attack/"
+        }
+    ],
+    "CVE-2026-48362": [
+        {
+            "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+            "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        }
+    ],
+    "CVE-2023-25157": [
+        {
+            "title": "GeoServer Zero-Day SQL Injection Lets Unauthenticated Attackers Target Servers for RCE",
+            "link": "https://cyberpress.org/geoserver-zero-day-sql-injection/"
+        }
+    ],
+    "CVE-2026-71408": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-70468": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-71407": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-70467": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-49975": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-70466": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2025-30237": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30238": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30239": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30241": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30240": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "Citrix NetScaler Heap Overflow Flaw Lets Remote Attackers Execute Code as Root \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-heap-overflow/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Citrix NetScaler Heap Overflow Flaw Lets Remote Attackers Execute Code as Root \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-heap-overflow/"
+        }
+    ],
+    "CVE-2026-68820": [
+        {
+            "title": "Lazarus Abuses Zero-Day Exploit to Install a New Backdoor",
+            "link": "https://www.cysecurity.news/2026/08/lazarus-abuses-zero-day-exploit-to.html"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "New Ransomware Targets AI Model Weights but Fails to Collect Ransom",
+            "link": "https://www.cysecurity.news/2026/08/new-ransomware-targets-ai-model-weights.html"
+        },
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-19910": [
+        {
+            "title": "ZDI-26-526: (0Day) PAX Technology Q80 Application Installer Signature Verification Bypass Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-526/"
+        }
+    ],
+    "CVE-2026-19911": [
+        {
+            "title": "ZDI-26-526: (0Day) PAX Technology Q80 Application Installer Signature Verification Bypass Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-526/"
+        }
+    ],
+    "CVE-2026-0300": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-3055": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-39987": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2025-68613": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-21858": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-34486": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-33824": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "The Agentic AI threat cluster: Seven incidents, three actors, and what they mean for your exposure",
+            "link": "https://www.tenable.com/blog/the-agentic-ai-threat-cluster-seven-incidents-three-actors-and-what-they-mean"
+        }
+    ]
+}

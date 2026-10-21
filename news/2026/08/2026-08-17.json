@@ -1,0 +1,84 @@
+{
+    "CVE-2026-55040": [
+        {
+            "title": "Hackers exploit SharePoint bypass, Snowflake hacker\u2019s threats to researcher backfire, CISA warns schools",
+            "link": "https://cybersecuritytoday.libsyn.com/hackers-exploit-sharepoint-bypass-snowflake-hackers-threats-to-researcher-backfire-cisa-warns-schools"
+        }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Apple Screen Sharing Vulnerability Exploited to Execute Command as Root",
+            "link": "https://cybersecuritynews.com/apple-screen-sharing-vulnerability/"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "Critical SAP Commerce Cloud RCE Vulnerability Actively Exploited in the Wild",
+            "link": "https://gbhackers.com/critical-sap-commerce-cloud-rce-vulnerability/"
+        },
+        {
+            "title": "Hackers Exploit Attempts Target Critical SAP Commerce Cloud RCE Flaw",
+            "link": "https://cyberpress.org/hackers-exploit-critical-sap-commerce-cloud-rce/"
+        },
+        {
+            "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
+            "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+        },
+        {
+            "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html"
+        }
+    ],
+    "CVE-2026-69414": [
+        {
+            "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+            "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+            "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html"
+        }
+    ],
+    "CVE-2026-47301": [
+        {
+            "title": "Microsoft SCCM Vulnerability Chained to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-sccm-vulnerability/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+            "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
+        },
+        {
+            "title": "Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer",
+            "link": "https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+            "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/"
+        }
+    ],
+    "CVE-2025-62593": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-62593",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-62593"
+        }
+    ],
+    "CVE-2026-15748": [
+        {
+            "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+            "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+            "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+        }
+    ]
+}

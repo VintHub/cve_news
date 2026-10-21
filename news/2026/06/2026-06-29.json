@@ -1,0 +1,220 @@
+{
+    "CVE-2026-55200": [
+        {
+            "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+            "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html"
+        }
+    ],
+    "CVE-2026-41120": [
+        {
+            "title": "Dell Wyse Management Suite Flaws Let Remote Attackers Execute Code",
+            "link": "https://cyberpress.org/dell-wyse-management-suite-flaws/"
+        },
+        {
+            "title": "Critical Dell Wyse Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/dell-wyse-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-49506": [
+        {
+            "title": "Dell Wyse Management Suite Flaws Let Remote Attackers Execute Code",
+            "link": "https://cyberpress.org/dell-wyse-management-suite-flaws/"
+        },
+        {
+            "title": "Critical Dell Wyse Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/dell-wyse-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "GIFTEDCROOK Payload Targets Chrome, Firefox, KeePass, OpenVPN, and Sensitive Documents",
+            "link": "https://cyberpress.org/giftedcrook-steals-sensitive-data/"
+        },
+        {
+            "title": "Russia-Linked Turla Uses Compromised Infrastructure to Deploy STOCKSTAY in Ukraine Operations",
+            "link": "https://cybersecuritynews.com/russia-linked-turla-uses-compromised-infrastructure/"
+        },
+        {
+            "title": "Turla Hackers Use STOCKSTAY .NET Backdoor to Spy on Ukrainian Government and Military Targets",
+            "link": "https://cyberpress.org/turla-stockstay-targets-ukraine/"
+        }
+    ],
+    "CVE-2025-6218": [
+        {
+            "title": "GIFTEDCROOK Payload Targets Chrome, Firefox, KeePass, OpenVPN, and Sensitive Documents",
+            "link": "https://cyberpress.org/giftedcrook-steals-sensitive-data/"
+        }
+    ],
+    "CVE-2025-60727": [
+        {
+            "title": "Microsoft 365 Apps Security Update Fixes High-Severity Excel RCE Vulnerability",
+            "link": "https://cyberpress.org/microsoft-365-apps-security-update/"
+        },
+        {
+            "title": "Microsoft 365 Apps RCE Vulnerability Lets Attackers Execute Code via Malicious Excel Files",
+            "link": "https://www.itsecuritynews.info/microsoft-365-apps-rce-vulnerability-lets-attackers-execute-code-via-malicious-excel-files/"
+        },
+        {
+            "title": "Microsoft 365 Apps RCE Vulnerability Exploited Using a Malicious Excel File",
+            "link": "https://cybersecuritynews.com/microsoft-365-apps-rce-vulnerability-exploit/"
+        }
+    ],
+    "CVE-2026-12537": [
+        {
+            "title": "Critical Google Gemini CLI Flaw Lets Attackers Execute Code on Headless CI Platforms",
+            "link": "https://www.itsecuritynews.info/critical-google-gemini-cli-flaw-lets-attackers-execute-code-on-headless-ci-platforms/"
+        },
+        {
+            "title": "Critical Gemini CLI Vulnerability Exposes CI Workflows to Command Injection Attacks",
+            "link": "https://cyberpress.org/critical-gemini-cli-vulnerability/"
+        },
+        {
+            "title": "Critical Gemini CLI Vulnerability Lets Attackers Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/critical-gemini-cli-vulnerability/"
+        }
+    ],
+    "CVE-2026-50160": [
+        {
+            "title": "Critical Hoppscotch Flaw Lets Unauthenticated Attackers Overwrite JWT Secrets",
+            "link": "https://cyberpress.org/critical-hoppscotch-flaw/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Langflow RCE Flaw Exploited to Deploy Monero Cryptominer on AI Servers",
+            "link": "https://cyberpress.org/langflow-rce-flaw/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Langflow RCE Flaw Exploited to Deploy Monero Cryptominer on AI Servers",
+            "link": "https://cyberpress.org/langflow-rce-flaw/"
+        }
+    ],
+    "CVE-2026-20251": [
+        {
+            "title": "Splunk Secure Gateway RCE Vulnerability Lets Low-Privileged Attackers Execute Arbitrary Code",
+            "link": "https://www.itsecuritynews.info/splunk-secure-gateway-rce-vulnerability-lets-low-privileged-attackers-execute-arbitrary-code/"
+        },
+        {
+            "title": "Public PoC Released for Deserialization RCE Vulnerability in Splunk Secure Gateway",
+            "link": "https://cybersecuritynews.com/splunk-secure-gateway-deserialization-rce-vulnerability/"
+        },
+        {
+            "title": "Splunk Secure Gateway RCE Flaw Lets Low-Privileged Users Execute OS Commands",
+            "link": "https://cyberpress.org/splunk-secure-gateway-rce-flaw/"
+        }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-48558",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48558"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-one-known-exploited-vulnerability-to-catalog-78/"
+        },
+        {
+            "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/"
+        },
+        {
+            "title": "Hackers Exploiting Critical Oracle E-Business Suite Vulnerability Actively in Attacks",
+            "link": "https://cybersecuritynews.com/oracle-e-business-flaw-actively-exploited/"
+        }
+    ],
+    "CVE-2026-20253": [
+        {
+            "title": "Public PoC Released for Deserialization RCE Vulnerability in Splunk Secure Gateway",
+            "link": "https://cybersecuritynews.com/splunk-secure-gateway-deserialization-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "JSP webshells being dropped on unpatched PTC Windchill instances",
+            "link": "https://www.helpnetsecurity.com/2026/06/29/ptc-windchill-cve-2026-12569-exploited/"
+        }
+    ],
+    "CVE-2026-57667": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-56044": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-12242": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-54824": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-56054": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-10711": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-57643": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-12100": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2020-9695": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-54846": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2025-55284": [
+        {
+            "title": "New Claude Code Attack Allows Attackers to Take Full Control of Developers\u2019 Systems",
+            "link": "https://cybersecuritynews.com/new-claude-code-attack/"
+        }
+    ],
+    "CVE-2026-43707": [
+        {
+            "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+            "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html"
+        }
+    ]
+}

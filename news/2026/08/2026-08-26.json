@@ -1,0 +1,672 @@
+{
+    "CVE-2025-20989": [
+        {
+            "title": "Oracle WebLogic CVE-2025-20989: Critical RCE Flaw Bypasses All 2025 Patches",
+            "link": "https://www.webpronews.com/oracle-weblogic-cve-2025-20989-critical-rce-flaw-bypasses-all-2025-patches/"
+        }
+    ],
+    "CVE-2026-63073": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-14457": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-63075": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-63074": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-63072": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-75803": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54874": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-63076": [
+        {
+            "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
+            "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "CISA Warns of Exploited Gitea Vulnerability",
+            "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/"
+        },
+        {
+            "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+            "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
+        },
+        {
+            "title": "U.S. CISA adds Gitea flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197854/security/u-s-cisa-adds-gitea-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Critical Gitea Vulnerability (CVE-2026-60004) Actively Exploited for Crypto Mining \u2013 Upgrade to 1.27.1 Now",
+            "link": "https://www.webpronews.com/critical-gitea-vulnerability-cve-2026-60004-actively-exploited-for-crypto-mining-upgrade-to-1-27-1-now/"
+        },
+        {
+            "title": "Critical Gitea vulnerability now exploited in the wild (CVE-2026-60004)",
+            "link": "https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-18798": [
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65105": [
+        {
+            "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents With One Website Visit",
+            "link": "https://cybersecuritynews.com/nvidia-nemoclaw-flaw/"
+        },
+        {
+            "title": "NVIDIA NemoClaw Vulnerability Lets Attackers Hijack AI Agents via DNS Rebinding",
+            "link": "https://gbhackers.com/nvidia-nemoclaw-vulnerability/"
+        },
+        {
+            "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents Through DNS Rebinding",
+            "link": "https://cyberpress.org/nvidia-nemoclaw-flaw/"
+        }
+    ],
+    "CVE-2026-63520": [
+        {
+            "title": "Microsoft SharePoint Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/microsoft-sharepoint-flaws/"
+        },
+        {
+            "title": "Two Microsoft SharePoint Flaws Can Be Chained to Hack Servers Without a Password",
+            "link": "https://cybersecuritynews.com/sharepoint-flaws-chained-to-hack-servers/"
+        },
+        {
+            "title": "Microsoft SharePoint Flaws Chain to Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/microsoft-sharepoint-flaws-chain/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Microsoft SharePoint Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/microsoft-sharepoint-flaws/"
+        },
+        {
+            "title": "Two Microsoft SharePoint Flaws Can Be Chained to Hack Servers Without a Password",
+            "link": "https://cybersecuritynews.com/sharepoint-flaws-chained-to-hack-servers/"
+        },
+        {
+            "title": "Microsoft SharePoint Flaws Chain to Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/microsoft-sharepoint-flaws-chain/"
+        }
+    ],
+    "CVE-2026-66152": [
+        {
+            "title": "SonicWall NetExtender Vulnerabilities Allow an Attacker to Write Arbitrary Files as Root",
+            "link": "https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/"
+        },
+        {
+            "title": "SonicWall NetExtender Flaw Lets Attackers Write Arbitrary Files as Root",
+            "link": "https://cyberpress.org/sonicwall-netextender-flaw/"
+        },
+        {
+            "title": "SonicWall NetExtender Flaw Lets Attackers Write Arbitrary Files as Root",
+            "link": "https://gbhackers.com/sonicwall-netextender-flaw/"
+        }
+    ],
+    "CVE-2026-66153": [
+        {
+            "title": "SonicWall NetExtender Vulnerabilities Allow an Attacker to Write Arbitrary Files as Root",
+            "link": "https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/"
+        },
+        {
+            "title": "SonicWall NetExtender Flaw Lets Attackers Write Arbitrary Files as Root",
+            "link": "https://cyberpress.org/sonicwall-netextender-flaw/"
+        }
+    ],
+    "CVE-2026-19632": [
+        {
+            "title": "WordPress Plugin Vulnerability Exposes 400,000 Sites to Account Takeover Attacks",
+            "link": "https://cybersecuritynews.com/translatepress-wordpress-plugin-vulnerability/"
+        },
+        {
+            "title": "Critical WordPress TranslatePress Flaw Lets Attackers Take Over Admin Accounts",
+            "link": "https://gbhackers.com/critical-wordpress-translatepress-flaw/"
+        },
+        {
+            "title": "Critical WordPress TranslatePress Bug Enables Complete Site Takeover",
+            "link": "https://cyberpress.org/critical-wordpress-translatepress-bug/"
+        }
+    ],
+    "CVE-2026-79224": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79290": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79150": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79052": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78935": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79282": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79121": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79012": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79200": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79054": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79218": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78908": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78989": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79130": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78938": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78948": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79069": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79187": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78952": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79078": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79019": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79236": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-57910": [
+        {
+            "title": "Critical WatchGuard Agent Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/critical-watchguard-agent-flaws/"
+        },
+        {
+            "title": "Critical WatchGuard Agent Flaws Let Remote Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-watchguard-agent-flaws-2/"
+        }
+    ],
+    "CVE-2026-57909": [
+        {
+            "title": "Critical WatchGuard Agent Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/critical-watchguard-agent-flaws/"
+        },
+        {
+            "title": "Critical WatchGuard Agent Flaws Let Remote Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-watchguard-agent-flaws-2/"
+        }
+    ],
+    "CVE-2026-19912": [
+        {
+            "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+            "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"
+        }
+    ],
+    "CVE-2026-19913": [
+        {
+            "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+            "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"
+        }
+    ],
+    "CVE-2023-34132": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-8963": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2023-42793": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-1340": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2023-34133": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2023-34124": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-24858": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-47575": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-1281": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2025-59718": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-3400": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-24919": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-8190": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2025-6514": [
+        {
+            "title": "The Toolchain Is the Target: Securing Software Development in the Agentic Era",
+            "link": "https://www.esecurityplanet.com/threats/the-toolchain-is-the-target-securing-software-development-in-the-agentic-era/"
+        }
+    ],
+    "CVE-2026-77536": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77549": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77545": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77552": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77535": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77534": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77546": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77553": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77539": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77551": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77542": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77547": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77548": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77540": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77537": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77550": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77554": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77543": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77541": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77538": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77557": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-77533": [
+        {
+            "title": "21 Critical Ubiquiti UniFi Flaws Enable Authentication Bypass, Command Injection and Privilege Escalation",
+            "link": "https://cybersecuritynews.com/21-critical-ubiquiti-unifi-flaws/"
+        }
+    ],
+    "CVE-2026-75604": [
+        {
+            "title": "Critical Next.js Vulnerabilities Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/next-js-vulnerabilities/"
+        }
+    ],
+    "CVE-2021-23758": [
+        {
+            "title": "CISA KEV Addition: CVE-2021-23758",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-23758"
+        }
+    ],
+    "CVE-2015-3246": [
+        {
+            "title": "CISA KEV Addition: CVE-2015-3246",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2015-3246"
+        }
+    ],
+    "CVE-2015-5287": [
+        {
+            "title": "CISA KEV Addition: CVE-2015-5287",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2015-5287"
+        }
+    ],
+    "CVE-2022-0995": [
+        {
+            "title": "CISA KEV Addition: CVE-2022-0995",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-0995"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-8452",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-8452"
+        }
+    ],
+    "CVE-2019-1068": [
+        {
+            "title": "CISA KEV Addition: CVE-2019-1068",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-1068"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "274 Zimbra Servers Compromised as 8,200 Remain Unpatched",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-zimbra-cve-2026-73570-servers-compromised/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "274 Zimbra Servers Compromised as 8,200 Remain Unpatched",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-zimbra-cve-2026-73570-servers-compromised/"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "CVE-2026-23670": [
+        {
+            "title": "New \u201cDownload More RAM\u201d Attack Breaks Windows VBS and Disables EDR Protections",
+            "link": "https://cyberpress.org/new-download-more-ram-attack-breaks-windows-vbs/"
+        },
+        {
+            "title": "Download More RAM Attack Bypasses Windows VBS, HVCI and Disables Microsoft Defender",
+            "link": "https://gbhackers.com/download-more-ram-attack-bypasses-windows-vbs/"
+        },
+        {
+            "title": "Windows Memory Trick Lets Attackers Kill Antivirus With One Script",
+            "link": "https://www.webpronews.com/windows-memory-trick-lets-attackers-kill-antivirus-with-one-script/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "macOS Screen Sharing Flaw Exploited to Deploy Monero Miners",
+            "link": "https://securityaffairs.com/197234/uncategorized/macos-screen-sharing-flaw-exploited-to-deploy-monero-miners.html"
+        },
+        {
+            "title": "Critical macOS Screen Sharing Bug (CVE-2026-65400) Exploitation to Install Monero Miners",
+            "link": "https://hackersonlineclub.com/macos-screen-sharing-bug/"
+        },
+        {
+            "title": "Macs Under Siege: Active Exploitation of Screen Sharing Flaw Hands Attackers Root Access",
+            "link": "https://www.webpronews.com/macs-under-siege-active-exploitation-of-screen-sharing-flaw-hands-attackers-root-access/"
+        },
+        {
+            "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+            "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "Hackers Started to Exploit Critical SAP Commerce Cloud, Still No Public PoC",
+            "link": "https://cybersecuritynews.com/hackers-exploit-sap-commerce-cloud/"
+        },
+        {
+            "title": "SAP Commerce Cloud CVE-2026-58231 Exploited in the Wild",
+            "link": "https://securityaffairs.com/197244/security/sap-commerce-cloud-cve-2026-58231-exploited-in-the-wild.html"
+        },
+        {
+            "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "Windows Memory Trick Lets Attackers Kill Antivirus With One Script",
+            "link": "https://www.webpronews.com/windows-memory-trick-lets-attackers-kill-antivirus-with-one-script/"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Russian Hackers Use Exchange Zero-Day in Email Attacks",
+            "link": "https://www.cysecurity.news/2026/08/russian-hackers-use-exchange-zero-day.html"
+        }
+    ],
+    "CVE-2026-42897": [
+        {
+            "title": "Russian Hackers Use Exchange Zero-Day in Email Attacks",
+            "link": "https://www.cysecurity.news/2026/08/russian-hackers-use-exchange-zero-day.html"
+        }
+    ]
+}

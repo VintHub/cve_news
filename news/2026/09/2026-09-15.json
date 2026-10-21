@@ -1,0 +1,188 @@
+{
+    "CVE-2026-76461": [
+        {
+            "title": "Hackers Exploit Critical Cisco Secure Email Gateway Vulnerability in the Wild to Run Malicious Code",
+            "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-flaw-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Secure Email Gateway Flaw to Execute Commands as Root",
+            "link": "https://cyberpress.org/hackers-exploit-critical-cisco-secure-email-gateway-flaw/"
+        },
+        {
+            "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+            "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html"
+        },
+        {
+            "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
+            "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/"
+        },
+        {
+            "title": "Cisco patches actively exploited email gateway zero-day (CVE-2026-76461)",
+            "link": "https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day",
+            "link": "https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html"
+        },
+        {
+            "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/"
+        },
+        {
+            "title": "U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Cisco Email Gateways Fall to One Malicious Message: Root Access via SQL Injection Now in the Wild",
+            "link": "https://www.webpronews.com/cisco-email-gateways-fall-to-one-malicious-message-root-access-via-sql-injection-now-in-the-wild/"
+        }
+    ],
+    "CVE-2026-78006": [
+        {
+            "title": "Critical WordPress Plugin Flaws Put Over 600,000 Websites at Risk of Takeover",
+            "link": "https://cybersecuritynews.com/critical-wordpress-plugin-flaws/"
+        }
+    ],
+    "CVE-2026-78159": [
+        {
+            "title": "Critical WordPress Plugin Flaws Put Over 600,000 Websites at Risk of Takeover",
+            "link": "https://cybersecuritynews.com/critical-wordpress-plugin-flaws/"
+        }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "Hackers Actively Exploiting Gitea n-day RCE Vulnerability in the Wild to Hijack Instances",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-gitea-n-day-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-81954": [
+        {
+            "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel",
+            "link": "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/"
+        }
+    ],
+    "CVE-2026-81390": [
+        {
+            "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel",
+            "link": "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/"
+        }
+    ],
+    "CVE-2026-81399": [
+        {
+            "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel",
+            "link": "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/"
+        }
+    ],
+    "CVE-2026-39987": [
+        {
+            "title": "Hackers Exploit Marimo RCE to Steal AWS Credentials and Reach Bastion Host in 8 Seconds",
+            "link": "https://cybersecuritynews.com/marimo-rce-to-steal-aws-credentials-in-8-seconds/"
+        },
+        {
+            "title": "Marimo RCE Flaw Lets Hackers Steal AWS Credentials and Pivot to Bastion Host in 8 Seconds",
+            "link": "https://gbhackers.com/marimo-rce-flaw/"
+        }
+    ],
+    "CVE-2026-43502": [
+        {
+            "title": "Linux Kernel ZcopyReaper Vulnerability Lets Local Attackers Gain Root Privileges",
+            "link": "https://gbhackers.com/linux-kernel-zcopyreaper-vulnerability/"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "CISA Warns of Active GitLab Exploitation as Attackers Target Server Files",
+            "link": "https://www.esecurityplanet.com/threats/news-cisa-active-gitlab-exploitation-server-files/"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "CISA Warns of Active GitLab Exploitation as Attackers Target Server Files",
+            "link": "https://www.esecurityplanet.com/threats/news-cisa-active-gitlab-exploitation-server-files/"
+        }
+    ],
+    "CVE-2026-20316": [
+        {
+            "title": "Cisco FMC Flaws Give Ransomware and APTs a Path Into Internal Networks",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-fmc-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20079": [
+        {
+            "title": "Cisco FMC Flaws Give Ransomware and APTs a Path Into Internal Networks",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-fmc-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-27540": [
+        {
+            "title": "Hackers Actively Exploit Critical WooCommerce Plugin Vulnerability to Upload PHP Backdoors",
+            "link": "https://gbhackers.com/woocommerce-plugin-vulnerability/"
+        }
+    ],
+    "CVE-2026-43692": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-86898": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-84568": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65395": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-84607": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65393": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64753": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64752": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65414": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-20393": [
+        {
+            "title": "Cisco Email Gateways Fall to One Malicious Message: Root Access via SQL Injection Now in the Wild",
+            "link": "https://www.webpronews.com/cisco-email-gateways-fall-to-one-malicious-message-root-access-via-sql-injection-now-in-the-wild/"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "CVE-2026-35273": [
+        {
+            "title": "AI-Run Ransomware, New Oracle Critical Flaw, NetNut busted",
+            "link": "https://www.itsecuritynews.info/ai-run-ransomware-new-oracle-critical-flaw-netnut-busted/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "AI-Run Ransomware, New Oracle Critical Flaw, NetNut busted",
+            "link": "https://www.itsecuritynews.info/ai-run-ransomware-new-oracle-critical-flaw-netnut-busted/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "AI-Run Ransomware, New Oracle Critical Flaw, NetNut busted",
+            "link": "https://www.itsecuritynews.info/ai-run-ransomware-new-oracle-critical-flaw-netnut-busted/"
+        }
+    ],
+    "CVE-2026-46242": [
+        {
+            "title": "Bad Epoll Linux Kernel UAF Flaw Lets Unprivileged Attackers Gain Root on Linux and Android",
+            "link": "https://www.itsecuritynews.info/bad-epoll-linux-kernel-uaf-flaw-lets-unprivileged-attackers-gain-root-on-linux-and-android/"
+        }
+    ],
+    "CVE-2026-52747": [
+        {
+            "title": "ModSecurity Security Flaws Enable WAF Rule Evasion With Crafted HTTP Requests",
+            "link": "https://www.itsecuritynews.info/modsecurity-security-flaws-enable-waf-rule-evasion-with-crafted-http-requests/"
+        }
+    ],
+    "CVE-2026-52761": [
+        {
+            "title": "ModSecurity Security Flaws Enable WAF Rule Evasion With Crafted HTTP Requests",
+            "link": "https://www.itsecuritynews.info/modsecurity-security-flaws-enable-waf-rule-evasion-with-crafted-http-requests/"
+        }
+    ],
+    "CVE-2026-57992": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attacker to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-flaw-code-execution/"
+        }
+    ],
+    "CVE-2026-11595": [
+        {
+            "title": "Multiple IBM WebSphere Vulnerabilities Enable XSS and Path Traversal Attacks",
+            "link": "https://cybersecuritynews.com/ibm-websphere-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11712": [
+        {
+            "title": "Multiple IBM WebSphere Vulnerabilities Enable XSS and Path Traversal Attacks",
+            "link": "https://cybersecuritynews.com/ibm-websphere-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11708": [
+        {
+            "title": "Multiple IBM WebSphere Vulnerabilities Enable XSS and Path Traversal Attacks",
+            "link": "https://cybersecuritynews.com/ibm-websphere-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-14355": [
+        {
+            "title": "Multiple PHP Vulnerabilities Enable DoS and Memory Corruption Attacks",
+            "link": "https://cybersecuritynews.com/multiple-php-vulnerabilities-dos/"
+        }
+    ],
+    "CVE-2026-12184": [
+        {
+            "title": "Multiple PHP Vulnerabilities Enable DoS and Memory Corruption Attacks",
+            "link": "https://cybersecuritynews.com/multiple-php-vulnerabilities-dos/"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+            "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html"
+        }
+    ],
+    "CVE-2026-20896": [
+        {
+            "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+            "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
+        },
+        {
+            "title": "Gitea Docker Images Ship Critical Authentication Bypass by Default",
+            "link": "https://www.webpronews.com/gitea-docker-images-ship-critical-authentication-bypass-by-default/"
+        }
+    ],
+    "CVE-2025-23006": [
+        {
+            "title": "Top 10 Best Next-Generation Firewall (NGFW) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-next-generation-firewall/"
+        }
+    ],
+    "CVE-2025-40602": [
+        {
+            "title": "Top 10 Best Next-Generation Firewall (NGFW) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-next-generation-firewall/"
+        }
+    ],
+    "CVE-2025-48984": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2024-40711": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2025-48983": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2025-23120": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2025-23121": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2026-44963": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "Adobe ColdFusion flaw CVE-2026-48282 now exploited in the wild",
+            "link": "https://www.itsecuritynews.info/adobe-coldfusion-flaw-cve-2026-48282-now-exploited-in-the-wild/"
+        },
+        {
+            "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-27771": [
+        {
+            "title": "Gitea Docker Images Ship Critical Authentication Bypass by Default",
+            "link": "https://www.webpronews.com/gitea-docker-images-ship-critical-authentication-bypass-by-default/"
+        }
+    ],
+    "CVE-2026-58053": [
+        {
+            "title": "Gitea Docker Images Ship Critical Authentication Bypass by Default",
+            "link": "https://www.webpronews.com/gitea-docker-images-ship-critical-authentication-bypass-by-default/"
+        }
+    ]
+}

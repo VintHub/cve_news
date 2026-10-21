@@ -1,0 +1,636 @@
+{
+    "CVE-2026-11405": [
+        {
+            "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
+            "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/"
+        }
+    ],
+    "CVE-2026-12958": [
+        {
+            "title": "GhostApproval Flaw Lets AI Coding Assistants Write Files Outside Workspace Sandbox",
+            "link": "https://cyberpress.org/ghostapproval-flaw-ai-coding-assistants/"
+        },
+        {
+            "title": "GhostApproval Exposes Old Symlink Tricks in AI Coding Agents",
+            "link": "https://www.webpronews.com/ghostapproval-exposes-old-symlink-tricks-in-ai-coding-agents/"
+        }
+    ],
+    "CVE-2026-15124": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15112": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15132": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15126": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15131": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15117": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15111": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15119": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15107": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15130": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15113": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15115": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15128": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15108": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15123": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15127": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15133": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15118": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15110": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15114": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15109": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15122": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15116": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15129": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15121": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15125": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15120": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        },
+        {
+            "title": "Chrome Update Patches 27 Vulnerabilities including Two Code Execution Flaws",
+            "link": "https://cybersecuritynews.com/chrome-update-patches-27-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-12506": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        },
+        {
+            "title": "GitLab Patches Eight Security Vulnerabilities Across Community and Enterprise Editions",
+            "link": "https://cybersecuritynews.com/gitlab-patches-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6352": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-13151": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-6896": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        },
+        {
+            "title": "GitLab Patches Eight Security Vulnerabilities Across Community and Enterprise Editions",
+            "link": "https://cybersecuritynews.com/gitlab-patches-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13320": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        },
+        {
+            "title": "GitLab Patches Eight Security Vulnerabilities Across Community and Enterprise Editions",
+            "link": "https://cybersecuritynews.com/gitlab-patches-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11827": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        },
+        {
+            "title": "GitLab Patches Eight Security Vulnerabilities Across Community and Enterprise Editions",
+            "link": "https://cybersecuritynews.com/gitlab-patches-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8472": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        },
+        {
+            "title": "GitLab Patches Eight Security Vulnerabilities Across Community and Enterprise Editions",
+            "link": "https://cybersecuritynews.com/gitlab-patches-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-7492": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        },
+        {
+            "title": "GitLab Patches Eight Security Vulnerabilities Across Community and Enterprise Editions",
+            "link": "https://cybersecuritynews.com/gitlab-patches-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0288": [
+        {
+            "title": "Palo Alto PAN-OS Vulnerability Allows Arbitrary Code Execution Through Malicious Network Traffic",
+            "link": "https://www.itsecuritynews.info/palo-alto-pan-os-vulnerability-allows-arbitrary-code-execution-through-malicious-network-traffic/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
+            "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html"
+        },
+        {
+            "title": "Microsoft Patches Defender \u2018RoguePlanet\u2019 Vulnerability",
+            "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/"
+        },
+        {
+            "title": "Microsoft Releases Patches for RoguePlanet Defender Zero-Day Vulnerability",
+            "link": "https://cybersecuritynews.com/rogueplanet-defender-zero-day-vulnerability/"
+        },
+        {
+            "title": "Microsoft fixed Defender flaw RoguePlanet (CVE-2026-50656)",
+            "link": "https://www.itsecuritynews.info/microsoft-fixed-defender-flaw-rogueplanet-cve-2026-50656/"
+        },
+        {
+            "title": "Microsoft releases fix for RoguePlanet Defender flaw (CVE-2026-50656)",
+            "link": "https://www.helpnetsecurity.com/2026/07/09/microsoft-releases-fix-for-rogueplanet-defender-flaw-cve-2026-50656/"
+        }
+    ],
+    "CVE-2026-57256": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        },
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57260": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57250": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57245": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57252": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57240": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57251": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13128": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57254": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57248": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57237": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57244": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13126": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        },
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57247": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13129": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57238": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57242": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57249": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13127": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57246": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-46215": [
+        {
+            "title": "PoC and Technical Details Released for Linux Kernel Privilege Escalation Vulnerability",
+            "link": "https://cyberpress.org/linux-kernel-privilege-escalation-vulnerability/"
+        },
+        {
+            "title": "Linux Kernel Vulnerability Enables Passwordless Root Through DRM Render Nodes",
+            "link": "https://cybersecuritynews.com/linux-kernel-bug-passwordless-root/"
+        }
+    ],
+    "CVE-2026-14544": [
+        {
+            "title": "HPLIP Integer Overflow Flaw Opens Door to Privilege Escalation and Code Execution",
+            "link": "https://cyberpress.org/hplip-integer-overflow-flaw/"
+        },
+        {
+            "title": "HP Linux Printing Software Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/hp-linux-printing-software-vulnerability/"
+        }
+    ],
+    "CVE-2026-8631": [
+        {
+            "title": "HPLIP Integer Overflow Flaw Opens Door to Privilege Escalation and Code Execution",
+            "link": "https://cyberpress.org/hplip-integer-overflow-flaw/"
+        },
+        {
+            "title": "HP Linux Printing Software Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/hp-linux-printing-software-vulnerability/"
+        }
+    ],
+    "CVE-2026-1969": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-7443": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-12057": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-3844": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-13486": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-0740": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-34085": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2020-36847": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-31843": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-7852": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-57259": [
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57239": [
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54432": [
+        {
+            "title": "RoundCube 0-Click Vulnerability Enables Stored XSS Attack via MIME Type Attachment",
+            "link": "https://cybersecuritynews.com/roundcube-0-click-vulnerability/"
+        }
+    ],
+    "CVE-2026-54433": [
+        {
+            "title": "RoundCube 0-Click Vulnerability Enables Stored XSS Attack via MIME Type Attachment",
+            "link": "https://cybersecuritynews.com/roundcube-0-click-vulnerability/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "GhostApproval Exposes Old Symlink Tricks in AI Coding Agents",
+            "link": "https://www.webpronews.com/ghostapproval-exposes-old-symlink-tricks-in-ai-coding-agents/"
+        }
+    ]
+}

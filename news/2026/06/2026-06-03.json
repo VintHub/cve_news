@@ -1,0 +1,132 @@
+{
+    "CVE-2025-48595": [
+        {
+            "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+            "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
+        }
+    ],
+    "CVE-2026-33829": [
+        {
+            "title": "Windows Search URI Handler Flaw Leaks NTLMv2 Hashes to Attacker-Controlled Servers",
+            "link": "https://cybersecuritynews.com/windows-search-uri-flaw-leaks-ntlmv2-hashes/"
+        },
+        {
+            "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+            "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
+        },
+        {
+            "title": "Windows Search URI Handler Vulnerability Exposes NTLMv2 Hashes to Remote Attackers",
+            "link": "https://gbhackers.com/windows-search-uri-handler-vulnerability/"
+        }
+    ],
+    "CVE-2026-45247": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-45247",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45247"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-one-known-exploited-vulnerability-to-catalog-75/"
+        },
+        {
+            "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+            "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html"
+        }
+    ],
+    "CVE-2026-23479": [
+        {
+            "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+            "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
+        }
+    ],
+    "CVE-2026-8206": [
+        {
+            "title": "WordPress Plugin Vulnerability Exposes 500,000+ Websites to Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-2/"
+        },
+        {
+            "title": "WordPress Plugin Flaw Opens Door to Privilege Escalation Attacks Across 500,000+ Sites",
+            "link": "https://gbhackers.com/wordpress-plugin-flaw-4/"
+        }
+    ],
+    "CVE-2026-42253": [
+        {
+            "title": "Critical Apache ActiveMQ Vulnerability Allows Malicious Security Header Injections",
+            "link": "https://cybersecuritynews.com/apache-activemq-header-injection-vulnerability/"
+        },
+        {
+            "title": "Critical Apache ActiveMQ Vulnerability Exposes Systems to Security Header Injection Attacks",
+            "link": "https://gbhackers.com/critical-activemq-vulnerability/"
+        }
+    ],
+    "CVE-2026-9614": [
+        {
+            "title": "Ivanti ITSM Vulnerability Lets Attackers Gain Admin Privilege",
+            "link": "https://cybersecuritynews.com/ivanti-itsm-vulnerability-admin-privilege/"
+        },
+        {
+            "title": "Ivanti ITSM Flaw Could Allow Attackers to Escalate to Admin Access",
+            "link": "https://gbhackers.com/ivanti-itsm-flaw/"
+        }
+    ],
+    "CVE-2024-21182": [
+        {
+            "title": "CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited",
+            "link": "https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2020-5135": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2024-3400": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2025-33073": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2025-32433": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2026-41091": [
+        {
+            "title": "Microsoft Faces Fresh Wave of Researcher Revolt Over Flawed Bug Handling",
+            "link": "https://www.webpronews.com/microsoft-faces-fresh-wave-of-researcher-revolt-over-flawed-bug-handling/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "Microsoft Faces Fresh Wave of Researcher Revolt Over Flawed Bug Handling",
+            "link": "https://www.webpronews.com/microsoft-faces-fresh-wave-of-researcher-revolt-over-flawed-bug-handling/"
+        }
+    ],
+    "CVE-2026-8936": [
+        {
+            "title": "ZDI-26-327: Docker Desktop grpcfuse Kernel Module Uncontrolled Recursion Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-327/"
+        }
+    ]
+}

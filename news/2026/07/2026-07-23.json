@@ -1,0 +1,350 @@
+{
+    "CVE-2026-64600": [
+        {
+            "title": "Critical RefluXFS Linux Kernel Flaw Lets Local Attackers Gain Root Access",
+            "link": "https://www.itsecuritynews.info/critical-refluxfs-linux-kernel-flaw-lets-local-attackers-gain-root-access/"
+        },
+        {
+            "title": "Critical XFS Race Condition Enables Linux Privilege Escalation to Root",
+            "link": "https://cyberpress.org/critical-xfs-race-condition/"
+        },
+        {
+            "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+            "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
+        },
+        {
+            "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
+            "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/"
+        }
+    ],
+    "CVE-2026-48294": [
+        {
+            "title": "Critical Adobe Acrobat Chrome Extension Flaw \u201cHermeticReader\u201d Lets Hackers Hijack WhatsApp Chats of 300M+ Users",
+            "link": "https://www.itsecuritynews.info/critical-adobe-acrobat-chrome-extension-flaw-hermeticreader-lets-hackers-hijack-whatsapp-chats-of-300m-users/"
+        },
+        {
+            "title": "Adobe Acrobat Extension Flaw Lets Attackers Steal WhatsApp Chats With One Click",
+            "link": "https://cyberpress.org/adobe-acrobat-extension-flaw/"
+        }
+    ],
+    "CVE-2026-16232": [
+        {
+            "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+            "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
+        },
+        {
+            "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical Check Point Flaw Lets Attackers Bypass SmartConsole Authentication",
+            "link": "https://cyberpress.org/critical-check-point-flaw/"
+        },
+        {
+            "title": "CISA Warns of Check Point Authentication Vulnerability Actively Exploited in the Wild",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-check-point-authentication-vulnerability-actively-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical Check Point SmartConsole Flaw Exploited in the Wild to Bypass Authentication",
+            "link": "https://gbhackers.com/critical-check-point-smartconsole-flaw/"
+        },
+        {
+            "title": "Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232)",
+            "link": "https://www.helpnetsecurity.com/2026/07/23/check-point-vulnerability-cve-2026-16232/"
+        }
+    ],
+    "CVE-2026-62145": [
+        {
+            "title": "Critical Check Point Flaw Lets Attackers Bypass SmartConsole Authentication",
+            "link": "https://cyberpress.org/critical-check-point-flaw/"
+        }
+    ],
+    "CVE-2026-62144": [
+        {
+            "title": "Critical Check Point Flaw Lets Attackers Bypass SmartConsole Authentication",
+            "link": "https://cyberpress.org/critical-check-point-flaw/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-8933": [
+        {
+            "title": "Ubuntu Snap-Confine Vulnerability Allows Unprivileged Users to Execute Code as Root",
+            "link": "https://gbhackers.com/ubuntu-snap-confine-vulnerability/"
+        },
+        {
+            "title": "Ubuntu snap-confine Flaw Lets Any Local User Gain Full Root Access",
+            "link": "https://cyberpress.org/ubuntu-snap-confine-flaw/"
+        },
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-41940": [
+        {
+            "title": "GitHub Actions Abuse Exploits cPanel CVE-2026-41940 to Steal Server Credentials",
+            "link": "https://cyberpress.org/github-actions-cpanel-credential-theft/"
+        },
+        {
+            "title": "Hackers Abuse GitHub Actions to Exploit cPanel and WHM Servers and Steal Cloud Credentials",
+            "link": "https://cybersecuritynews.com/hackers-abuse-github-actions-to-exploit-cpanel/"
+        }
+    ],
+    "CVE-2026-46333": [
+        {
+            "title": "Ubuntu snap-confine Flaw Lets Any Local User Gain Full Root Access",
+            "link": "https://cyberpress.org/ubuntu-snap-confine-flaw/"
+        }
+    ],
+    "CVE-2026-25243": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-23631": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-25589": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-25588": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-23479": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12921": [
+        {
+            "title": "ZDI-26-450: AzeoTech DAQFactory CTL File Parsing Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-450/"
+        }
+    ],
+    "CVE-2026-12390": [
+        {
+            "title": "ZDI-26-449: AzeoTech DAQFactory CTL File Parsing Type Confusion Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-449/"
+        }
+    ],
+    "CVE-2026-6851": [
+        {
+            "title": "ZDI-26-448: Bitdefender Total Security Shredder Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-448/"
+        }
+    ],
+    "CVE-2026-12357": [
+        {
+            "title": "ZDI-26-447: Heimdall Data Database Proxy generateFileContent CRLF Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-447/"
+        }
+    ],
+    "CVE-2025-56383": [
+        {
+            "title": "Hackers Abuse Notepad++ Plugins to Compromise Your System Silently",
+            "link": "https://cybersecuritynews.com/hackers-abuse-notepad-plugins/"
+        }
+    ],
+    "CVE-2026-64647": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64642": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64641": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64646": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64649": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64643": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64648": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64644": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64645": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-50458": [
+        {
+            "title": "Windows 11 and Server 2025 Exposed to High-Severity Brokering File System Vulnerability",
+            "link": "https://cybersecuritynews.com/windows-brokering-file-system-vulnerability/"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Russian TA488 Exploits Zimbra CVE-2025-66376 to Target Government Mail Servers",
+            "link": "https://www.itsecuritynews.info/russian-ta488-exploits-zimbra-cve-2025-66376-to-target-government-mail-servers/"
+        }
+    ],
+    "CVE-2025-4382": [
+        {
+            "title": "Linux Encryption Tool Scrambles to Adapt as Kernel Axes Long-Reliable Crypto Path",
+            "link": "https://www.webpronews.com/linux-encryption-tool-scrambles-to-adapt-as-kernel-axes-long-reliable-crypto-path/"
+        }
+    ],
+    "CVE-2021-44731": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-15226": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2024-5300": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-3888": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-50518": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-47642": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-57092": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2025-49719": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-55032": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-18266": [
+        {
+            "title": "ZDI-26-452: Dify AI Workflow oauth_redirect_url Open Redirect Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-452/"
+        }
+    ]
+}

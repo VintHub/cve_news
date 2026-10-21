@@ -1,0 +1,190 @@
+{
+    "CVE-2026-48939": [
+        {
+            "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+            "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html"
+        },
+        {
+            "title": "CISA Warns of Joomla Sites Running iCagenda or Balbooa Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/joomla-sites-running-icagenda-or-balbooa-exploited/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited iCagenda and Balbooa Forms RCE Flaws to KEV",
+            "link": "https://cyberpress.org/cisa-exploited-icagenda-balbooa-forms/"
+        }
+    ],
+    "CVE-2026-57807": [
+        {
+            "title": "Critical WordPress OAuth SSO Plugin Flaw Allows Unauthenticated Attackers to Gain Admin Access",
+            "link": "https://gbhackers.com/critical-wordpress-oauth-sso-plugin-flaw/"
+        },
+        {
+            "title": "Critical WordPress Plugin Vulnerability Allows Attackers to Gain Full Control Over Website",
+            "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-miniorange/"
+        }
+    ],
+    "CVE-2026-56291": [
+        {
+            "title": "CISA Warns of Joomla Sites Running iCagenda or Balbooa Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/joomla-sites-running-icagenda-or-balbooa-exploited/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited iCagenda and Balbooa Forms RCE Flaws to KEV",
+            "link": "https://cyberpress.org/cisa-exploited-icagenda-balbooa-forms/"
+        }
+    ],
+    "CVE-2026-57221": [
+        {
+            "title": "Critical RabbitMQ Flaw Lets Unauthenticated Attackers Take Over Message Brokers",
+            "link": "https://cyberpress.org/critical-rabbitmq-flaw/"
+        }
+    ],
+    "CVE-2026-57219": [
+        {
+            "title": "Critical RabbitMQ Flaw Lets Unauthenticated Attackers Take Over Message Brokers",
+            "link": "https://cyberpress.org/critical-rabbitmq-flaw/"
+        }
+    ],
+    "CVE-2026-8328": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-1502": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-0989": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-34356": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-44186": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-48913": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-29170": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-0990": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-43859": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-0992": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-42536": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-43864": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-49975": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-29167": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2026-34355": [
+        {
+            "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
+            "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
+        }
+    ],
+    "CVE-2023-50224": [
+        {
+            "title": "NSA Urges Organizations to Disable Cisco Smart Install as Russian Hackers Target Routers",
+            "link": "https://cybersecuritynews.com/nsa-disable-cisco-smart/"
+        }
+    ],
+    "CVE-2018-0171": [
+        {
+            "title": "NSA Urges Organizations to Disable Cisco Smart Install as Russian Hackers Target Routers",
+            "link": "https://cybersecuritynews.com/nsa-disable-cisco-smart/"
+        }
+    ],
+    "CVE-2025-27915": [
+        {
+            "title": "Zimbra Urges Immediate Update to Fix Critical Classic Web Client XSS Vulnerability",
+            "link": "https://www.itsecuritynews.info/zimbra-urges-immediate-update-to-fix-critical-classic-web-client-xss-vulnerability/"
+        }
+    ],
+    "CVE-2023-37580": [
+        {
+            "title": "Zimbra Urges Immediate Update to Fix Critical Classic Web Client XSS Vulnerability",
+            "link": "https://www.itsecuritynews.info/zimbra-urges-immediate-update-to-fix-critical-classic-web-client-xss-vulnerability/"
+        }
+    ],
+    "CVE-2024-27443": [
+        {
+            "title": "Zimbra Urges Immediate Update to Fix Critical Classic Web Client XSS Vulnerability",
+            "link": "https://www.itsecuritynews.info/zimbra-urges-immediate-update-to-fix-critical-classic-web-client-xss-vulnerability/"
+        }
+    ],
+    "CVE-2008-4128": [
+        {
+            "title": "CISA KEV Addition: CVE-2008-4128",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2008-4128"
+        },
+        {
+            "title": "U.S. CISA adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-cisco-ios-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        }
+    ],
+    "CVE-2026-15681": [
+        {
+            "title": "ZDI-26-400: (0Day) AnyDesk Screen Recording Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-400/"
+        }
+    ],
+    "CVE-2025-32711": [
+        {
+            "title": "MemGhost Attack Exposes How One Email Can Rewrite AI Agents\u2019 Long-Term Memory",
+            "link": "https://www.webpronews.com/memghost-attack-exposes-how-one-email-can-rewrite-ai-agents-long-term-memory/"
+        }
+    ]
+}

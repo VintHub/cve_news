@@ -1,0 +1,456 @@
+{
+    "CVE-2026-52830": [
+        {
+            "title": "Fast-mcp-telegram Vulnerability Allow Attackers to Access Sensitive Files",
+            "link": "https://www.itsecuritynews.info/fast-mcp-telegram-vulnerability-allow-attackers-to-access-sensitive-files/"
+        }
+    ],
+    "CVE-2026-40138": [
+        {
+            "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+            "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
+        },
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
+        }
+    ],
+    "CVE-2025-14179": [
+        {
+            "title": "PDO PostgreSQL Bug Triggers NULL Pointer Dereference and Crashes PHP Worker Processes",
+            "link": "https://cyberpress.org/postgresql-bug-crashes-php/"
+        }
+    ],
+    "CVE-2025-14180": [
+        {
+            "title": "PDO PostgreSQL Bug Triggers NULL Pointer Dereference and Crashes PHP Worker Processes",
+            "link": "https://cyberpress.org/postgresql-bug-crashes-php/"
+        },
+        {
+            "title": "PHP PDO Emulated Prepares Expose pdo_pgsql to NULL Pointer Dereference Crash",
+            "link": "https://www.itsecuritynews.info/php-pdo-emulated-prepares-expose-pdo_pgsql-to-null-pointer-dereference-crash/"
+        }
+    ],
+    "CVE-2026-40139": [
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
+        }
+    ],
+    "CVE-2026-40140": [
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
+        }
+    ],
+    "CVE-2026-40141": [
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
+        }
+    ],
+    "CVE-2026-57992": [
+        {
+            "title": "Microsoft Edge Use-After-Free Flaw Lets Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/microsoft-edge-use-after-free-flaw/"
+        }
+    ],
+    "CVE-2024-42009": [
+        {
+            "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+            "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
+        }
+    ],
+    "CVE-2026-11405": [
+        {
+            "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+            "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
+        },
+        {
+            "title": "Hidden Tenda Router Backdoor Grants Admin Access, No Patch Available",
+            "link": "https://www.itsecuritynews.info/hidden-tenda-router-backdoor-grants-admin-access-no-patch-available/"
+        },
+        {
+            "title": "Tenda Authentication Backdoor Grants Attackers Full Administrative Access",
+            "link": "https://cybersecuritynews.com/tenda-authentication-backdoor-grants-access/"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "16-Year-Old Linux KVM Vulnerability Allows Malicious Guests to Corrupt Host Kernel Memory",
+            "link": "https://cyberpress.org/16-year-old-linux-kvm-vulnerability/"
+        },
+        {
+            "title": "16-Year-Old Linux KVM Vulnerability Allows Malicious Guest to Corrupt Host Kernel Memory",
+            "link": "https://cybersecuritynews.com/16-year-old-linux-kvm-vulnerability/"
+        },
+        {
+            "title": "Januscape Linux VM Escape Flaw Affects Intel and AMD Systems",
+            "link": "https://www.itsecuritynews.info/januscape-linux-vm-escape-flaw-affects-intel-and-amd-systems/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "Attackers exploit critical Adobe ColdFusion vulnerability (CVE-2026-48282)",
+            "link": "https://www.helpnetsecurity.com/2026/07/07/adobe-coldfusion-cve-2026-48282-exploitation-detected/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-48282",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48282"
+        }
+    ],
+    "CVE-2026-25289": [
+        {
+            "title": "Critical PHP PDO Driver Bugs Expose Firebird SQL Injection and PostgreSQL DoS Risks",
+            "link": "https://cybersecuritynews.com/critical-php-pdo-driver-bugs-expose-firebird-sql-injection/"
+        }
+    ],
+    "CVE-2026-25290": [
+        {
+            "title": "Critical PHP PDO Driver Bugs Expose Firebird SQL Injection and PostgreSQL DoS Risks",
+            "link": "https://cybersecuritynews.com/critical-php-pdo-driver-bugs-expose-firebird-sql-injection/"
+        }
+    ],
+    "CVE-2026-14898": [
+        {
+            "title": "OpenAI Codex Desktop App for macOS Vulnerability Allows Attackers to Inject Indirect Prompt",
+            "link": "https://cybersecuritynews.com/codex-desktop-app-for-macos-vulnerability/"
+        }
+    ],
+    "CVE-2026-20896": [
+        {
+            "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+            "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/"
+        },
+        {
+            "title": "Critical Gitea Docker Bug Under Active Exploitation Exposes Repositories and Secrets",
+            "link": "https://www.itsecuritynews.info/critical-gitea-docker-bug-under-active-exploitation-exposes-repositories-and-secrets/"
+        },
+        {
+            "title": "Gitea Docker Vulnerability Now Under Active Probing, CVE-2026-20896",
+            "link": "https://www.itsecuritynews.info/gitea-docker-vulnerability-now-under-active-probing-cve-2026-20896/"
+        }
+    ],
+    "CVE-2026-48908": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48908",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48908"
+        }
+    ],
+    "CVE-2026-55255": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-55255",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-55255"
+        }
+    ],
+    "CVE-2026-56290": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-56290",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56290"
+        }
+    ],
+    "CVE-2026-42824": [
+        {
+            "title": "Critical Vulnerability in GCP Dialogflow Allows Attackers to Inject Malicious Code",
+            "link": "https://cybersecuritynews.com/gcp-dialogflow-vulnerability/"
+        }
+    ],
+    "CVE-2025-7771": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2025-33073": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2025-32433": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2023-27532": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2024-37085": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2026-33634": [
+        {
+            "title": "VECT and TeamPCP Reverse Ransomware Kill Chain With Supply Chain Credential Theft",
+            "link": "https://cybersecuritynews.com/vect-and-teampcp-reverse-ransomware-kill-chain/"
+        }
+    ],
+    "CVE-2026-50748": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55113": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55115": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54403": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-56841": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55110": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-50747": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55118": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54404": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54400": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54407": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54402": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54408": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54409": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54405": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54401": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-50746": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55119": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55114": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-56842": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55112": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55117": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54406": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55111": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55116": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "Public PoC Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cyberpress.org/sharepoint-rce-vulnerablility/"
+        }
+    ],
+    "CVE-2026-33112": [
+        {
+            "title": "Public PoC Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cyberpress.org/sharepoint-rce-vulnerablility/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "AI Ransomware That Ran Itself Still Relied on Human Setup",
+            "link": "https://www.webpronews.com/ai-ransomware-that-ran-itself-still-relied-on-human-setup/"
+        }
+    ]
+}

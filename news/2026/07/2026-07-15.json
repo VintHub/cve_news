@@ -1,0 +1,1178 @@
+{
+    "CVE-2026-50661": [
+        {
+            "title": "Windows BitLocker 0\u2011Day Vulnerability Allows Hackers to Bypass Security Feature",
+            "link": "https://cybersecuritynews.com/windows-bitlocker-0-day-vulnerability-2/"
+        },
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        },
+        {
+            "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
+            "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+            "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+        },
+        {
+            "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+            "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
+        },
+        {
+            "title": "Critical SonicWall Firewall 0-Day Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/"
+        },
+        {
+            "title": "SonicWall SMA1000 Flaws Actively Exploited for SSRF and Remote Code Execution",
+            "link": "https://cyberpress.org/sonicwall-sma1000-flaws/"
+        },
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+            "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+        },
+        {
+            "title": "Critical SonicWall Firewall 0-Day Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/"
+        },
+        {
+            "title": "SonicWall SMA1000 Flaws Actively Exploited for SSRF and Remote Code Execution",
+            "link": "https://cyberpress.org/sonicwall-sma1000-flaws/"
+        },
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2026-58546": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58618": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58525": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58614": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58297": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54114": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58526": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58635": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58633": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58619": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58628": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58594": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58296": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58530": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58529": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58295": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54116": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58533": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58544": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58626": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58545": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58300": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58547": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54107": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58610": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58299": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58597": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58293": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58286": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58294": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58298": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58613": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54111": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-50697": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58292": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58290": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58595": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58631": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58532": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58636": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        },
+        {
+            "title": "Microsoft Active Directory Services 0-Day Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/active-directory-services-0-day-exploited/"
+        },
+        {
+            "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
+            "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
+        },
+        {
+            "title": "Microsoft Active Directory FS Privilege Escalation Flaw Exploited in Active Attacks",
+            "link": "https://cyberpress.org/microsoft-ad-fs-privilege-escalation-flaw/"
+        }
+    ],
+    "CVE-2026-58287": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58531": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58540": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58291": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-50696": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58543": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58538": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58534": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58647": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58627": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58535": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58537": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54112": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54109": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        },
+        {
+            "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
+            "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
+        },
+        {
+            "title": "CISA Warns of Microsoft SharePoint Server Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sharepoint-server-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-58522": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58542": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58289": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58629": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54115": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58609": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58640": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58539": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58634": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58617": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58541": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58528": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58527": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58601": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58637": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58632": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58288": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54108": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58638": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58608": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58536": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58524": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58602": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58523": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58596": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-57233": [
+        {
+            "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
+        }
+    ],
+    "CVE-2026-54758": [
+        {
+            "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
+        }
+    ],
+    "CVE-2026-52886": [
+        {
+            "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
+        }
+    ],
+    "CVE-2026-15765": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome 150 Update Fixes 15 Security Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://gbhackers.com/google-chrome-150-update-fixes-15-security-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15771": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15776": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15770": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15775": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15778": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15769": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15764": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome 150 Update Fixes 15 Security Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://gbhackers.com/google-chrome-150-update-fixes-15-security-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15772": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15766": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15773": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15777": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15774": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15767": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-15768": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
+        }
+    ],
+    "CVE-2026-53481": [
+        {
+            "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
+            "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
+        },
+        {
+            "title": "Multiple Dell PowerProtect Vulnerabilities Allow Hackers to Gain Full System Access Remotely",
+            "link": "https://cybersecuritynews.com/multiple-dell-powerprotect-vulnerabilites/"
+        },
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53483": [
+        {
+            "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
+            "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
+        },
+        {
+            "title": "Multiple Dell PowerProtect Vulnerabilities Allow Hackers to Gain Full System Access Remotely",
+            "link": "https://cybersecuritynews.com/multiple-dell-powerprotect-vulnerabilites/"
+        },
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-15719": [
+        {
+            "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+            "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        }
+    ],
+    "CVE-2026-15718": [
+        {
+            "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+            "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        }
+    ],
+    "CVE-2026-12578": [
+        {
+            "title": "ZDI-26-404: Delta Electronics DTM Soft Project File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-404/"
+        }
+    ],
+    "CVE-2026-55003": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-50445": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-57982": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-57979": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-50497": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-41122": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53482": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53479": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-56086": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53478": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-57221": [
+        {
+            "title": "RabbitMQ Flaw Exposes OAuth Secrets, Risks Full Broker Takeover",
+            "link": "https://www.itsecuritynews.info/rabbitmq-flaw-exposes-oauth-secrets-risks-full-broker-takeover/"
+        }
+    ],
+    "CVE-2026-57219": [
+        {
+            "title": "RabbitMQ Flaw Exposes OAuth Secrets, Risks Full Broker Takeover",
+            "link": "https://www.itsecuritynews.info/rabbitmq-flaw-exposes-oauth-secrets-risks-full-broker-takeover/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-46817",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-46817"
+        }
+    ],
+    "CVE-2023-4346": [
+        {
+            "title": "CISA KEV Addition: CVE-2023-4346",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-4346"
+        }
+    ],
+    "CVE-2025-40602": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2021-20038": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2019-7483": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2019-7481": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2025-23006": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2024-40766": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2021-20016": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2026-2291": [
+        {
+            "title": "ZDI-26-441: dnsmasq DNS Response Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-441/"
+        }
+    ],
+    "CVE-2026-8108": [
+        {
+            "title": "ZDI-26-440: Fuji Electric Tellus pcid64 Driver Untrusted Pointer Dereference Denial of Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-440/"
+        },
+        {
+            "title": "ZDI-26-439: Fuji Electric Tellus pcid64 Driver Exposed Dangerous Method Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-439/"
+        }
+    ],
+    "CVE-2026-6071": [
+        {
+            "title": "ZDI-26-438: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-438/"
+        }
+    ],
+    "CVE-2026-13308": [
+        {
+            "title": "ZDI-26-437: (Pwn2Own) Autel MaxiCharger AC Elite Home WebSockets Integer Underflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-437/"
+        }
+    ],
+    "CVE-2026-13307": [
+        {
+            "title": "ZDI-26-436: (Pwn2Own) Autel MaxiCharger AC Elite Home USB Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-436/"
+        }
+    ],
+    "CVE-2026-13309": [
+        {
+            "title": "ZDI-26-435: (Pwn2Own) Autel MaxiCharger AC Elite Home NFC Stack-based Buffer Overflow Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-435/"
+        }
+    ],
+    "CVE-2026-13306": [
+        {
+            "title": "ZDI-26-434: (Pwn2Own) Autel MaxiCharger AC Elite Home USB Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-434/"
+        }
+    ],
+    "CVE-2026-13305": [
+        {
+            "title": "ZDI-26-433: (Pwn2Own) Autel MaxiCharger AC Elite Home Software Update Improper Verification of Cryptographic Signature Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-433/"
+        }
+    ],
+    "CVE-2026-13268": [
+        {
+            "title": "ZDI-26-432: G DATA Total Security Backup Service Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-432/"
+        }
+    ],
+    "CVE-2026-8921": [
+        {
+            "title": "ZDI-26-431: ASUS Business Manager Service Client-Side Authentication Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-431/"
+        }
+    ],
+    "CVE-2026-6102": [
+        {
+            "title": "ZDI-26-430: MSI Center NTIOLib_X64 Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-430/"
+        }
+    ],
+    "CVE-2026-24157": [
+        {
+            "title": "ZDI-26-429: NVIDIA NeMo Framework Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-429/"
+        }
+    ],
+    "CVE-2026-8247": [
+        {
+            "title": "ZDI-26-428: WatchGuard FireWare OS admd Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-428/"
+        }
+    ],
+    "CVE-2026-13084": [
+        {
+            "title": "ZDI-26-427: WatchGuard FireWare OS iked ike2_hmac Null Pointer Dereference Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-427/"
+        }
+    ],
+    "CVE-2026-42771": [
+        {
+            "title": "ZDI-26-426: OpenSSL X.509 Email Validation Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-426/"
+        }
+    ],
+    "CVE-2026-35188": [
+        {
+            "title": "ZDI-26-425: OpenSSL OCSP Stapling Verification Double Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-425/"
+        }
+    ],
+    "CVE-2026-13135": [
+        {
+            "title": "ZDI-26-424: Synology DiskStation DS925+ MailPlus Improper Restriction of Communication Channel to Intended Endpoints Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-424/"
+        }
+    ],
+    "CVE-2025-15660": [
+        {
+            "title": "ZDI-26-423: Synology DiskStation DS925+ MailPlus Redis Weak Cryptography for Passwords Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-423/"
+        }
+    ],
+    "CVE-2026-15551": [
+        {
+            "title": "ZDI-26-422: Samsung rlottie Numeric Truncation Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-422/"
+        }
+    ],
+    "CVE-2026-20146": [
+        {
+            "title": "ZDI-26-421: Cisco Identity Services Engine validFileNameOrPath Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-421/"
+        }
+    ],
+    "CVE-2026-48344": [
+        {
+            "title": "ZDI-26-420: Adobe Creative Cloud AGSService Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-420/"
+        }
+    ],
+    "CVE-2026-48272": [
+        {
+            "title": "ZDI-26-419: Adobe Creative Cloud AdobeUpdateService Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-419/"
+        }
+    ],
+    "CVE-2026-55126": [
+        {
+            "title": "ZDI-26-418: Microsoft SharePoint SPFieldMultiLineText Cross-Site Scripting Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-418/"
+        }
+    ],
+    "CVE-2026-50311": [
+        {
+            "title": "ZDI-26-417: Microsoft Windows ServerManager Exposed Dangerous Method Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-417/"
+        }
+    ],
+    "CVE-2026-54129": [
+        {
+            "title": "ZDI-26-416: Microsoft Hyper-V netvsc Out-Of-Bounds Read Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-416/"
+        }
+    ],
+    "CVE-2026-49805": [
+        {
+            "title": "ZDI-26-415: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-415/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "ZDI-26-414: Microsoft PowerShell Help Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-414/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "ZDI-26-413: (Pwn2Own) Microsoft SharePoint Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-413/"
+        },
+        {
+            "title": "ZDI-26-412: (Pwn2Own) Microsoft SharePoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-412/"
+        }
+    ],
+    "CVE-2026-24237": [
+        {
+            "title": "ZDI-26-411: NVIDIA NVTabular Pickle File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-411/"
+        }
+    ],
+    "CVE-2026-24228": [
+        {
+            "title": "ZDI-26-410: NVIDIA NeMo Framework Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-410/"
+        }
+    ],
+    "CVE-2026-55999": [
+        {
+            "title": "ZDI-26-409: X.Org Server Glamor Font Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-409/"
+        }
+    ],
+    "CVE-2026-56003": [
+        {
+            "title": "ZDI-26-408: X.Org Server ComputeScaledProperties Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-408/"
+        }
+    ],
+    "CVE-2026-56002": [
+        {
+            "title": "ZDI-26-407: X.Org Server PCF Font Parsing Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-407/"
+        }
+    ],
+    "CVE-2026-56001": [
+        {
+            "title": "ZDI-26-406: X.Org Server BitmapScaleBitmaps Integer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-406/"
+        }
+    ],
+    "CVE-2026-56000": [
+        {
+            "title": "ZDI-26-405: X.Org Server GLX Extension Use-After-Free Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-405/"
+        }
+    ],
+    "CVE-2026-14266": [
+        {
+            "title": "ZDI-26-444: 7-Zip XZ Decompression Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-444/"
+        }
+    ],
+    "CVE-2026-41287": [
+        {
+            "title": "Microsoft Fixes Record 622 Vulnerabilities in Patch Tuesday Update",
+            "link": "https://www.webpronews.com/microsoft-fixes-record-622-vulnerabilities-in-patch-tuesday-update/"
+        }
+    ],
+    "CVE-2015-5381": [
+        {
+            "title": "Microsoft Secure Boot Flaw Exposes 13 Years of Silent Vulnerability in PC Firmware",
+            "link": "https://www.webpronews.com/microsoft-secure-boot-flaw-exposes-13-years-of-silent-vulnerability-in-pc-firmware/"
+        }
+    ],
+    "CVE-2026-47865": [
+        {
+            "title": "Google Cloud\u2019s VMware Engine Stumbles on a Bad Config Change",
+            "link": "https://www.webpronews.com/google-clouds-vmware-engine-stumbles-on-a-bad-config-change/"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "CVE-2026-107406": [
+        {
+            "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+            "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/"
+        },
+        {
+            "title": "Citrix Urges NetScaler ADC and Gateway Customers to Patch for New Critical RCE Vulnerability",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-rce/"
+        },
+        {
+            "title": "Critical Citrix NetScaler Vulnerability Allows Remote Code Execution Attacks \u2013 CVSS 9.5",
+            "link": "https://gbhackers.com/critical-citrix-netscaler-vulnerability/"
+        },
+        {
+            "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+            "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html"
+        },
+        {
+            "title": "Citrix NetScaler Critical RCE Flaw CVE-2026-107406",
+            "link": "https://www.cybermaterial.com/p/citrix-netscaler-critical-rce-flaw"
+        }
+    ],
+    "CVE-2026-23870": [
+        {
+            "title": "React Server Components Flaw Lets Attackers Freeze Next.js Servers With a Single POST Request",
+            "link": "https://cybersecuritynews.com/react-server-components-dos-vulnerability/"
+        },
+        {
+            "title": "React Server Components Flaw Lets Attackers Freeze Next.js Servers With a Single Request",
+            "link": "https://cyberpress.org/react-server-components-flaw-2/"
+        },
+        {
+            "title": "React Server Components Vulnerability Lets Attackers Freeze Next.js Servers With a Single Request",
+            "link": "https://gbhackers.com/react-server-components-vulnerability/"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup",
+            "link": "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup",
+            "link": "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+            "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html"
+        },
+        {
+            "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/"
+        },
+        {
+            "title": "Hackers Exploit Two Unpatched AhsayCBS Flaws to Deploy Webshells and Cryptominers",
+            "link": "https://www.cysecurity.news/2026/10/hackers-exploit-two-unpatched-ahsaycbs.html"
+        }
+    ],
+    "CVE-2015-3306": [
+        {
+            "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+            "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/"
+        },
+        {
+            "title": "Hackers Exploit Two Unpatched AhsayCBS Flaws to Deploy Webshells and Cryptominers",
+            "link": "https://www.cysecurity.news/2026/10/hackers-exploit-two-unpatched-ahsaycbs.html"
+        }
+    ],
+    "CVE-2026-47483": [
+        {
+            "title": "High-severity NVIDIA vulnerability lets unauthenticated attackers crash GPU monitoring",
+            "link": "https://www.helpnetsecurity.com/2026/10/09/nvidia-dcgm-exporter-vulnerability-cve-2026-47483/"
+        },
+        {
+            "title": "NVIDIA\u2019s Exposed GPU Monitoring Flaw Leaves AI Servers Open to Silent Disruption",
+            "link": "https://www.webpronews.com/nvidias-exposed-gpu-monitoring-flaw-leaves-ai-servers-open-to-silent-disruption/"
+        }
+    ],
+    "CVE-2026-102255": [
+        {
+            "title": "Max severity SonicWall SMA1000 flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-107181": [
+        {
+            "title": "PoC Released for Telegram Desktop Flaw Enabling One-Click File Account Takeover",
+            "link": "https://cybersecuritynews.com/poc-released-for-telegram-desktop-flaw/"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "Japan Reports Sharp Rise in Web Data Leaks",
+            "link": "https://www.cysecurity.news/2026/10/japan-reports-sharp-rise-in-web-data.html"
+        }
+    ],
+    "CVE-2026-96940": [
+        {
+            "title": "Microsoft Exchange Vulnerability Could Leak Confidential Organizational Info",
+            "link": "https://www.cysecurity.news/2026/10/microsoft-exchange-vulnerability-could.html"
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+{
+    "CVE-2026-86950": [
+        {
+            "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+            "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+        },
+        {
+            "title": "Apple Patches Meta-Reported Zero-Day Linked to \u2018Extremely Sophisticated Attack\u2019",
+            "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/"
+        },
+        {
+            "title": "Critical Apple CoreGraphics Zero-Day Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/apple-zero-day-vulnerability-exploited/"
+        },
+        {
+            "title": "Apple Fixes iOS Zero-Day Exploited in Sophisticated Targeted Attacks",
+            "link": "https://gbhackers.com/apple-fixes-ios-zero-day/"
+        },
+        {
+            "title": "Apple Patches iPhone CoreGraphics Flaw Allowing Arbitrary Code Execution",
+            "link": "https://cyberpress.org/apple-patches-iphone-coregraphics-flaw/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-86950",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-86950"
+        },
+        {
+            "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks"
+        }
+    ],
+    "CVE-2026-87969": [
+        {
+            "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks",
+            "link": "https://cybersecuritynews.com/watchguard-api-vulnerabilities/"
+        },
+        {
+            "title": "Critical WatchGuard AP Flaws Let Unauthenticated Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-watchguard-ap-flaws/"
+        }
+    ],
+    "CVE-2026-101891": [
+        {
+            "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks",
+            "link": "https://cybersecuritynews.com/watchguard-api-vulnerabilities/"
+        },
+        {
+            "title": "Critical WatchGuard AP Flaws Let Unauthenticated Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-watchguard-ap-flaws/"
+        }
+    ],
+    "CVE-2026-86102": [
+        {
+            "title": "Critical WatchGuard API Vulnerabilities Enables Command Execution Attacks",
+            "link": "https://cybersecuritynews.com/watchguard-api-vulnerabilities/"
+        },
+        {
+            "title": "Critical WatchGuard AP Flaws Let Unauthenticated Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-watchguard-ap-flaws/"
+        }
+    ],
+    "CVE-2026-101169": [
+        {
+            "title": "Octopus Server Flaw Lets Authenticated Attackers Execute Arbitrary Code",
+            "link": "https://gbhackers.com/octopus-server-flaw/"
+        },
+        {
+            "title": "Octopus Server Flaw Lets Authenticated Attackers Execute Arbitrary Code Through Malicious JSON",
+            "link": "https://cyberpress.org/octopus-server-flaw/"
+        }
+    ],
+    "CVE-2026-93302": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Security Flaws Affecting TLS and Certificate Validation",
+            "link": "https://gbhackers.com/wolfssl-5-9-4-patches-11-security-flaws/"
+        },
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)",
+            "link": "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/"
+        }
+    ],
+    "CVE-2025-4287": [
+        {
+            "title": "Apple Releases September 2026 Security Updates Fixing Actively Exploited WebKit Zero-Day (CVE-2025-4287)",
+            "link": "https://www.webpronews.com/apple-releases-september-2026-security-updates-fixing-actively-exploited-webkit-zero-day-cve-2025-4287/"
+        }
+    ],
+    "CVE-2026-93304": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89133": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89135": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89102": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89134": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89136": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-47272": [
+        {
+            "title": "Kiteworks Urgently Patches Critical Authentication Bypass (CVE-2025-47272)",
+            "link": "https://www.webpronews.com/kiteworks-urgently-patches-critical-authentication-bypass-cve-2025-47272/"
+        }
+    ],
+    "CVE-2024-23222": [
+        {
+            "title": "Apple Urgently Patches Actively Exploited iOS Zero-Day in Core Graphics (CVE-2024-23222)",
+            "link": "https://www.webpronews.com/apple-urgently-patches-actively-exploited-ios-zero-day-in-core-graphics-cve-2024-23222/"
+        }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+        }
+    ]
+}

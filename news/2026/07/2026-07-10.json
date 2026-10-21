@@ -1,0 +1,90 @@
+{
+    "CVE-2026-50656": [
+        {
+            "title": "Researcher \u2018Chaotic Eclipse\u2019 Claims RoguePlanet Defender Patch May Leak Data and Exhaust Disk Space",
+            "link": "https://cybersecuritynews.com/rogueplanet-defender-patch-claim/"
+        }
+    ],
+    "CVE-2026-1207": [
+        {
+            "title": "Django SQL Injection Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/django-sql-injection-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-31694": [
+        {
+            "title": "Linux FUSE Page Cache Overflow Lets Local Attackers Gain Root Access",
+            "link": "https://cyberpress.org/linux-fuse-page-cache-overflow/"
+        },
+        {
+            "title": "Linux FUSE Vulnerability Allows Unprivileged Users to Pop a Root Shell",
+            "link": "https://www.itsecuritynews.info/linux-fuse-vulnerability-allows-unprivileged-users-to-pop-a-root-shell/"
+        },
+        {
+            "title": "Linux Kernel FUSE Vulnerability Lets Attackers Gain Root Privileges",
+            "link": "https://cybersecuritynews.com/linux-kernel-fuse-vulnerability/"
+        }
+    ],
+    "CVE-2025-5777": [
+        {
+            "title": "Hackers Abuse CitrixBleed 2 to Steal Session Tokens and Bypass MFA Protections",
+            "link": "https://cyberpress.org/citrixbleed-2-bypasses-mfa/"
+        },
+        {
+            "title": "Hackers Can Go From CitrixBleed 2 Exploitation to Ransomware in Under an Hour",
+            "link": "https://cybersecuritynews.com/hackers-can-go-from-citrixbleed-2-exploitation/"
+        },
+        {
+            "title": "Hackers Exploit CitrixBleed 2 to Hijack MFA-Protected Sessions and Deploy DragonForce Ransomware",
+            "link": "https://gbhackers.com/citrixbleed-2-to-hijack-mfa/"
+        }
+    ],
+    "CVE-2026-56291": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-56291",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56291"
+        }
+    ],
+    "CVE-2026-48939": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48939",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48939"
+        }
+    ],
+    "CVE-2026-2701": [
+        {
+            "title": "Progress Urges ShareFile Admins to Shut Down Servers Over Credible Security Threat",
+            "link": "https://cybersecuritynews.com/progress-sharefile-admins-shut-down-servers/"
+        }
+    ],
+    "CVE-2026-2699": [
+        {
+            "title": "Progress Urges ShareFile Admins to Shut Down Servers Over Credible Security Threat",
+            "link": "https://cybersecuritynews.com/progress-sharefile-admins-shut-down-servers/"
+        }
+    ],
+    "CVE-2025-23006": [
+        {
+            "title": "Top 10 Best Unified Threat Management (UTM) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-unified-threat-management-solutions/"
+        }
+    ],
+    "CVE-2025-40602": [
+        {
+            "title": "Top 10 Best Unified Threat Management (UTM) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-unified-threat-management-solutions/"
+        }
+    ],
+    "CVE-2024-42009": [
+        {
+            "title": "Chinese Hackers Turn Everyday University Emails Into Gateways for Research Theft",
+            "link": "https://www.webpronews.com/chinese-hackers-turn-everyday-university-emails-into-gateways-for-research-theft/"
+        }
+    ],
+    "CVE-2025-49113": [
+        {
+            "title": "Chinese Hackers Turn Everyday University Emails Into Gateways for Research Theft",
+            "link": "https://www.webpronews.com/chinese-hackers-turn-everyday-university-emails-into-gateways-for-research-theft/"
+        }
+    ]
+}

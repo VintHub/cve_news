@@ -1,0 +1,292 @@
+{
+    "CVE-2026-42533": [
+        {
+            "title": "F5 Patches Multiple NGINX Vulnerabilities Enabling Heap Buffer Overflow and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/f5-patches-multiple-nginx-vulnerabilities/"
+        },
+        {
+            "title": "F5 Fixes 3 NGINX Flaws Enabling Potential Remote Code Execution, Memory Disclosure, and DoS Attacks",
+            "link": "https://gbhackers.com/f5-fixes-3-nginx-flaws/"
+        },
+        {
+            "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+            "link": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/"
+        }
+    ],
+    "CVE-2026-56434": [
+        {
+            "title": "F5 Patches Multiple NGINX Vulnerabilities Enabling Heap Buffer Overflow and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/f5-patches-multiple-nginx-vulnerabilities/"
+        },
+        {
+            "title": "F5 Fixes 3 NGINX Flaws Enabling Potential Remote Code Execution, Memory Disclosure, and DoS Attacks",
+            "link": "https://gbhackers.com/f5-fixes-3-nginx-flaws/"
+        },
+        {
+            "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+            "link": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/"
+        }
+    ],
+    "CVE-2026-60005": [
+        {
+            "title": "F5 Patches Multiple NGINX Vulnerabilities Enabling Heap Buffer Overflow and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/f5-patches-multiple-nginx-vulnerabilities/"
+        },
+        {
+            "title": "F5 Fixes 3 NGINX Flaws Enabling Potential Remote Code Execution, Memory Disclosure, and DoS Attacks",
+            "link": "https://gbhackers.com/f5-fixes-3-nginx-flaws/"
+        },
+        {
+            "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+            "link": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/"
+        }
+    ],
+    "CVE-2026-53412": [
+        {
+            "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+            "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html"
+        },
+        {
+            "title": "Zoom Desktop Client for Windows Flaw Enables Account Takeover via Network Access",
+            "link": "https://cybersecuritynews.com/zoom-desktop-client-windows-flaw/"
+        },
+        {
+            "title": "Critical Zoom Workplace Flaw Lets Unauthenticated Attackers Take Over Accounts Remotely",
+            "link": "https://gbhackers.com/critical-zoom-workplace-flaw/"
+        },
+        {
+            "title": "Critical Zoom Workplace Flaw Lets Unauthenticated Attackers Take Over Accounts",
+            "link": "https://cyberpress.org/critical-zoom-workplace-flaw/"
+        }
+    ],
+    "CVE-2026-20298": [
+        {
+            "title": "Multiple Splunk Enterprise Vulnerabilities Enable Path Traversal and Information Disclosure Attacks",
+            "link": "https://cybersecuritynews.com/multiple-splunk-enterprise-vulnerabilities-patched/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Expose Stored Credentials and Allow Arbitrary SPL Searches",
+            "link": "https://gbhackers.com/splunk-enterprise-flaws-expose-stored-credentials/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Enable Credential Theft, Path Traversal, and SPL Abuse",
+            "link": "https://cyberpress.org/splunk-enterprise-flaws/"
+        }
+    ],
+    "CVE-2026-20296": [
+        {
+            "title": "Multiple Splunk Enterprise Vulnerabilities Enable Path Traversal and Information Disclosure Attacks",
+            "link": "https://cybersecuritynews.com/multiple-splunk-enterprise-vulnerabilities-patched/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Expose Stored Credentials and Allow Arbitrary SPL Searches",
+            "link": "https://gbhackers.com/splunk-enterprise-flaws-expose-stored-credentials/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Enable Credential Theft, Path Traversal, and SPL Abuse",
+            "link": "https://cyberpress.org/splunk-enterprise-flaws/"
+        }
+    ],
+    "CVE-2026-20297": [
+        {
+            "title": "Multiple Splunk Enterprise Vulnerabilities Enable Path Traversal and Information Disclosure Attacks",
+            "link": "https://cybersecuritynews.com/multiple-splunk-enterprise-vulnerabilities-patched/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Expose Stored Credentials and Allow Arbitrary SPL Searches",
+            "link": "https://gbhackers.com/splunk-enterprise-flaws-expose-stored-credentials/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Enable Credential Theft, Path Traversal, and SPL Abuse",
+            "link": "https://cyberpress.org/splunk-enterprise-flaws/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "CISA Warns of Oracle E-Business Suite Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-oracle-e-business-suite-vulnerability-actively-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Oracle E-Business Suite Flaw",
+            "link": "https://gbhackers.com/cisa-warns-of-actively-exploited-oracle-e-business-suite-flaw/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited Oracle E-Business Suite Takeover Flaw to KEV",
+            "link": "https://cyberpress.org/cisa-oracle-e-business-suite-takeover-flaw/"
+        }
+    ],
+    "CVE-2026-59793": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59794": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59791": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59792": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59795": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59796": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "Critical SonicWall SSRF Zero-Day Opens WebSocket Tunnel to Internal Services",
+            "link": "https://cyberpress.org/critical-sonicwall-ssrf-zero-day/"
+        },
+        {
+            "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/sonicwall-sma1000-0-day-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Critical SonicWall SSRF Zero-Day Opens WebSocket Tunnel to Internal Services",
+            "link": "https://cyberpress.org/critical-sonicwall-ssrf-zero-day/"
+        },
+        {
+            "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/sonicwall-sma1000-0-day-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-58644",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-58644"
+        },
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-25089",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-25089"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-39808",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-39808"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2023-24955": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2020-1147": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-20963": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-49719": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-49706": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-32201": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-49704": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2023-29357": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2019-0604": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2024-38094": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-15682": [
+        {
+            "title": "AnyDesk 0-Day Vulnerability Lets Attackers Trigger Denial-of-Service",
+            "link": "https://cybersecuritynews.com/anydesk-0-day-vulnerability/"
+        }
+    ]
+}

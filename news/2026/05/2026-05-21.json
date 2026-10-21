@@ -1,0 +1,92 @@
+{
+    "CVE-2026-9082": [
+        {
+            "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+            "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
+        },
+        {
+            "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+            "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/"
+        },
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2026-46333": [
+        {
+            "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+            "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
+        },
+        {
+            "title": "Nine-year-old Linux Kernel Vulnerability Let Attackers Exfiltrate SSH Private Keys",
+            "link": "https://cybersecuritynews.com/nine-year-old-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-41091": [
+        {
+            "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+            "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
+        }
+    ],
+    "CVE-2026-20223": [
+        {
+            "title": "Critical Cisco Secure Workload Vulnerability Enables Unauthorized API Access",
+            "link": "https://cybersecuritynews.com/cisco-secure-workload-vulnerability/"
+        }
+    ],
+    "CVE-2018-7602": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2018-7600": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2019-6340": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2020-13671": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2026-45321": [
+        {
+            "title": "Mini Shai-Hulud: Frequently asked questions about the TeamPCP npm and PyPI supply chain campaign",
+            "link": "https://www.tenable.com/blog/mini-shai-hulud-frequently-asked-questions"
+        }
+    ],
+    "CVE-2025-34291": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-34291",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-34291"
+        }
+    ],
+    "CVE-2026-34926": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34926",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34926"
+        }
+    ],
+    "CVE-2026-3517": [
+        {
+            "title": "ZDI-26-319: Progress Software Kemp LoadMaster addcountry Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-319/"
+        }
+    ],
+    "CVE-2026-3518": [
+        {
+            "title": "ZDI-26-318: Progress Software Kemp LoadMaster ssodomain_killsession Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-318/"
+        }
+    ]
+}

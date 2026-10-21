@@ -1,0 +1,292 @@
+{
+    "CVE-2026-64634": [
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allows Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        }
+    ],
+    "CVE-2026-64633": [
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allows Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://gbhackers.com/critical-veeam-one-flaw/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        },
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allow Code Execution Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-veeam-one-vulnerabilities-allow-code-execution-attacks/"
+        }
+    ],
+    "CVE-2026-64631": [
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allows Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        }
+    ],
+    "CVE-2026-64630": [
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allows Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        }
+    ],
+    "CVE-2026-58074": [
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allows Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        }
+    ],
+    "CVE-2026-58075": [
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allows Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-veeam-one-vulnerabilities/"
+        },
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        }
+    ],
+    "CVE-2020-8949": [
+        {
+            "title": "Botnet Is Hunting Router Ping Tools That Can Turn User Input Into Shell Commands",
+            "link": "https://cybersecuritynews.com/botnet-is-hunting-router-ping-tools/"
+        }
+    ],
+    "CVE-2024-48419": [
+        {
+            "title": "Botnet Is Hunting Router Ping Tools That Can Turn User Input Into Shell Commands",
+            "link": "https://cybersecuritynews.com/botnet-is-hunting-router-ping-tools/"
+        }
+    ],
+    "CVE-2013-7179": [
+        {
+            "title": "Botnet Is Hunting Router Ping Tools That Can Turn User Input Into Shell Commands",
+            "link": "https://cybersecuritynews.com/botnet-is-hunting-router-ping-tools/"
+        },
+        {
+            "title": "Botnet Repeatedly Probes 12 Router Diagnostic Endpoints for Exploitable Flaws",
+            "link": "https://cyberpress.org/botnet-probes-router-diagnostics/"
+        }
+    ],
+    "CVE-2024-12856": [
+        {
+            "title": "Botnet Is Hunting Router Ping Tools That Can Turn User Input Into Shell Commands",
+            "link": "https://cybersecuritynews.com/botnet-is-hunting-router-ping-tools/"
+        },
+        {
+            "title": "Botnet Repeatedly Probes 12 Router Diagnostic Endpoints for Exploitable Flaws",
+            "link": "https://cyberpress.org/botnet-probes-router-diagnostics/"
+        }
+    ],
+    "CVE-2026-29146": [
+        {
+            "title": "CISA Warns of Apache Tomcat Encryption Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/apache-tomcat-encryption-vulnerability/"
+        }
+    ],
+    "CVE-2026-34486": [
+        {
+            "title": "CISA Warns of Apache Tomcat Encryption Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/apache-tomcat-encryption-vulnerability/"
+        }
+    ],
+    "CVE-2025-7851": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
+        }
+    ],
+    "CVE-2025-15629": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        }
+    ],
+    "CVE-2025-15630": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
+        }
+    ],
+    "CVE-2025-9289": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
+        }
+    ],
+    "CVE-2025-15544": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        }
+    ],
+    "CVE-2025-15627": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
+        }
+    ],
+    "CVE-2025-9293": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        }
+    ],
+    "CVE-2025-15628": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
+        }
+    ],
+    "CVE-2025-7850": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
+        }
+    ],
+    "CVE-2025-9292": [
+        {
+            "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        }
+    ],
+    "CVE-2025-0411": [
+        {
+            "title": "7-Zip Leaves Extracted Malware Without Mark-of-the-Web, Bypassing Windows SmartScreen",
+            "link": "https://cyberpress.org/7-zip-bypasses-smartscreen-protections/"
+        }
+    ],
+    "CVE-2026-15920": [
+        {
+            "title": "Django Security Update Fixes Server-Side File Write, XSS, and DoS Flaws",
+            "link": "https://cyberpress.org/django-security-update-server-side-file-write-xss-dos/"
+        }
+    ],
+    "CVE-2026-15830": [
+        {
+            "title": "Django Security Update Fixes Server-Side File Write, XSS, and DoS Flaws",
+            "link": "https://cyberpress.org/django-security-update-server-side-file-write-xss-dos/"
+        }
+    ],
+    "CVE-2026-15337": [
+        {
+            "title": "Django Security Update Fixes Server-Side File Write, XSS, and DoS Flaws",
+            "link": "https://cyberpress.org/django-security-update-server-side-file-write-xss-dos/"
+        }
+    ],
+    "CVE-2026-15307": [
+        {
+            "title": "Django Security Update Fixes Server-Side File Write, XSS, and DoS Flaws",
+            "link": "https://cyberpress.org/django-security-update-server-side-file-write-xss-dos/"
+        }
+    ],
+    "CVE-2026-9198": [
+        {
+            "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+            "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html"
+        }
+    ],
+    "CVE-2026-64531": [
+        {
+            "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+            "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html"
+        },
+        {
+            "title": "New OVSwrap Linux Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/ovswrap-linux-vulnerability/"
+        },
+        {
+            "title": "New OVSwrap Flaw Lets Unprivileged Users Corrupt Kernel Credentials and Gain Root",
+            "link": "https://cyberpress.org/ovswrap-flaw-corrupt-kernel-credentials-gain-root/"
+        },
+        {
+            "title": "OVSwrap: 13-Year-Old Linux Kernel Flaw Lets Local Users Become Root",
+            "link": "https://www.itsecuritynews.info/ovswrap-13-year-old-linux-kernel-flaw-lets-local-users-become-root/"
+        },
+        {
+            "title": "OVSwrap Open vSwitch Flaw Lets Unprivileged Linux Users Gain Root Access",
+            "link": "https://gbhackers.com/ovswrap-open-vswitch-flaw/"
+        }
+    ],
+    "CVE-2026-59774": [
+        {
+            "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+            "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html"
+        }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-63077",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-63077"
+        }
+    ],
+    "CVE-2026-31986": [
+        {
+            "title": "Pre-auth RCE in enterprise Java hits Bonita and OFBiz servers",
+            "link": "https://www.helpnetsecurity.com/2026/08/05/pre-auth-rce-java-bonita-ofbiz-cve-2026-31986/"
+        }
+    ],
+    "CVE-2025-43376": [
+        {
+            "title": "Apple\u2019s Private Relay IP Leak: How Passkeys Break a Paid Privacy Promise",
+            "link": "https://www.webpronews.com/apples-private-relay-ip-leak-how-passkeys-break-a-paid-privacy-promise/"
+        }
+    ],
+    "CVE-2026-19909": [
+        {
+            "title": "ZDI-26-525: (0Day) PAX Technology Q80 AIP File Parsing Link Following Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-525/"
+        }
+    ],
+    "CVE-2026-19908": [
+        {
+            "title": "ZDI-26-524: (0Day) PAX Technology Q80 XCB Daemon Missing Authentication Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-524/"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "CVE-2026-47729": [
+        {
+            "title": "29-Year-Old Squid Proxy Vulnerability Exposes Authorization Headers and API Keys",
+            "link": "https://www.itsecuritynews.info/29-year-old-squid-proxy-vulnerability-exposes-authorization-headers-and-api-keys/"
+        }
+    ],
+    "CVE-2024-40766": [
+        {
+            "title": "CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)",
+            "link": "https://www.itsecuritynews.info/cve-2024-40766-the-patch-fixed-the-bug-nobody-fixed-the-configuration-tue-jun-23rd/"
+        }
+    ],
+    "CVE-2019-3568": [
+        {
+            "title": "The WhatsApp Encryption Puzzle: Math, Metadata and Mounting Legal Pressure",
+            "link": "https://www.webpronews.com/the-whatsapp-encryption-puzzle-math-metadata-and-mounting-legal-pressure/"
+        }
+    ],
+    "CVE-2026-8461": [
+        {
+            "title": "Critical FFmpeg Vulnerability Allows Attackers to Weaponize Media Files",
+            "link": "https://www.itsecuritynews.info/critical-ffmpeg-vulnerability-allows-attackers-to-weaponize-media-files/"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via Malicious SSH packets",
+            "link": "https://www.itsecuritynews.info/critical-libssh2-vulnerability-allows-attackers-to-execute-remote-code-via-malicious-ssh-packets/"
+        },
+        {
+            "title": "Critical libssh2 Vulnerability Lets Remote Attackers Execute Code via Crafted SSH Packets",
+            "link": "https://www.itsecuritynews.info/critical-libssh2-vulnerability-lets-remote-attackers-execute-code-via-crafted-ssh-packets/"
+        },
+        {
+            "title": "Critical libssh2 Vulnerability Enables Remote Code Execution via Malicious SSH Packets",
+            "link": "https://cyberpress.org/critical-libssh2-vulnerability/"
+        }
+    ],
+    "CVE-2026-41947": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2026-41948": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2026-41949": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2026-41950": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2024-5846": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "AWS Shows How Egress Controls Stop Compromised Workloads and AI Agents From Leaking Data",
+            "link": "https://cyberpress.org/egress-controls-stop-leaks/"
+        }
+    ],
+    "CVE-2025-67038": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-67038",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-67038"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
+        }
+    ],
+    "CVE-2026-34910": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34910",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34910"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
+        }
+    ],
+    "CVE-2026-34909": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34909",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34909"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
+        }
+    ],
+    "CVE-2026-34908": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34908",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34908"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2025-15467": [
+        {
+            "title": "Siemens Products using OpenSSL",
+            "link": "https://www.itsecuritynews.info/siemens-products-using-openssl/"
+        }
+    ],
+    "CVE-2026-1840": [
+        {
+            "title": "Hubbell Aclara Metrum Cellular Web Interface",
+            "link": "https://www.itsecuritynews.info/hubbell-aclara-metrum-cellular-web-interface/"
+        }
+    ],
+    "CVE-2026-20971": [
+        {
+            "title": "Samsung KNOX Kernel UAF Exposes Millions of Galaxy Devices",
+            "link": "https://www.itsecuritynews.info/samsung-knox-kernel-uaf-exposes-millions-of-galaxy-devices/"
+        }
+    ]
+}

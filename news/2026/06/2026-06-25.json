@@ -1,0 +1,462 @@
+{
+    "CVE-2026-20245": [
+        {
+            "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+            "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html"
+        },
+        {
+            "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
+            "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access via Malicious CSV Upload",
+            "link": "https://www.itsecuritynews.info/cisco-catalyst-sd-wan-manager-zero-day-exploited-to-gain-root-access-via-malicious-csv-upload/"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
+            "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
+        }
+    ],
+    "CVE-2025-67038": [
+        {
+            "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
+            "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        },
+        {
+            "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+            "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/"
+        }
+    ],
+    "CVE-2026-4909": [
+        {
+            "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
+            "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        }
+    ],
+    "CVE-2026-34910": [
+        {
+            "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
+            "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        }
+    ],
+    "CVE-2025-54068": [
+        {
+            "title": "CVE-2025-54068 Laravel Livewire Credential Theft Campaign: 6,000+ Applications Compromised",
+            "link": "https://www.itsecuritynews.info/cve-2025-54068-laravel-livewire-credential-theft-campaign-6000-applications-compromised/"
+        }
+    ],
+    "CVE-2026-13028": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13021": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13025": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13033": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13038": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13026": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13029": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13024": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13027": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13022": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13035": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13036": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13030": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13031": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13032": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13037": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13023": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13034": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
+            "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
+            "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "Microsoft WinRE Weakness Exposes Devices to UEFI Password Bypass Attacks",
+            "link": "https://cyberpress.org/microsoft-winre-uefi-password-attacks/"
+        }
+    ],
+    "CVE-2026-10536": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8926": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-11564": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-11352": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-9547": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-9079": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-9545": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8927": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-9546": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8924": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8925": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-11586": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8932": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-9080": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8458": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-12064": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-11856": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-8286": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        },
+        {
+            "title": "25-Year-Old Vulnerability in cURL Used by 30 Billion Devices Finally Patched",
+            "link": "https://cybersecuritynews.com/25-year-old-curl-vulnerability/"
+        }
+    ],
+    "CVE-2026-11374": [
+        {
+            "title": "ManageEngine AD360 Flaw Lets Unauthenticated Attackers Take Over User Accounts",
+            "link": "https://cyberpress.org/manageengine-ad360-flaw/"
+        },
+        {
+            "title": "ManageEngine AD360 Integration Flaw Exposes User Identity and Role Information to Attackers",
+            "link": "https://cybersecuritynews.com/manageengine-ad360-integration-flaw/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Langflow AI Pipeline RCE Exploited Within 20 Hours to Steal Keys and Credentials",
+            "link": "https://cyberpress.org/langflow-ai-pipeline-rce-exploited/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Langflow AI Pipeline RCE Exploited Within 20 Hours to Steal Keys and Credentials",
+            "link": "https://cyberpress.org/langflow-ai-pipeline-rce-exploited/"
+        },
+        {
+            "title": "Langflow RCE Flaw Lets Attackers Execute Arbitrary Python Code Without Authentication",
+            "link": "https://www.itsecuritynews.info/langflow-rce-flaw-lets-attackers-execute-arbitrary-python-code-without-authentication/"
+        }
+    ],
+    "CVE-2026-56445": [
+        {
+            "title": "pydicom pynetdicom Library",
+            "link": "https://www.itsecuritynews.info/pydicom-pynetdicom-library/"
+        }
+    ],
+    "CVE-2026-56414": [
+        {
+            "title": "H.VIEW HV-500S6 IP Camera",
+            "link": "https://www.itsecuritynews.info/h-view-hv-500s6-ip-camera/"
+        }
+    ],
+    "CVE-2026-55975": [
+        {
+            "title": "H.VIEW HV-500S6 IP Camera",
+            "link": "https://www.itsecuritynews.info/h-view-hv-500s6-ip-camera/"
+        }
+    ],
+    "CVE-2026-12473": [
+        {
+            "title": "OHIF Viewers DICOM",
+            "link": "https://www.itsecuritynews.info/ohif-viewers-dicom/"
+        }
+    ],
+    "CVE-2026-12578": [
+        {
+            "title": "Delta Electronics DTM Soft",
+            "link": "https://www.itsecuritynews.info/delta-electronics-dtm-soft-2/"
+        }
+    ],
+    "CVE-2026-28701": [
+        {
+            "title": "Daktronics Controller Firmware",
+            "link": "https://www.itsecuritynews.info/daktronics-controller-firmware/"
+        }
+    ],
+    "CVE-2026-33560": [
+        {
+            "title": "Daktronics Controller Firmware",
+            "link": "https://www.itsecuritynews.info/daktronics-controller-firmware/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Unified CM SSRF Flaw Is Being Exploited to Drop Webshells",
+            "link": "https://www.itsecuritynews.info/cisco-unified-cm-ssrf-flaw-is-being-exploited-to-drop-webshells/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20230",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20230"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-39/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-12569",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-12569"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-39/"
+        }
+    ]
+}

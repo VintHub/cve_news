@@ -1,0 +1,270 @@
+import os
+import re
+import json
+import requests
+import feedparser
+from datetime import datetime
+from dateutil import parser
+from io import BytesIO
+from urllib3.util import Retry
+from requests.adapters import HTTPAdapter
+import random
+from urllib.parse import unquote
+
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0"
+]
+
+# Configuration
+FEEDS = [
+    "https://feeds.feedburner.com/TheHackersNews",
+    "https://www.securityweek.com/feed/",
+    "https://www.bleepingcomputer.com/feed/",
+    "https://www.darkreading.com/rss.xml",
+    "https://feeds.feedburner.com/tenable/qaXL",
+    "https://cybersecuritynews.com/feed/",
+    "https://gbhackers.com/feed/",
+    "https://www.helpnetsecurity.com/feed/",
+    "https://www.webpronews.com/feed/",
+    "https://www.techrepublic.com/feed/",
+    "https://cyberpress.org/feed/",
+    "https://blog.qualys.com/feed",
+    "https://www.cysecurity.news/feeds/posts/default?alt=rss",
+    "https://www.esecurityplanet.com/feed/",
+    "https://www.itsecuritynews.info/feed/"
+]
+
+CISA_KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+CVE_REGEX = r"CVE[-—–]\d{4}[-—–]\d{4,}"
+
+def extract_cves(text):
+    """Finds unique CVEs and standardizes them."""
+    matches = re.findall(CVE_REGEX, text, re.IGNORECASE)
+    return {m.replace('—', '-').replace('–', '-').upper() for m in matches}
+
+def save_cve_entry(date_str, cve_id, title, link, list_only=False):
+    print(f"Saving {cve_id} for {date_str}")
+
+    is_itsec = "itsecuritynews.info" in link
+
+    # 1. Immediately drop daily/weekly/monthly summary posts
+
+    # itsecuritynews.info
+    if is_itsec:
+        summaries = ["it security news hourly summary", "it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
+        summary_links = ["security-news-roundup"]
+        if any(summary in title.lower() for summary in summaries):
+            return
+        for summary_link in summary_links:
+            if summary_link in link:
+                return
+                
+    # cybersecuritynews.com
+    if "cybersecuritynews.com" in link:
+        summary_links = ["news-bulletin-weekly", "newsletter-bulletin", "-newsletter-"]
+        for summary_link in summary_links:
+            if summary_link in link:
+                return
+                
+    # cyberpress.org
+    if "cyberpress.org" in link:
+        summary_links = ["cybersecurity-roundup"]
+        for summary_link in summary_links:
+            if summary_link in link:
+                return
+
+    # Load existing CVE data early so we can check it regardless of the incoming source
+    try:
+        cve_year = cve_id.split('-')[1]
+    except (IndexError, AttributeError):
+        cve_year = "unknown"
+
+    cve_dir = os.path.join("cves", cve_year)
+    os.makedirs(cve_dir, exist_ok=True)
+    cve_file = os.path.join(cve_dir, f"{cve_id}.json")
+
+    cve_data = []
+    if os.path.exists(cve_file):
+        with open(cve_file, 'r') as f:
+            try:
+                cve_data = json.load(f)
+            except json.JSONDecodeError:
+                cve_data = []
+
+    # Clean up whitespace/case differences just to be bulletproof
+    norm_title = " ".join(title.lower().split())
+    def get_norm(t): return " ".join(t.lower().split())
+
+    if is_itsec:
+        # Scenario A: itsecuritynews comes second. Drop it if the title already exists.
+        if any(get_norm(item.get('title', '')) == norm_title for item in cve_data):
+            print(f"Skipping itsecuritynews duplicate title: {title}")
+            return
+    else:
+        # Scenario B: itsecuritynews came FIRST. Find and purge it retroactively.
+        itsec_duplicates = [
+            item for item in cve_data 
+            if get_norm(item.get('title', '')) == norm_title and "itsecuritynews.info" in item.get('link', '')
+        ]
+        
+        if itsec_duplicates:
+            print(f"Retroactively removing itsecuritynews duplicate for: {title}")
+            # Filter out from our working CVE data array
+            cve_data = [item for item in cve_data if item not in itsec_duplicates]
+            
+            # Also remove from respective daily news files
+            for old_item in itsec_duplicates:
+                old_date = old_item.get('date')
+                old_link = old_item.get('link')
+                if old_date:
+                    y_n = old_date[:4]
+                    m_n = old_date[5:7]
+                    old_news_file = os.path.join("news", y_n, m_n, f"{old_date}.json")
+                    if os.path.exists(old_news_file):
+                        with open(old_news_file, 'r') as nf:
+                            try:
+                                old_news_data = json.load(nf)
+                            except Exception:
+                                old_news_data = {}
+                        
+                        if cve_id in old_news_data:
+                            old_news_data[cve_id] = [i for i in old_news_data[cve_id] if i.get('link') != old_link]
+                            if not old_news_data[cve_id]:
+                                del old_news_data[cve_id]
+                            
+                            with open(old_news_file, 'w') as nf:
+                                json.dump(old_news_data, nf, indent=4)
+
+    # --- 1. Structure: news/<YYYY>/<MM>/<date>.json ---
+    year_news = date_str[:4]
+    month_news = date_str[5:7]
+    
+    news_dir = os.path.join("news", year_news, month_news)
+    os.makedirs(news_dir, exist_ok=True)
+    news_file = os.path.join(news_dir, f"{date_str}.json")
+    
+    news_data = {}
+    if os.path.exists(news_file):
+        with open(news_file, 'r') as f:
+            try:
+                news_data = json.load(f)
+            except json.JSONDecodeError:
+                news_data = {}
+
+    if cve_id not in news_data:
+        news_data[cve_id] = []
+    
+    if not any(item.get('link') == link for item in news_data[cve_id]):
+        new_entry = {"title": title, "link": link}
+        if list_only:
+            new_entry["listOnly"] = True
+            
+        news_data[cve_id].append(new_entry)
+        with open(news_file, 'w') as f:
+            json.dump(news_data, f, indent=4)
+
+    # --- 2. Structure: cves/<year>/<CVEID>.json ---
+    if not any(item.get('link') == link for item in cve_data):
+        cve_data.append({
+            "title": title,
+            "link": link,
+            "date": date_str
+        })
+        with open(cve_file, 'w') as f:
+            json.dump(cve_data, f, indent=4)
+        print(f"Logged {cve_id} for {date_str}")
+
+def process_rss_feeds():
+    # Set up a robust HTTP session with 3 retries
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[500, 502, 503, 504],
+        raise_on_status=False
+    )
+    session.mount('https://', HTTPAdapter(max_retries=retries))
+    session.mount('http://', HTTPAdapter(max_retries=retries))
+
+    for url in FEEDS:
+        print(f"Fetching RSS: {url}")
+        
+        try:
+            headers = {'User-Agent': random.choice(USER_AGENTS)}
+            response = session.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            
+            # Pass the raw bytes to feedparser
+            feed = feedparser.parse(BytesIO(response.content))
+            
+        except requests.exceptions.RequestException as e:
+            print(f"Failed to fetch {url} after retries: {e}")
+            continue # Skip to the next feed URL if this one is completely dead
+
+        for entry in feed.entries:
+            title = entry.get('title', '')
+            link = entry.get('link', '')
+            description = entry.get('description', '')
+
+            content = ""
+            if 'content' in entry:
+                content = " ".join([c.get('value', '') for c in entry.content])
+
+            # --- Extract the original link for itsecuritynews.info ---
+            if "itsecuritynews.info" in link:
+                # Merge description and content, replace HTML entity for ampersand to parse URL query smoothly
+                search_text = (content + " " + description).replace('&#038;', '&')
+                
+                if "Read the original article:" in search_text:
+                    # Look for transfer.html and extract the url= query parameter up to the next query param delimiter (&)
+                    match = re.search(r'transfer\.html\?url=([^"\'&<]+)', search_text)
+                    if match:
+                        link = unquote(match.group(1))  # URL-decode and replace the current link
+            # --------------------------------------------------------------------
+                
+            try:
+                pub_date_raw = entry.get('published') or entry.get('pubDate')
+                dt = parser.parse(pub_date_raw)
+                date_str = dt.strftime('%Y-%m-%d')
+            except:
+                date_str = datetime.now().strftime('%Y-%m-%d')
+
+            full_text = f"{title} {description} {content}"
+            
+            # Extract just the tables, and the text without tables
+            table_matches = re.findall(r'<table[^>]*>.*?</table>', full_text, flags=re.IGNORECASE | re.DOTALL)
+            table_text = " ".join(table_matches)
+            non_table_text = re.sub(r'<table[^>]*>.*?</table>', '', full_text, flags=re.IGNORECASE | re.DOTALL)
+            
+            found_cves = extract_cves(full_text)
+            table_cves = extract_cves(table_text)
+            non_table_cves = extract_cves(non_table_text)
+
+            for cve in found_cves:
+                # True if the CVE is in the tables but nowhere else in the article
+                is_list_only = (cve in table_cves) and (cve not in non_table_cves)
+                save_cve_entry(date_str, cve, title, link, is_list_only)
+
+def process_cisa_kev():
+    print(f"Fetching CISA KEV...")
+    try:
+        response = requests.get(CISA_KEV_URL)
+        response.raise_for_status()
+        kev_data = response.json()
+        for vuln in kev_data.get('vulnerabilities', []):
+            cve_id = vuln.get('cveID', '').upper()
+            date_added = vuln.get('dateAdded', '')
+            link = f"https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve={cve_id}"
+            title = f"CISA KEV Addition: {cve_id}"
+            if cve_id and date_added:
+                save_cve_entry(date_added, cve_id, title, link)
+    except Exception as e:
+        print(f"Error: {e}")
+
+if __name__ == "__main__":  
+    process_rss_feeds()
+    process_cisa_kev()

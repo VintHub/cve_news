@@ -1,0 +1,164 @@
+{
+    "CVE-2026-53359": [
+        {
+            "title": "Scattered Spider squashed, Rogue Agent AI flaw, 16 year-old Linux bug and new phish hunts marketers",
+            "link": "https://www.itsecuritynews.info/scattered-spider-squashed-rogue-agent-ai-flaw-16-year-old-linux-bug-and-new-phish-hunts-marketers/"
+        }
+    ],
+    "CVE-2026-43499": [
+        {
+            "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+            "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
+        },
+        {
+            "title": "15-year-old GhostLock Kernel Flaw Enables Privilege Escalation in Major Linux Distributions",
+            "link": "https://cybersecuritynews.com/15-year-old-ghostlock-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "15-Year-Old GhostLock Linux Kernel Flaw Lets Attackers Gain Root Access",
+            "link": "https://cyberpress.org/15-year-old-ghostlock-linux-kernel-flaw/"
+        },
+        {
+            "title": "15-Year-Old GhostLock Linux Kernel Vulnerability Enables Root Access and Container Escape",
+            "link": "https://www.itsecuritynews.info/15-year-old-ghostlock-linux-kernel-vulnerability-enables-root-access-and-container-escape/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+            "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Adobe ColdFusion Vulnerability",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-actively-exploited-adobe-coldfusion-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Adobe ColdFusion Path Traversal Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-path-traversal-exploited/"
+        },
+        {
+            "title": "CISA Warns Adobe ColdFusion Flaw Enables Arbitrary Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-adobe-coldfusion-flaw/"
+        }
+    ],
+    "CVE-2025-49113": [
+        {
+            "title": "Hackers Exploit Roundcube N-Day Flaws to Steal Credentials and Deploy VShell",
+            "link": "https://cybersecuritynews.com/hackers-exploit-roundcube-n-day-flaws/"
+        },
+        {
+            "title": "China-Aligned Hackers Treat Roundcube Mailservers as Edge Devices for Network Pivoting",
+            "link": "https://cyberpress.org/hackers-pivot-through-roundcube/"
+        }
+    ],
+    "CVE-2024-42009": [
+        {
+            "title": "Hackers Exploit Roundcube N-Day Flaws to Steal Credentials and Deploy VShell",
+            "link": "https://cybersecuritynews.com/hackers-exploit-roundcube-n-day-flaws/"
+        },
+        {
+            "title": "China-Aligned Hackers Treat Roundcube Mailservers as Edge Devices for Network Pivoting",
+            "link": "https://cyberpress.org/hackers-pivot-through-roundcube/"
+        }
+    ],
+    "CVE-2025-2492": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2023-25717": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2020-22653": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2020-22658": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "ClickFix Detections Surge 108% as AI-fix and CrashFix Expand Social Engineering Attacks",
+            "link": "https://cyberpress.org/clickfix-attacks-surge-rapidly/"
+        }
+    ],
+    "CVE-2021-22205": [
+        {
+            "title": "Mycelium Botnet Uses Stolen AI API Keys and Local LLMs for Distributed AI Inference",
+            "link": "https://cyberpress.org/mycelium-powers-distributed-ai/"
+        }
+    ],
+    "CVE-2026-33112": [
+        {
+            "title": "PoC and Technical Details Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-sharepoint-rce-vulnerability/"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "PoC and Technical Details Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-sharepoint-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-50746": [
+        {
+            "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+            "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
+        },
+        {
+            "title": "Ubiquiti Patches Critical UniFi OS Flaws Allowing Command Injection and Privilege Escalation",
+            "link": "https://www.itsecuritynews.info/ubiquiti-patches-critical-unifi-os-flaws-allowing-command-injection-and-privilege-escalation/"
+        }
+    ],
+    "CVE-2026-55255": [
+        {
+            "title": "Attackers using Langflow flaw for credential harvesting (CVE-2026-55255)",
+            "link": "https://www.helpnetsecurity.com/2026/07/08/langflow-vulnerability-cve-2026-55255-exploited/"
+        }
+    ],
+    "CVE-2026-57589": [
+        {
+            "title": "OpenBSD Kernel Flaw Exposes Root Access Through Ancient Semaphore Code",
+            "link": "https://www.webpronews.com/openbsd-kernel-flaw-exposes-root-access-through-ancient-semaphore-code/"
+        }
+    ],
+    "CVE-2026-15685": [
+        {
+            "title": "ZDI-26-403: (0Day) Ollama downloadBlob Improper Validation of Array Index Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-403/"
+        }
+    ],
+    "CVE-2026-15684": [
+        {
+            "title": "ZDI-26-402: (0Day) Glarysoft Glary Utilities Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-402/"
+        }
+    ],
+    "CVE-2026-15682": [
+        {
+            "title": "ZDI-26-401: (0Day) AnyDesk Support Information Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-401/"
+        }
+    ],
+    "CVE-2026-15683": [
+        {
+            "title": "ZDI-26-399: (0Day) (Pwn2Own) Lorex 2K Indoor Wi-Fi Security Camera Device Management Server Improper Certificate Validation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-399/"
+        }
+    ],
+    "CVE-2026-15680": [
+        {
+            "title": "ZDI-26-398: (0Day) (Pwn2Own) Lorex 2K Indoor Wi-Fi Security Camera CDeviceOperator Format String Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-398/"
+        }
+    ]
+}

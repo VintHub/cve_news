@@ -1,0 +1,266 @@
+{
+    "CVE-2026-48842": [
+        {
+            "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
+        },
+        {
+            "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
+            "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/"
+        },
+        {
+            "title": "Critical Roundcube Flaw Under Active Exploitation in Code Injection Attacks",
+            "link": "https://www.cysecurity.news/2026/09/critical-roundcube-flaw-under-active.html"
+        },
+        {
+            "title": "Attackers Target Unpatched Roundcube Servers With CVE-2026-48842",
+            "link": "https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/"
+        },
+        {
+            "title": "Roundcube Webmail Under Attack: 523,000 Instances Exposed Online",
+            "link": "https://www.esecurityplanet.com/threats/news-roundcube-cve-2026-48842-active-exploitation/"
+        },
+        {
+            "title": "IT Security News Roundup: 2026-09-25",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-09-25/"
+        }
+    ],
+    "CVE-2026-5430": [
+        {
+            "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+            "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html"
+        },
+        {
+            "title": "CISA Flags WSO2 Security Flaw Under Active Exploitation",
+            "link": "https://gbhackers.com/cisa-flags-wso2-security-flaw/"
+        },
+        {
+            "title": "U.S. CISA adds Adobe and WSO2\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Critical WSO2 Authentication Bypass Flaw",
+            "link": "https://cyberpress.org/cisa-warns-wso2-authentication-bypass-flaw/"
+        },
+        {
+            "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-96512": [
+        {
+            "title": "Sudo Vulnerability Lets Attackers Bypass Time-Based Authorization Controls",
+            "link": "https://gbhackers.com/sudo-vulnerability/"
+        },
+        {
+            "title": "Sudo Flaw Lets Unprivileged Users Bypass Time-Based Restrictions on Privileged Commands",
+            "link": "https://cyberpress.org/sudo-flaw-lets-unprivileged-users-bypass/"
+        }
+    ],
+    "CVE-2026-86859": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-86857": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13016": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-86858": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "14-Year-Old Linux Kernel Vulnerability Enables Root Access and Docker Escape",
+            "link": "https://gbhackers.com/14-year-old-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "14-Year-Old Linux Kernel Vulnerability Lets Attackers Gain Root and Escape Containers",
+            "link": "https://cyberpress.org/14-year-old-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "14-Year-Old Linux Kernel Flaw Lets Local Users Gain Root Access and Escape Containers",
+            "link": "https://cybersecuritynews.com/14-year-old-linux-kernel-flaw/"
+        }
+    ],
+    "CVE-2026-86860": [
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-4632": [
+        {
+            "title": "Samsung MagicINFO Flaw Used to Deploy AnyDesk and Compile Stealthy Cryptominer Payloads",
+            "link": "https://cyberpress.org/magicinfo-flaw-fuels-cryptomining/"
+        },
+        {
+            "title": "Hackers Used a Samsung Flaw to Build a Cryptominer Inside Victim Systems",
+            "link": "https://cybersecuritynews.com/samsung-flaw/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "CISA Warns of Check Point VPN and Management Flaws Exploited for Unauthenticated Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-of-check-point-vpn-and-management-flaws/"
+        },
+        {
+            "title": "Check Point Warns of Active Exploitation of Two Critical Pre-Authentication Vulnerabilities",
+            "link": "https://www.cysecurity.news/2026/09/check-point-warns-of-active.html"
+        }
+    ],
+    "CVE-2026-93616": [
+        {
+            "title": "CISA Warns of Check Point VPN and Management Flaws Exploited for Unauthenticated Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-of-check-point-vpn-and-management-flaws/"
+        },
+        {
+            "title": "Check Point Warns of Active Exploitation of Two Critical Pre-Authentication Vulnerabilities",
+            "link": "https://www.cysecurity.news/2026/09/check-point-warns-of-active.html"
+        },
+        {
+            "title": "Zero-Days, AI Agents, and Identity Attacks Define Cybersecurity Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-identity-attacks-define-cybersecurity-week/"
+        }
+    ],
+    "CVE-2023-5631": [
+        {
+            "title": "Critical Roundcube Flaw Under Active Exploitation in Code Injection Attacks",
+            "link": "https://www.cysecurity.news/2026/09/critical-roundcube-flaw-under-active.html"
+        }
+    ],
+    "CVE-2026-58138": [
+        {
+            "title": "Zero-Days, AI Agents, and Identity Attacks Define Cybersecurity Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-identity-attacks-define-cybersecurity-week/"
+        }
+    ],
+    "CVE-2026-67279": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-67279",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-67279"
+        }
+    ],
+    "CVE-2026-65660": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-65660",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-65660"
+        },
+        {
+            "title": "U.S. CISA adds Microsoft SharePoint and Mikrotik RouterOS flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/199777/hacking/u-s-cisa-adds-microsoft-sharepoint-and-mikrotik-routeros-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-87902": [
+        {
+            "title": "WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution",
+            "link": "https://www.techrepublic.com/article/news-wordpress-cve-2026-87902-active-exploitation/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-87902",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-87902"
+        }
+    ],
+    "CVE-2026-93485": [
+        {
+            "title": "WordPress Comment2Shell Vulnerability Lets Hackers Take Over Sites Through Comments",
+            "link": "https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/"
+        }
+    ],
+    "CVE-2024-7399": [
+        {
+            "title": "Hackers Used a Samsung Flaw to Build a Cryptominer Inside Victim Systems",
+            "link": "https://cybersecuritynews.com/samsung-flaw/"
+        }
+    ],
+    "CVE-2026-76461": [
+        {
+            "title": "Roundcube Webmail Under Attack: 523,000 Instances Exposed Online",
+            "link": "https://www.esecurityplanet.com/threats/news-roundcube-cve-2026-48842-active-exploitation/"
+        }
+    ],
+    "CVE-2026-76460": [
+        {
+            "title": "InfraTrust Report Flags Exploited Network Management Flaws",
+            "link": "https://www.esecurityplanet.com/threats/news-infratrust-network-management-flaws/"
+        }
+    ],
+    "CVE-2026-20079": [
+        {
+            "title": "InfraTrust Report Flags Exploited Network Management Flaws",
+            "link": "https://www.esecurityplanet.com/threats/news-infratrust-network-management-flaws/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "InfraTrust Report Flags Exploited Network Management Flaws",
+            "link": "https://www.esecurityplanet.com/threats/news-infratrust-network-management-flaws/"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+            "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+        }
+    ],
+    "CVE-2026-87491": [
+        {
+            "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+            "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+            "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+        }
+    ]
+}

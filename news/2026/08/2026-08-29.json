@@ -1,0 +1,66 @@
+{
+    "CVE-2026-6876": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-74820": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-18886": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-18885": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-76639": [
+        {
+            "title": "Hackers Can Take Full Control of Unitree G1 Humanoid Robots Over Bluetooth",
+            "link": "https://cybersecuritynews.com/unitree-g1-robots-over-bluetooth/"
+        }
+    ],
+    "CVE-2026-76640": [
+        {
+            "title": "Hackers Can Take Full Control of Unitree G1 Humanoid Robots Over Bluetooth",
+            "link": "https://cybersecuritynews.com/unitree-g1-robots-over-bluetooth/"
+        }
+    ],
+    "CVE-2026-52813": [
+        {
+            "title": "Critical Gogs Flaw Enables Remote Code Execution Through Path Traversal",
+            "link": "https://gbhackers.com/critical-gogs-flaw-enables-remote-code-execution/"
+        },
+        {
+            "title": "Critical Gogs Path Traversal Flaw Enables Remote Code Execution via Git Hooks",
+            "link": "https://cyberpress.org/critical-gogs-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-76581": [
+        {
+            "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+            "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
+        }
+    ],
+    "CVE-2026-52810": [
+        {
+            "title": "Critical Gogs Path Traversal Flaw Enables Remote Code Execution via Git Hooks",
+            "link": "https://cyberpress.org/critical-gogs-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2020-1472": [
+        {
+            "title": "Berlin Confirms Extortion Attempt After Network Compromise as Manchester Airports Group Reports Customer Data Theft",
+            "link": "https://www.cysecurity.news/2026/08/berlin-confirms-extortion-attempt-after.html"
+        }
+    ]
+}

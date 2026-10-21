@@ -1,0 +1,100 @@
+{
+    "CVE-2026-64638": [
+        {
+            "title": "AI writes patches that don\u2019t work, WordPress login takeover, Researchers hijack 36 million kids\u2019 GPS trackers",
+            "link": "https://cybersecuritytoday.libsyn.com/ai-writes-patches-that-dont-work-wordpress-login-takeover-researchers-hijack-36-million-kids-gps-trackers"
+        },
+        {
+            "title": "Imperva Customers Protected Against XSS2Shell (CVE-2026-64638) in WordPress Core",
+            "link": "https://www.imperva.com/blog/imperva-customers-protected-against-xss2shell-cve-2026-64638-in-wordpress-core/"
+        }
+    ],
+    "CVE-2026-20685": [
+        {
+            "title": "Apple Private Cloud Compute Path Traversal Flaw Lets Attackers Write Files as Root",
+            "link": "https://gbhackers.com/apple-private-cloud-compute-path-traversal-flaw/"
+        },
+        {
+            "title": "Apple Private Cloud Compute Flaw Lets Attackers Write Files as Root",
+            "link": "https://cyberpress.org/apple-private-cloud-compute-flaw/"
+        },
+        {
+            "title": "Apple Private Cloud Compute Flaw Enables Root File Writes and AI Inference Telemetry Leakage",
+            "link": "https://cybersecuritynews.com/apple-private-cloud-compute-vulnerability/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Patches Mac Screen Sharing Flaw That Could Bypass Authentication",
+            "link": "https://www.techrepublic.com/article/news-apple-macos-screen-sharing-authentication-flaw/"
+        }
+    ],
+    "CVE-2026-20131": [
+        {
+            "title": "Interlock Ransomware Abuses Volatility3 and WinPmem to Dump Windows Credentials From Memory",
+            "link": "https://cyberpress.org/interlock-dumps-windows-credentials/"
+        }
+    ],
+    "CVE-2007-4559": [
+        {
+            "title": "Apple Private Cloud Compute Flaw Lets Attackers Write Files as Root",
+            "link": "https://cyberpress.org/apple-private-cloud-compute-flaw/"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "N-able ships second N-central hotfix as attackers keep exploiting CVE-2026-18577",
+            "link": "https://www.helpnetsecurity.com/2026/08/10/cve-2026-18577-n-central-hotfix-2-msps/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "CISA Flags Progress LoadMaster Command Injection Vulnerability Exploited in the Wild",
+            "link": "https://gbhackers.com/cisa-flags-progress-loadmaster-command-injection-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Progress LoadMaster Command Injection Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/progress-loadmaster-command-injection-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA warns Actively Exploited Progress Kemp LoadMaster RCE Flaw",
+            "link": "https://cyberpress.org/cisa-warns-actively-exploited-progress-kemp-loadmaster/"
+        }
+    ],
+    "CVE-2026-49176": [
+        {
+            "title": "Windows WalletService Vulnerability Allows Attackers to Escalate Privileges \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/windows-walletservice-vulnerability-poc-released/"
+        }
+    ],
+    "CVE-2026-10090": [
+        {
+            "title": "Red Hat ACM Privilege Escalation Vulnerability Lets Attackers Gain Full Cluster-Admin Access",
+            "link": "https://cybersecuritynews.com/red-hat-acm-privilege-escalation-vulnerability/"
+        }
+    ],
+    "CVE-2018-0802": [
+        {
+            "title": "Top 10 Malware Threats of the Week \u2013 AsyncRAT, Remcos, and Xworm Lead the Surge",
+            "link": "https://cybersecuritynews.com/top-10-malware-threats/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "Gunra Ransomware Exploits Fortinet VPN Flaws to Bypass MFA and Steal Enterprise Data",
+            "link": "https://cybersecuritynews.com/gunra-ransomware-exploits-fortinet-vpn-flaws/"
+        }
+    ],
+    "CVE-2025-24472": [
+        {
+            "title": "Gunra Ransomware Exploits Fortinet VPN Flaws to Bypass MFA and Steal Enterprise Data",
+            "link": "https://cybersecuritynews.com/gunra-ransomware-exploits-fortinet-vpn-flaws/"
+        }
+    ],
+    "CVE-2026-34348": [
+        {
+            "title": "Pass-the-Passkey Attacks Expose Windows 11 and Microsoft Entra ID, Bypassing MFA",
+            "link": "https://cybersecuritynews.com/pass-the-passkey-attacks/"
+        }
+    ]
+}
