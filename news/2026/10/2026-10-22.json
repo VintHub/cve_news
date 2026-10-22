@@ -39,6 +39,10 @@
         {
             "title": "Amazon Says Attackers Hit PHP2Shell Four Days Before the Bug Went Public",
             "link": "https://www.webpronews.com/amazon-threat-intelligence-php2shell-exploitation-before-disclosure-madpot/"
+        },
+        {
+            "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php"
         }
     ],
     "CVE-2026-109618": [
@@ -81,6 +85,10 @@
         {
             "title": "Amazon Says Attackers Hit PHP2Shell Four Days Before the Bug Went Public",
             "link": "https://www.webpronews.com/amazon-threat-intelligence-php2shell-exploitation-before-disclosure-madpot/"
+        },
+        {
+            "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php"
         }
     ],
     "CVE-2026-15723": [
