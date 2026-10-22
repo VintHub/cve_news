@@ -43,6 +43,14 @@
         {
             "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php"
+        },
+        {
+            "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+            "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
+        },
+        {
+            "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
+            "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/"
         }
     ],
     "CVE-2026-109618": [
@@ -89,12 +97,24 @@
         {
             "title": "CVE-2026-109618 and CVE-2026-109619: Critical Unauthenticated Remote Code Execution in PHP",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-109618-and-cve-2026-109619-critical-unauthenticated-remote-code-execution-in-php"
+        },
+        {
+            "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+            "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
+        },
+        {
+            "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
+            "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/"
         }
     ],
     "CVE-2026-15723": [
         {
             "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
             "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
         }
     ],
     "CVE-2026-16255": [
@@ -176,6 +196,10 @@
         {
             "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
             "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
         }
     ],
     "CVE-2026-82814": [
@@ -252,6 +276,30 @@
         {
             "title": "Signal flaw could expose audio and video even after users hang up",
             "link": "https://www.helpnetsecurity.com/2026/10/22/signal-ringrtc-vulnerability-cve-2026-113380/"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Critical Cisco Expressway Flaw Lets Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-cisco-expressway-flaw/"
+        }
+    ],
+    "CVE-2025-64446": [
+        {
+            "title": "Hackers Target FortiGate, FortiWeb and Palo Alto GlobalProtect, Exposing 70,000+ Credentials",
+            "link": "https://cyberpress.org/hackers-expose-70000-credentials/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Hackers Target FortiGate, FortiWeb and Palo Alto GlobalProtect, Exposing 70,000+ Credentials",
+            "link": "https://cyberpress.org/hackers-expose-70000-credentials/"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
         }
     ]
 }
