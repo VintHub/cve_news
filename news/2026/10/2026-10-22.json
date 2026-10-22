@@ -11,6 +11,22 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "PHP2Shell: Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)",
+            "link": "https://blog.checkpoint.com/security/php2shell-what-we-know-about-the-leaked-critical-php-vulnerabilities-cve-2026-109618-cve-2026-109619/"
+        },
+        {
+            "title": "PHP Fixes Two Critical RCE Vulnerabilities Allowing Unauthenticated Code Execution",
+            "link": "https://gbhackers.com/php-fixes-two-critical-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical PHP Vulnerabilities Were Under Attack Days Before Security Updates Were Released",
+            "link": "https://gbhackers.com/php-vulnerabilities/"
         }
     ],
     "CVE-2026-109618": [
@@ -25,6 +41,115 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "PHP2Shell: Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)",
+            "link": "https://blog.checkpoint.com/security/php2shell-what-we-know-about-the-leaked-critical-php-vulnerabilities-cve-2026-109618-cve-2026-109619/"
+        },
+        {
+            "title": "PHP Fixes Two Critical RCE Vulnerabilities Allowing Unauthenticated Code Execution",
+            "link": "https://gbhackers.com/php-fixes-two-critical-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical PHP Vulnerabilities Were Under Attack Days Before Security Updates Were Released",
+            "link": "https://gbhackers.com/php-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15723": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-16255": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105777": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105711": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112212": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-112378": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-14288": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-103515": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112326": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-13319": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-12664": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110264": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-82814": [
+        {
+            "title": "Wordfence Argus Discovers High Severity Unauthenticated PHP Object Injection in Duplicator",
+            "link": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-high-severity-unauthenticated-php-object-injection-in-duplicator/"
         }
     ]
 }
