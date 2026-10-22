@@ -27,6 +27,18 @@
         {
             "title": "Critical PHP Vulnerabilities Were Under Attack Days Before Security Updates Were Released",
             "link": "https://gbhackers.com/php-vulnerabilities/"
+        },
+        {
+            "title": "Fortinet Urges Customers to Patch Critical Flaws Affecting FortiOS, FortiManager, and FortiAnalyzer",
+            "link": "https://cybersecuritynews.com/fortinet-urges-to-patch-critical-flaws/"
+        },
+        {
+            "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/"
+        },
+        {
+            "title": "Amazon Says Attackers Hit PHP2Shell Four Days Before the Bug Went Public",
+            "link": "https://www.webpronews.com/amazon-threat-intelligence-php2shell-exploitation-before-disclosure-madpot/"
         }
     ],
     "CVE-2026-109618": [
@@ -57,6 +69,18 @@
         {
             "title": "Critical PHP Vulnerabilities Were Under Attack Days Before Security Updates Were Released",
             "link": "https://gbhackers.com/php-vulnerabilities/"
+        },
+        {
+            "title": "Fortinet Urges Customers to Patch Critical Flaws Affecting FortiOS, FortiManager, and FortiAnalyzer",
+            "link": "https://cybersecuritynews.com/fortinet-urges-to-patch-critical-flaws/"
+        },
+        {
+            "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/"
+        },
+        {
+            "title": "Amazon Says Attackers Hit PHP2Shell Four Days Before the Bug Went Public",
+            "link": "https://www.webpronews.com/amazon-threat-intelligence-php2shell-exploitation-before-disclosure-madpot/"
         }
     ],
     "CVE-2026-15723": [
@@ -150,6 +174,76 @@
         {
             "title": "Wordfence Argus Discovers High Severity Unauthenticated PHP Object Injection in Duplicator",
             "link": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-high-severity-unauthenticated-php-object-injection-in-duplicator/"
+        }
+    ],
+    "CVE-2024-31621": [
+        {
+            "title": "A Hacker Tried to Turn an AI Chatbot Into a Tool for Attacking Other Servers",
+            "link": "https://cybersecuritynews.com/ai-chatbot-into-a-tool/"
+        }
+    ],
+    "CVE-2026-65182": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2023-22527": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2026-21589": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2026-65637": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2026-68525": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2026-75595": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2026-58062": [
+        {
+            "title": "Atlassian Releases Massive Security Update Addressing 176 Flaw Entries in Jira and Confluence",
+            "link": "https://cybersecuritynews.com/atlassian-security-update/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Fortinet Urges Customers to Patch Critical Flaws Affecting FortiOS, FortiManager, and FortiAnalyzer",
+            "link": "https://cybersecuritynews.com/fortinet-urges-to-patch-critical-flaws/"
+        }
+    ],
+    "CVE-2026-110936": [
+        {
+            "title": "Hackers Actively Exploiting Siemens Software Center Flaw in ClickFix Malware Attacks",
+            "link": "https://cybersecuritynews.com/siemens-software-center-flaw-exploited/"
+        }
+    ],
+    "CVE-2026-113380": [
+        {
+            "title": "Critical Signal Vulnerability Could Keep Your Mic and Camera Live Even After Hang Up",
+            "link": "https://cybersecuritynews.com/critical-signal-vulnerability/"
+        },
+        {
+            "title": "Signal flaw could expose audio and video even after users hang up",
+            "link": "https://www.helpnetsecurity.com/2026/10/22/signal-ringrtc-vulnerability-cve-2026-113380/"
         }
     ]
 }
