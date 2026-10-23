@@ -3094,5 +3094,12 @@
             "title": "From Future Warning to Current Reality: The Acceleration of Exploits Following Claude Mythos",
             "link": "https://cpl.thalesgroup.com/blog/software-monetization/claude-mythos-ai-exploits-software-protection"
         }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "Two Critical PHP Flaws Could Hand Attackers Your Web Servers. Here\u2019s How to Find, Mitigate, and Patch PHP2Shell Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
     ]
 }

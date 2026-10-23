@@ -35,6 +35,14 @@
         {
             "title": "Millions of PHP Instances Exposed \u2013 What Organizations Need To Do Right Now",
             "link": "https://www.paloaltonetworks.com/blog/2026/10/millions-of-php-instances-exposed-what-organizations-need-to-do-right-now/"
+        },
+        {
+            "title": "PHP2Shell \u2013 Critical Vulnerabilities in PHP Core (CVE-2026-109618/CVE-2026-109619)",
+            "link": "https://www.offsec.com/blog/php2shell-critical-vulnerabilities-in-php-core/"
+        },
+        {
+            "title": "PHP2Shell Update: One in ten organizations impacted as Europe bears the brunt",
+            "link": "https://blog.checkpoint.com/ai-security/php2shell-one-in-ten-organizations-impacted-as-europe-bears-the-brunt/"
         }
     ],
     "CVE-2026-109619": [
@@ -73,6 +81,14 @@
         {
             "title": "Millions of PHP Instances Exposed \u2013 What Organizations Need To Do Right Now",
             "link": "https://www.paloaltonetworks.com/blog/2026/10/millions-of-php-instances-exposed-what-organizations-need-to-do-right-now/"
+        },
+        {
+            "title": "PHP2Shell \u2013 Critical Vulnerabilities in PHP Core (CVE-2026-109618/CVE-2026-109619)",
+            "link": "https://www.offsec.com/blog/php2shell-critical-vulnerabilities-in-php-core/"
+        },
+        {
+            "title": "PHP2Shell Update: One in ten organizations impacted as Europe bears the brunt",
+            "link": "https://blog.checkpoint.com/ai-security/php2shell-one-in-ten-organizations-impacted-as-europe-bears-the-brunt/"
         }
     ],
     "CVE-2026-112900": [
@@ -762,6 +778,42 @@
         {
             "title": "CVE-2026-84942 \u2013 Stored Cross-Site Scripting via Vega Expression Function Bypass in OpenSearch Dashboards",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-102-aws/"
+        }
+    ],
+    "CVE-2026-80841": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-74753": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-24834": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-80521": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-56132": [
+        {
+            "title": "Why Claude\u2019s No-Crash Proofs for 239 Open-Source Fuzz Targets Come With Fine Print",
+            "link": "https://www.webpronews.com/anthropic-theorem-claude-formal-verification-oss-fuzz/"
+        }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-110447",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-110447"
         }
     ]
 }
