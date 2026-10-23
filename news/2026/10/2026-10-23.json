@@ -31,6 +31,10 @@
         {
             "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
             "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/"
+        },
+        {
+            "title": "Millions of PHP Instances Exposed \u2013 What Organizations Need To Do Right Now",
+            "link": "https://www.paloaltonetworks.com/blog/2026/10/millions-of-php-instances-exposed-what-organizations-need-to-do-right-now/"
         }
     ],
     "CVE-2026-109619": [
@@ -65,6 +69,10 @@
         {
             "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
             "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/"
+        },
+        {
+            "title": "Millions of PHP Instances Exposed \u2013 What Organizations Need To Do Right Now",
+            "link": "https://www.paloaltonetworks.com/blog/2026/10/millions-of-php-instances-exposed-what-organizations-need-to-do-right-now/"
         }
     ],
     "CVE-2026-112900": [
@@ -191,6 +199,10 @@
         {
             "title": "VeloCloud Orchestrators Patched in September Need Another Update After Arista\u2019s Latest Zero-Day",
             "link": "https://www.webpronews.com/arista-velocloud-orchestrator-zero-day-cve-2026-114625/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-114625",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-114625"
         }
     ],
     "CVE-2022-21894": [
@@ -744,6 +756,12 @@
         {
             "title": "Siemens Capital Embedded AR Classic",
             "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04"
+        }
+    ],
+    "CVE-2026-84942": [
+        {
+            "title": "CVE-2026-84942 \u2013 Stored Cross-Site Scripting via Vega Expression Function Bypass in OpenSearch Dashboards",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-102-aws/"
         }
     ]
 }
