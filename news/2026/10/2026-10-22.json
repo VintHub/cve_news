@@ -51,6 +51,30 @@
         {
             "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
             "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/"
+        },
+        {
+            "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
+            "link": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response"
+        },
+        {
+            "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+            "link": "https://gbhackers.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
+        },
+        {
+            "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+            "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
+        },
+        {
+            "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+            "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+        },
+        {
+            "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+            "link": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
+        },
+        {
+            "title": "CVE-2026-109618 and CVE-2026-109619: PHP Vulnerable to Unauthenticated RCE Attacks",
+            "link": "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce"
         }
     ],
     "CVE-2026-109618": [
@@ -105,6 +129,30 @@
         {
             "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
             "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/"
+        },
+        {
+            "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
+            "link": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response"
+        },
+        {
+            "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+            "link": "https://gbhackers.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
+        },
+        {
+            "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+            "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
+        },
+        {
+            "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+            "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+        },
+        {
+            "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+            "link": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
+        },
+        {
+            "title": "CVE-2026-109618 and CVE-2026-109619: PHP Vulnerable to Unauthenticated RCE Attacks",
+            "link": "https://www.zscaler.com/blogs/security-research/cve-2026-109618-and-cve-2026-109619-php-vulnerable-unauthenticated-rce"
         }
     ],
     "CVE-2026-15723": [
@@ -176,6 +224,10 @@
         {
             "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
             "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "GitLab Patched Its Own Copy of Ruby to Close a CVSS 10 Hole Spanning 12 Years of Releases",
+            "link": "https://www.webpronews.com/gitlab-cve-2026-110264-ruby-onigmo-regex-rce/"
         }
     ],
     "CVE-2026-13319": [
@@ -200,6 +252,10 @@
         {
             "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
             "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
+        },
+        {
+            "title": "GitLab Patched Its Own Copy of Ruby to Close a CVSS 10 Hole Spanning 12 Years of Releases",
+            "link": "https://www.webpronews.com/gitlab-cve-2026-110264-ruby-onigmo-regex-rce/"
         }
     ],
     "CVE-2026-82814": [
@@ -282,6 +338,10 @@
         {
             "title": "Critical Cisco Expressway Flaw Lets Attackers Execute Commands as Root",
             "link": "https://cyberpress.org/critical-cisco-expressway-flaw/"
+        },
+        {
+            "title": "Critical Cisco Expressway Flaw Lets Attackers Execute Commands as Root",
+            "link": "https://gbhackers.com/critical-cisco-expressway-flaw-2/"
         }
     ],
     "CVE-2025-64446": [
