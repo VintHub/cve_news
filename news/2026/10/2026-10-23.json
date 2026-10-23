@@ -15,6 +15,18 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+            "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+        },
+        {
+            "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks",
+            "link": "https://gbhackers.com/php-rce-vulnerabilities/"
+        },
+        {
+            "title": "PHP2Shell: Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)",
+            "link": "https://blog.checkpoint.com/security/php2shell-what-we-know-about-the-leaked-critical-php-vulnerabilities-cve-2026-109618-cve-2026-109619/"
         }
     ],
     "CVE-2026-109619": [
@@ -33,6 +45,42 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+            "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+        },
+        {
+            "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks",
+            "link": "https://gbhackers.com/php-rce-vulnerabilities/"
+        },
+        {
+            "title": "PHP2Shell: Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619)",
+            "link": "https://blog.checkpoint.com/security/php2shell-what-we-know-about-the-leaked-critical-php-vulnerabilities-cve-2026-109618-cve-2026-109619/"
+        }
+    ],
+    "CVE-2026-112900": [
+        {
+            "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+            "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+            "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Critical Citrix NetScaler RCE Vulnerability Under Active Attack as Hackers Deliver FreeBSD Malware",
+            "link": "https://gbhackers.com/citrix-netscaler-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-91403": [
+        {
+            "title": "Critical Oracle Java Flaw With CVSS 9.1 Allows Unauthenticated Remote Attacks",
+            "link": "https://gbhackers.com/critical-oracle-java-flaw-with-cvss-9-1-allows-unauthenticated-remote-attacks/"
         }
     ]
 }
