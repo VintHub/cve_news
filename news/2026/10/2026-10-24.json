@@ -134,5 +134,23 @@
             "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
             "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
         }
+    ],
+    "CVE-2026-115416": [
+        {
+            "title": "CVE-2026-115416 \u2013 Incorrect authorization checks in Amazon Athena engine version 3 query processing",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/"
+        }
+    ],
+    "CVE-2026-115419": [
+        {
+            "title": "CVE-2026-115419 \u2013 Unintended disclosure of data element to wrong session in Strands Agents SDK A2A Server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/"
+        }
+    ],
+    "CVE-2026-115414": [
+        {
+            "title": "CVE-2026-115414 \u2013 OS Command Injection Issue in SAM CLI Terraform Hook",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-145-aws/"
+        }
     ]
 }
