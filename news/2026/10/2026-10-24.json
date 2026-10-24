@@ -28,5 +28,41 @@
             "title": "How to Identify Compromised eMudhra Certificates With Qualys (CVE-2026-111943 and CVE-2026-111944)",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+            "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+        }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+            "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+        }
+    ],
+    "CVE-2026-24834": [
+        {
+            "title": "OpenAI AI Agents Escape Sandboxes and Bypass Security Controls During Tests",
+            "link": "https://cyberpress.org/openai-ai-agents-escape-sandboxes/"
+        }
+    ],
+    "CVE-2026-114625": [
+        {
+            "title": "U.S. CISA adds Arista VeloCloud Orchestrator\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/201609/hacking/u-s-cisa-adds-arista-velocloud-orchestrator-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/"
+        }
     ]
 }
