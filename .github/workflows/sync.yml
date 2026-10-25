@@ -3,8 +3,6 @@ name: CVE News Update
 on:
   schedule:
     - cron: '0,30 * * * *'
-  push:
-    branches: ["main"]
   workflow_dispatch:
 
 jobs:
