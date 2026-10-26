@@ -1,0 +1,26 @@
+{
+    "CVE-2026-109618": [
+        {
+            "title": "Can\u2019t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Can\u2019t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Cloudflare Adds New WAF Rules to Detect Attacks Targeting CVE-2026-111497",
+            "link": "https://gbhackers.com/cloudflare-adds-new-waf-rules-to-detect-attacks/"
+        }
+    ],
+    "CVE-2026-80097": [
+        {
+            "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions",
+            "link": "https://cybersecuritynews.com/microsoft-authenticator-flaw/"
+        }
+    ]
+}
