@@ -3,12 +3,36 @@
         {
             "title": "Can\u2019t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+            "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+        },
+        {
+            "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+            "link": "https://cybersecuritynews.com/public-php2shell-exploit-code/"
+        },
+        {
+            "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
+            "link": "https://cybersecuritynews.com/php-http2shell-vulnerability/"
         }
     ],
     "CVE-2026-109619": [
         {
             "title": "Can\u2019t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+            "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/"
+        },
+        {
+            "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+            "link": "https://cybersecuritynews.com/public-php2shell-exploit-code/"
+        },
+        {
+            "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
+            "link": "https://cybersecuritynews.com/php-http2shell-vulnerability/"
         }
     ],
     "CVE-2026-111497": [
@@ -27,6 +51,26 @@
         {
             "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow",
             "link": "https://cybersecuritynews.com/http2shell-vulnerability/"
+        },
+        {
+            "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+            "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html"
+        },
+        {
+            "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
+            "link": "https://cybersecuritynews.com/php-http2shell-vulnerability/"
+        },
+        {
+            "title": "Why .NET Shops That Patched on Oct. 13 Need Microsoft\u2019s Brotli Update Too",
+            "link": "https://www.webpronews.com/microsoft-dotnet-out-of-band-update-brotli-cve-2026-111497/"
+        },
+        {
+            "title": "Inside Node2Shell: A Closer Look at CVE-2026-111497",
+            "link": "https://www.akamai.com/blog/security-research/2026/oct/inside-node2shell-closer-look-cve-2026-111497"
+        },
+        {
+            "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder"
         }
     ],
     "CVE-2026-80097": [
@@ -45,12 +89,20 @@
         {
             "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
             "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
+        },
+        {
+            "title": "Why .NET Shops That Patched on Oct. 13 Need Microsoft\u2019s Brotli Update Too",
+            "link": "https://www.webpronews.com/microsoft-dotnet-out-of-band-update-brotli-cve-2026-111497/"
         }
     ],
     "CVE-2026-102870": [
         {
             "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
             "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
+        },
+        {
+            "title": "Why .NET Shops That Patched on Oct. 13 Need Microsoft\u2019s Brotli Update Too",
+            "link": "https://www.webpronews.com/microsoft-dotnet-out-of-band-update-brotli-cve-2026-111497/"
         }
     ],
     "CVE-2026-69150": [
@@ -63,6 +115,36 @@
         {
             "title": "PHP RCE Flaw CVE-2026-115560 Mitigation Guidance",
             "link": "https://www.cybermaterial.com/p/php-rce-flaw-cve-2026-115560-mitigation"
+        }
+    ],
+    "CVE-2024-57727": [
+        {
+            "title": "Ransomware Affiliates Built an AI-Powered Attack Platform That Logged Its Own Crimes",
+            "link": "https://www.cysecurity.news/2026/10/ransomware-affiliates-built-ai-powered.html"
+        }
+    ],
+    "CVE-2026-35616": [
+        {
+            "title": "Ransomware Affiliates Built an AI-Powered Attack Platform That Logged Its Own Crimes",
+            "link": "https://www.cysecurity.news/2026/10/ransomware-affiliates-built-ai-powered.html"
+        }
+    ],
+    "CVE-2026-41940": [
+        {
+            "title": "Ransomware Affiliates Built an AI-Powered Attack Platform That Logged Its Own Crimes",
+            "link": "https://www.cysecurity.news/2026/10/ransomware-affiliates-built-ai-powered.html"
+        }
+    ],
+    "CVE-2026-30612": [
+        {
+            "title": "Eye Security Pushes 2 Million Updates to Disable Vulnerable Popcorn Time Updater",
+            "link": "https://www.cysecurity.news/2026/10/eye-security-pushes-2-million-updates.html"
+        }
+    ],
+    "CVE-2026-114625": [
+        {
+            "title": "Hackers Exploit Critical Arista VeloCloud Orchestrator Flaw",
+            "link": "https://www.esecurityplanet.com/threats/news-arista-velocloud-cve-2026-114625/"
         }
     ]
 }
