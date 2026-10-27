@@ -1,0 +1,60 @@
+{
+    "CVE-2026-111497": [
+        {
+            "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds",
+            "link": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/"
+        },
+        {
+            "title": "PHP Releases Emergency Windows Updates to Fix Brotli Memory Corruption Vulnerability",
+            "link": "https://cyberpress.org/php-releases-emergency-windows-updates/"
+        }
+    ],
+    "CVE-2026-88900": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-78165": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88901": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-85251": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-85250": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-90885": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell: What to know about two critical PHP flaws",
+            "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell: What to know about two critical PHP flaws",
+            "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/"
+        }
+    ]
+}
