@@ -104,6 +104,10 @@
         {
             "title": "KeyDrift Malware Hijacks Cisco SD-WAN Processes to Intercept Traffic and Extract IPsec Keys",
             "link": "https://cyberpress.org/keydrift-hijacks-cisco-sd-wan/"
+        },
+        {
+            "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
         }
     ],
     "CVE-2025-8876": [
