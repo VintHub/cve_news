@@ -16,5 +16,11 @@
             "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
             "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/"
         }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Critical Linux Kernel Vulnerability Could Allow Hackers to Gain Remote Root Access",
+            "link": "https://www.cysecurity.news/2026/11/critical-linux-kernel-vulnerability.html"
+        }
     ]
 }
