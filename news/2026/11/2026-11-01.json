@@ -1,0 +1,20 @@
+{
+    "CVE-2026-109619": [
+        {
+            "title": "Hacktober \u2013 Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
+            "link": "https://cybersecuritynews.com/hacktober-cyberattack-wave/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hacktober \u2013 Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
+            "link": "https://cybersecuritynews.com/hacktober-cyberattack-wave/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+            "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/"
+        }
+    ]
+}
