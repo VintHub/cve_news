@@ -3,6 +3,10 @@
         {
             "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
             "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html"
+        },
+        {
+            "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)",
+            "link": "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/"
         }
     ],
     "CVE-2026-81648": [
@@ -145,6 +149,30 @@
         {
             "title": "Critical Progress WS_FTP Server Flaws Allow Hackers to Steal Admin Credentials and Execute Code",
             "link": "https://cyberpress.org/critical-progress-ws_ftp-server-flaws/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+            "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "Hackers Target Alpine Linux GitLab Server in Attempted Critical RCE Attack",
+            "link": "https://www.cysecurity.news/2026/11/hackers-target-alpine-linux-gitlab.html"
+        }
+    ],
+    "CVE-2026-63774": [
+        {
+            "title": "Subnet Solutions PowerSYSTEM Center",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01"
+        }
+    ],
+    "CVE-2026-63017": [
+        {
+            "title": "Subnet Solutions PowerSYSTEM Center",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01"
         }
     ]
 }
