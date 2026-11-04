@@ -71,12 +71,86 @@
         {
             "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "Guiding Customers Through Critical PHP Vulnerabilities",
+            "link": "https://www.paloaltonetworks.com/blog/2026/11/guiding-customers-through-critical-php-vulnerabilities/"
         }
     ],
     "CVE-2026-109618": [
         {
             "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "Guiding Customers Through Critical PHP Vulnerabilities",
+            "link": "https://www.paloaltonetworks.com/blog/2026/11/guiding-customers-through-critical-php-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-109593": [
+        {
+            "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+            "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Critical Ruby on Rails Flaw Could Let Hackers Steal Server Secrets Through Malicious Image Uploads",
+            "link": "https://cybersecuritynews.com/critical-ruby-on-rails-flaw/"
+        }
+    ],
+    "CVE-2019-3462": [
+        {
+            "title": "Debian and Ubuntu APT Flaw Lets Hackers Hijack Software Updates and Execute Code as Root",
+            "link": "https://cybersecuritynews.com/debian-apt-flaw-lets-hackers-hijack-updates/"
+        }
+    ],
+    "CVE-2026-109518": [
+        {
+            "title": "Debian and Ubuntu APT Flaw Lets Hackers Hijack Software Updates and Execute Code as Root",
+            "link": "https://cybersecuritynews.com/debian-apt-flaw-lets-hackers-hijack-updates/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Gorbag Hackers Exploit WinRAR Vulnerability to Steal Credentials From Ukrainian Government Agencies",
+            "link": "https://cybersecuritynews.com/gorbag-hackers-exploit-winrar-vulnerability/"
+        }
+    ],
+    "CVE-2026-28336": [
+        {
+            "title": "Critical SolarWinds Dameware Flaw Could Allow Attackers to Compromise Remote Systems",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-dameware-flaw/"
+        }
+    ],
+    "CVE-2026-111560": [
+        {
+            "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+            "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
+        }
+    ],
+    "CVE-2023-2868": [
+        {
+            "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+            "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
+        }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+            "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Node.js Schedules High-Severity Security Fixes for 22.x, 24.x, and 26.x Release Lines",
+            "link": "https://cybersecuritynews.com/node-js-schedules-patch/"
+        }
+    ],
+    "CVE-2026-58115": [
+        {
+            "title": "Attackers Leverage Critical Node-RED Flaw to Gain Unauthorized Access",
+            "link": "https://www.cysecurity.news/2026/11/attackers-leverage-critical-node-red.html"
         }
     ]
 }
