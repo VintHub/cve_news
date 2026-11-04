@@ -1,0 +1,82 @@
+{
+    "CVE-2026-58868": [
+        {
+            "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+            "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html"
+        },
+        {
+            "title": "Google Patches Over 200 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cybersecuritynews.com/android-0-click-remote-code-execution-flaws/"
+        },
+        {
+            "title": "CVE-2026-58868: Critical Android Bug Could Let Attackers Run Remote Code",
+            "link": "https://securityaffairs.com/202414/mobile-2/cve-2026-58868-critical-android-bug-could-let-attackers-run-remote-code.html"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+            "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
+        },
+        {
+            "title": "CISA Warns of WordPress Core Vulnerability Exploited in Attacks to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/wordpress-core-vulnerability-exploited/"
+        },
+        {
+            "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/202394/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog-2.html"
+        }
+    ],
+    "CVE-2026-58988": [
+        {
+            "title": "Google Patches Over 200 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cybersecuritynews.com/android-0-click-remote-code-execution-flaws/"
+        }
+    ],
+    "CVE-2026-58876": [
+        {
+            "title": "Google Patches Over 200 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cybersecuritynews.com/android-0-click-remote-code-execution-flaws/"
+        }
+    ],
+    "CVE-2026-58936": [
+        {
+            "title": "Google Patches Over 200 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cybersecuritynews.com/android-0-click-remote-code-execution-flaws/"
+        }
+    ],
+    "CVE-2026-40217": [
+        {
+            "title": "Hackers Launch LLMHijacking Attacks, Leaving Companies With $1 Million in Cloud Bills",
+            "link": "https://cybersecuritynews.com/llmhijacking-attacks/"
+        },
+        {
+            "title": "Hackers Hijack Cloud AI Models in LLMJacking Attacks, Leaving Victims With $1 Million Bills",
+            "link": "https://cyberpress.org/hackers-hijack-cloud-ai-models/"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Hackers Hijack Cloud AI Models in LLMJacking Attacks, Leaving Victims With $1 Million Bills",
+            "link": "https://cyberpress.org/hackers-hijack-cloud-ai-models/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "Hackers Hijack Cloud AI Models in LLMJacking Attacks, Leaving Victims With $1 Million Bills",
+            "link": "https://cyberpress.org/hackers-hijack-cloud-ai-models/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ]
+}
