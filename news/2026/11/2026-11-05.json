@@ -1653,5 +1653,29 @@
             "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
             "link": "https://isc.sans.edu/diary/rss/33492"
         }
+    ],
+    "CVE-2013-4787": [
+        {
+            "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+            "link": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+        }
+    ],
+    "CVE-2016-6724": [
+        {
+            "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+            "link": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+        }
+    ],
+    "CVE-2017-13156": [
+        {
+            "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+            "link": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Russia-Aligned Hackers Target Ukraine's War Crimes Courts and Military Aid Networks",
+            "link": "https://www.cysecurity.news/2026/11/russia-aligned-hackers-target-ukraines.html"
+        }
     ]
 }
