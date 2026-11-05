@@ -1,0 +1,1527 @@
+{
+    "CVE-2024-27834": [
+        {
+            "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
+        }
+    ],
+    "CVE-2026-109518": [
+        {
+            "title": "Debian and Ubuntu Fix APT Security Flaw That Could Give Attackers Root Access",
+            "link": "https://cyberpress.org/debian-ubuntu-fix-apt-security-flaw/"
+        }
+    ],
+    "CVE-2026-121092": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121202": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121042": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121136": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121143": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121099": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121095": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121032": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121187": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121096": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121257": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121171": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121087": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121176": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121098": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121103": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121116": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121244": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121239": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121135": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121052": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121069": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121114": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121246": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121094": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121097": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121162": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121245": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121179": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121195": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121063": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121101": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121064": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121200": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121241": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121045": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121219": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121128": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121084": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121216": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121048": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121100": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121142": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121051": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121215": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121054": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121059": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121060": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121065": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121165": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121104": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121086": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121229": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121122": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121253": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121041": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121070": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121120": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121159": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121198": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121205": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121225": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121256": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121188": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121209": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121131": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121221": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121030": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121220": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121175": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121211": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121199": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121177": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121203": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121243": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121235": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121180": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121170": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121212": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121055": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121137": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121222": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121167": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121213": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121204": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121161": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121047": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121132": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121134": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121174": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121183": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121251": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121166": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121033": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121238": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121236": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121181": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121227": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121076": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121123": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121062": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121214": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121111": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121050": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121080": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121217": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121254": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121185": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121039": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121035": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121140": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121249": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121255": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121172": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121250": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121074": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121082": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121169": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121115": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121194": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121252": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121233": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121083": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121110": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121201": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121044": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121046": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121088": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121121": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121138": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121036": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121029": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121226": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121071": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121160": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121208": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121113": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121210": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121106": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121066": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121078": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121173": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121190": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121178": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121057": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121038": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121141": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121186": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121072": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121232": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121090": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121207": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121127": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121234": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121109": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121067": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121156": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121105": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121079": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121193": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121240": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121189": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121075": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121085": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121077": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121224": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121196": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121081": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121133": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121089": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121247": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121061": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121040": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121148": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121228": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121184": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121037": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121230": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121242": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121182": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121129": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121237": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121168": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121112": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121043": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121102": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121034": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121125": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121031": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121118": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121197": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121049": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121068": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121248": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121164": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121126": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121091": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121163": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121053": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121206": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121124": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121223": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121130": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121157": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121108": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121117": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121231": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121073": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121093": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121107": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/"
+        }
+    ],
+    "CVE-2026-121119": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121218": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121158": [
+        {
+            "title": "Google Chrome 157 Released With 213 Security Fixes, Including 7 Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-157-released-213-security-fixes/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "Hackers Exploit Zyxel GS1900 Zero-Day RCE Flaw to Compromise Nearly 1,000 Network Switches",
+            "link": "https://cyberpress.org/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw/"
+        }
+    ],
+    "CVE-2026-107441": [
+        {
+            "title": "Hackers Exploit Zyxel GS1900 Zero-Day RCE Flaw to Compromise Nearly 1,000 Network Switches",
+            "link": "https://cyberpress.org/hackers-exploit-zyxel-gs1900-zero-day-rce-flaw/"
+        }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+            "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html"
+        }
+    ],
+    "CVE-2026-63774": [
+        {
+            "title": "Subnet Solutions PowerSYSTEM Center",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01"
+        }
+    ],
+    "CVE-2026-63017": [
+        {
+            "title": "Subnet Solutions PowerSYSTEM Center",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01"
+        }
+    ]
+}
