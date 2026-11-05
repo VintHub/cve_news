@@ -152,5 +152,11 @@
             "title": "Attackers Leverage Critical Node-RED Flaw to Gain Unauthorized Access",
             "link": "https://www.cysecurity.news/2026/11/attackers-leverage-critical-node-red.html"
         }
+    ],
+    "CVE-2024-27834": [
+        {
+            "title": "CISA KEV Addition: CVE-2024-27834",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-27834"
+        }
     ]
 }
