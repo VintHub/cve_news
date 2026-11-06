@@ -4,5 +4,65 @@
             "title": "Microsoft Paint 0-Click Vulnerability Could Allow Hackers to Take Control of Windows PCs",
             "link": "https://cybersecuritynews.com/windows-paint-rce-vulnerability/"
         }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+            "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html"
+        }
+    ],
+    "CVE-2026-96951": [
+        {
+            "title": "November 2026 Patch Tuesday forecast: Old software continues to bite",
+            "link": "https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/"
+        }
+    ],
+    "CVE-2016-6210": [
+        {
+            "title": "Critical OpenSSH Authentication Bypass Lets Hackers Log In Without Knowing Passwords",
+            "link": "https://cyberpress.org/critical-openssh-authentication/"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
+            "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        }
+    ],
+    "CVE-2025-49706": [
+        {
+            "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
+            "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        }
+    ],
+    "CVE-2025-49704": [
+        {
+            "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
+            "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        }
+    ],
+    "CVE-2025-6264": [
+        {
+            "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
+            "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        }
+    ],
+    "CVE-2025-53771": [
+        {
+            "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
+            "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        }
+    ],
+    "CVE-2021-3156": [
+        {
+            "title": "Hackers Leave ARTEX AI Tools and Exploit Files Exposed on Public Servers, Researchers Find",
+            "link": "https://cyberpress.org/hackers-expose-artex-tools/"
+        }
+    ],
+    "CVE-2026-122192": [
+        {
+            "title": "CVE-2026-122192 \u2013 Guest Access to Firecracker Process Memory After a Failed Memory Discard",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/"
+        }
     ]
 }

@@ -1677,5 +1677,11 @@
             "title": "Russia-Aligned Hackers Target Ukraine's War Crimes Courts and Military Aid Networks",
             "link": "https://www.cysecurity.news/2026/11/russia-aligned-hackers-target-ukraines.html"
         }
+    ],
+    "CVE-2026-58882": [
+        {
+            "title": "Android SMS of Death Flaw: How to Check If Your Phone Is Patched",
+            "link": "https://www.techrepublic.com/article/news-android-sms-of-death-cve-2026-58882-patch/"
+        }
     ]
 }
