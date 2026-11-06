@@ -3,6 +3,10 @@
         {
             "title": "Microsoft Paint 0-Click Vulnerability Could Allow Hackers to Take Control of Windows PCs",
             "link": "https://cybersecuritynews.com/windows-paint-rce-vulnerability/"
+        },
+        {
+            "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+            "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html"
         }
     ],
     "CVE-2026-116606": [
@@ -27,6 +31,10 @@
         {
             "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
             "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        },
+        {
+            "title": "Storm-2603 Hackers Exploit SharePoint ToolShell Flaws to Hide Fileless Backdoor and Launch Ransomware Attack",
+            "link": "https://cybersecuritynews.com/storm-2603-hackers/"
         }
     ],
     "CVE-2025-49706": [
@@ -45,12 +53,20 @@
         {
             "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
             "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        },
+        {
+            "title": "Storm-2603 Hackers Exploit SharePoint ToolShell Flaws to Hide Fileless Backdoor and Launch Ransomware Attack",
+            "link": "https://cybersecuritynews.com/storm-2603-hackers/"
         }
     ],
     "CVE-2025-53771": [
         {
             "title": "Hackers Exploit Microsoft SharePoint ToolShell Vulnerabilities to Deploy Fileless Backdoor That Hides in Memory",
             "link": "https://cyberpress.org/toolshell-enables-fileless-backdoors/"
+        },
+        {
+            "title": "Storm-2603 Hackers Exploit SharePoint ToolShell Flaws to Hide Fileless Backdoor and Launch Ransomware Attack",
+            "link": "https://cybersecuritynews.com/storm-2603-hackers/"
         }
     ],
     "CVE-2021-3156": [
@@ -63,6 +79,22 @@
         {
             "title": "CVE-2026-122192 \u2013 Guest Access to Firecracker Process Memory After a Failed Memory Discard",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/"
+        }
+    ],
+    "CVE-2026-123158": [
+        {
+            "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+            "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
+        },
+        {
+            "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
+            "link": "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "Hackers Launch 240,000 Exploit Attempts WordPress Core Flaw Enabling Remote Code Execution",
+            "link": "https://cybersecuritynews.com/240000-wordpress-exploit-attempts/"
         }
     ]
 }
