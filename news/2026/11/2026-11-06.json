@@ -95,6 +95,16 @@
         {
             "title": "Hackers Launch 240,000 Exploit Attempts WordPress Core Flaw Enabling Remote Code Execution",
             "link": "https://cybersecuritynews.com/240000-wordpress-exploit-attempts/"
+        },
+        {
+            "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+            "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
+        }
+    ],
+    "CVE-2026-19868": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-19868",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-19868"
         }
     ]
 }
