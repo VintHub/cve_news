@@ -1,0 +1,8 @@
+{
+    "CVE-2026-83844": [
+        {
+            "title": "Microsoft Paint 0-Click Vulnerability Could Allow Hackers to Take Control of Windows PCs",
+            "link": "https://cybersecuritynews.com/windows-paint-rce-vulnerability/"
+        }
+    ]
+}
