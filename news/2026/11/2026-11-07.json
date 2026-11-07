@@ -25,12 +25,116 @@
         {
             "title": "Hackers Exploit WordPress Core RCE Vulnerability in Over 240,000 Attack Attempts",
             "link": "https://gbhackers.com/exploit-wordpress-core-over-240000-attack/"
+        },
+        {
+            "title": "Hackers Launch Over 240,000 Attacks Targeting WordPress Core Remote Code Execution Flaw",
+            "link": "https://cyberpress.org/over-240000-attacks-wordpress-core/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited WordPress RCE Flaw",
+            "link": "https://www.cysecurity.news/2026/11/cisa-warns-of-actively-exploited.html"
         }
     ],
     "CVE-2026-19868": [
         {
             "title": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks",
             "link": "https://gbhackers.com/sonicwall-ssl-vpn-vulnerability/"
+        },
+        {
+            "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+            "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-107155": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-107154": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-19703": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-77708": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-82308": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2024-53704": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-77709": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-3910": [
+        {
+            "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
+            "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
+        }
+    ],
+    "CVE-2025-43529": [
+        {
+            "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
+            "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
+        }
+    ],
+    "CVE-2026-20700": [
+        {
+            "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
+            "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
         }
     ]
 }
