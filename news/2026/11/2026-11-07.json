@@ -1,0 +1,36 @@
+{
+    "CVE-2026-111497": [
+        {
+            "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+            "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+            "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+            "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "Hackers Launch 240,000 Attempts to Exploit a WordPress Core Flaw That Allows Remote Code Execution",
+            "link": "https://cybersecuritynews.com/240000-wordpress-exploit-attempts/"
+        },
+        {
+            "title": "Hackers Exploit WordPress Core RCE Vulnerability in Over 240,000 Attack Attempts",
+            "link": "https://gbhackers.com/exploit-wordpress-core-over-240000-attack/"
+        }
+    ],
+    "CVE-2026-19868": [
+        {
+            "title": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks",
+            "link": "https://gbhackers.com/sonicwall-ssl-vpn-vulnerability/"
+        }
+    ]
+}
