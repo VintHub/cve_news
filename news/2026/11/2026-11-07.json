@@ -136,5 +136,23 @@
             "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
             "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
         }
+    ],
+    "CVE-2026-123158": [
+        {
+            "title": "Hackers Exploit OpenSSH SSHole Flaw Within Hours",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-openssh-sshole-flaw.html"
+        }
+    ],
+    "CVE-2016-6210": [
+        {
+            "title": "Hackers Exploit OpenSSH SSHole Flaw Within Hours",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-openssh-sshole-flaw.html"
+        }
+    ],
+    "CVE-2023-20198": [
+        {
+            "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+            "link": "https://isc.sans.edu/diary/rss/33492"
+        }
     ]
 }
