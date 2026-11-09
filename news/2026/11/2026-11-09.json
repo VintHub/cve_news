@@ -1,0 +1,30 @@
+{
+    "CVE-2026-19868": [
+        {
+            "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+            "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html"
+        },
+        {
+            "title": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection",
+            "link": "https://gbhackers.com/sonicwall-warns-of-actively-exploited-ssl-vpn-vulnerability/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Veeam Warns Critical 9.8 Linux Kernel Flaw Could Crash Backup Appliances and Disrupt Recovery Operations",
+            "link": "https://cybersecuritynews.com/veeam-warns-critical-linux-kernel-flaw/"
+        }
+    ],
+    "CVE-2026-123158": [
+        {
+            "title": "Hackers Begin Exploiting OpenSSH SSHole Authentication Bypass Vulnerability",
+            "link": "https://cybersecuritynews.com/openssh-sshole-flaw-exploited/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "Critical React Server Components Flaw Lets Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cybersecuritynews.com/react-server-components-vulnerability-patch/"
+        }
+    ]
+}
