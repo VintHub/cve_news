@@ -7,6 +7,14 @@
         {
             "title": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection",
             "link": "https://gbhackers.com/sonicwall-warns-of-actively-exploited-ssl-vpn-vulnerability/"
+        },
+        {
+            "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+            "link": "https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
         }
     ],
     "CVE-2026-98432": [
@@ -19,12 +27,104 @@
         {
             "title": "Hackers Begin Exploiting OpenSSH SSHole Authentication Bypass Vulnerability",
             "link": "https://cybersecuritynews.com/openssh-sshole-flaw-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-123158",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123158"
         }
     ],
     "CVE-2025-55182": [
         {
             "title": "Critical React Server Components Flaw Lets Hackers Execute Code Remotely Without Authentication",
             "link": "https://cybersecuritynews.com/react-server-components-vulnerability-patch/"
+        },
+        {
+            "title": "Hackers Could Exploit React Server Components Flaw to Execute Malicious Code on Servers",
+            "link": "https://cyberpress.org/exploit-react-server-components-flaw/"
+        }
+    ],
+    "CVE-2026-104269": [
+        {
+            "title": "Critical ModSecurity WAF Flaw Lets Hackers Bypass File Upload Security and Deploy Web Shells",
+            "link": "https://cyberpress.org/critical-modsecurity-waf-flaw/"
+        }
+    ],
+    "CVE-2026-52747": [
+        {
+            "title": "Critical ModSecurity WAF Flaw Lets Hackers Bypass File Upload Security and Deploy Web Shells",
+            "link": "https://cyberpress.org/critical-modsecurity-waf-flaw/"
+        }
+    ],
+    "CVE-2026-107155": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-77709": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-77708": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-82308": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-19703": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-107154": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-96652": [
+        {
+            "title": "QNAP Urges Immediate Plex2Shell Update and Remediation",
+            "link": "https://www.cysecurity.news/2026/11/qnap-urges-immediate-plex2shell-update.html"
+        }
+    ],
+    "CVE-2026-96654": [
+        {
+            "title": "QNAP Urges Immediate Plex2Shell Update and Remediation",
+            "link": "https://www.cysecurity.news/2026/11/qnap-urges-immediate-plex2shell-update.html"
+        }
+    ],
+    "CVE-2026-96655": [
+        {
+            "title": "QNAP Urges Immediate Plex2Shell Update and Remediation",
+            "link": "https://www.cysecurity.news/2026/11/qnap-urges-immediate-plex2shell-update.html"
+        }
+    ],
+    "CVE-2026-96656": [
+        {
+            "title": "QNAP Urges Immediate Plex2Shell Update and Remediation",
+            "link": "https://www.cysecurity.news/2026/11/qnap-urges-immediate-plex2shell-update.html"
+        }
+    ],
+    "CVE-2026-102895": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-102895",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-102895"
+        }
+    ],
+    "CVE-2026-116779": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-116779",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-116779"
         }
     ]
 }
