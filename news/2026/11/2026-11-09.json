@@ -31,6 +31,14 @@
         {
             "title": "CISA KEV Addition: CVE-2026-123158",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123158"
+        },
+        {
+            "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         }
     ],
     "CVE-2025-55182": [
@@ -119,12 +127,48 @@
         {
             "title": "CISA KEV Addition: CVE-2026-102895",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-102895"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
         }
     ],
     "CVE-2026-116779": [
         {
             "title": "CISA KEV Addition: CVE-2026-116779",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-116779"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        }
+    ],
+    "CVE-2026-124034": [
+        {
+            "title": "CVE-2026-124034, CVE-2026-124035: Issues with Amazon Braket SDK",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-175-aws/"
+        }
+    ],
+    "CVE-2026-124035": [
+        {
+            "title": "CVE-2026-124034, CVE-2026-124035: Issues with Amazon Braket SDK",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-175-aws/"
+        }
+    ],
+    "CVE-2026-124033": [
+        {
+            "title": "CVE-2026-124033 \u2013 Relative path traversal in the log export commands in AWS ParallelCluster CLI",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-174-aws/"
+        }
+    ],
+    "CVE-2026-123218": [
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-123218",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123218"
         }
     ]
 }
