@@ -1,0 +1,24 @@
+{
+    "CVE-2026-125350": [
+        {
+            "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+            "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+        }
+    ],
+    "CVE-2026-123218": [
+        {
+            "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+            "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
+        },
+        {
+            "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+            "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-116779": [
+        {
+            "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+            "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+        }
+    ]
+}
