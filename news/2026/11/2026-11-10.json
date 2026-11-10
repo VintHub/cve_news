@@ -20,5 +20,23 @@
             "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
             "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
         }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+        }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "Barracuda Confirms Active Exploitation of Email Gateway Flaws Allowing Root Access",
+            "link": "https://cybersecuritynews.com/barracuda-email-gateway-flaws/"
+        }
     ]
 }
