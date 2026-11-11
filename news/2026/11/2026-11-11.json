@@ -4,5 +4,143 @@
             "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
             "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
         }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "New GhostFrame Malware Lets Hackers Hijack VMware ESXi VMs and Steal Windows Credentials",
+            "link": "https://cybersecuritynews.com/ghostframe-malware-hijack-vmware-esxi/"
+        }
+    ],
+    "CVE-2026-126261": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126254": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126262": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126229": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126259": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126170": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126260": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-126253": [
+        {
+            "title": "Critical Fortinet Flaws Expose FortiManager and FortiAnalyzer to Remote Code Execution Without Login",
+            "link": "https://cybersecuritynews.com/critical-fortinet-flaws-patched/"
+        }
+    ],
+    "CVE-2026-124194": [
+        {
+            "title": "Microsoft Confirms Hackers Are Exploiting Outlook 0-Day to Steal Windows Authentication Hashes",
+            "link": "https://cybersecuritynews.com/outlook-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-18128": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-105426": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-105813": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-107404": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-107405": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-105669": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-121683": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-123179": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-105425": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-105427": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-83528": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-123181": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
+    ],
+    "CVE-2026-121653": [
+        {
+            "title": "Critical Ivanti Flaws Allow Hackers to Execute Code Without Authentication and Alter Certificates",
+            "link": "https://cyberpress.org/critical-ivanti-flaws/"
+        }
     ]
 }
