@@ -34,5 +34,118 @@
             "title": "CVE-2026-126087 \u2013 Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/"
         }
+    ],
+    "CVE-2026-118383": [
+        {
+            "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+            "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html"
+        }
+    ],
+    "CVE-2026-119618": [
+        {
+            "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-43284": [
+        {
+            "title": "Microsoft Warns Hackers Are Using GSocket Backdoors to Keep Linux Servers Compromised After Patching",
+            "link": "https://cybersecuritynews.com/gsocket-backdoors/"
+        }
+    ],
+    "CVE-2026-0330": [
+        {
+            "title": "Palo Alto PAN-OS RCE Flaw Allows Attackers to Execute Arbitrary Code With Root Privileges",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-pan-os-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-0322": [
+        {
+            "title": "Palo Alto PAN-OS RCE Flaw Allows Attackers to Execute Arbitrary Code With Root Privileges",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-pan-os-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-64580": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89789": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-98222": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-64563": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/"
+        }
+    ],
+    "CVE-2026-98364": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-74562": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-74561": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-64554": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-74544": [
+        {
+            "title": "Microsoft Discovers 59 Linux Kernel Security Bugs Using AI, Including Flaws Hidden for Over 20 Years",
+            "link": "https://cybersecuritynews.com/linux-kernel-security-bugs/"
+        },
+        {
+            "title": "Microsoft AI Exposes 21-Year-Old Linux Kernel Bug Among 59 Security Issues Reported to Maintainers",
+            "link": "https://gbhackers.com/linux-kernel-flaws/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs",
+            "link": "https://blog.qualys.com/category/qualys-insights"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs",
+            "link": "https://blog.qualys.com/category/qualys-insights"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs",
+            "link": "https://blog.qualys.com/category/qualys-insights"
+        }
     ]
 }
