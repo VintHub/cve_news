@@ -1,0 +1,60 @@
+{
+    "CVE-2026-123039": [
+        {
+            "title": "Hackers Exploit Check Point Firewall Flaws to Gain Root Access and Deploy Wiper Malware on VMware ESXi",
+            "link": "https://cybersecuritynews.com/hackers-exploit-check-point-firewall-flaws/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hackers Exploit Check Point Firewall Flaws to Gain Root Access and Deploy Wiper Malware on VMware ESXi",
+            "link": "https://cybersecuritynews.com/hackers-exploit-check-point-firewall-flaws/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hackers Exploit Check Point Firewall Flaws to Gain Root Access and Deploy Wiper Malware on VMware ESXi",
+            "link": "https://cybersecuritynews.com/hackers-exploit-check-point-firewall-flaws/"
+        }
+    ],
+    "CVE-2026-125926": [
+        {
+            "title": "AWS Fixes MCP Gateway SSRF Flaw Allowing Attackers to Access Internal Services",
+            "link": "https://cyberpress.org/aws-mcp-gateway-ssrf-flaw/"
+        },
+        {
+            "title": "AWS Warns of MCP Gateway Registry Vulnerability Allowing Attackers to Access Internal Network Services",
+            "link": "https://gbhackers.com/aws-warns-of-mcp-gateway-registry-vulnerability/"
+        }
+    ],
+    "CVE-2025-23266": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-96951": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-124194": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-28400": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2025-6514": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ]
+}
