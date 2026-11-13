@@ -15,6 +15,10 @@
         {
             "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware",
             "link": "https://cyberpress.org/check-point-php2shell-flaws/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-123039",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123039"
         }
     ],
     "CVE-2026-109619": [
@@ -143,12 +147,34 @@
         {
             "title": "Apache HTTP/2 Security Flaw Exposes Servers to Critical Remote Code Execution Attacks",
             "link": "https://www.cysecurity.news/2026/11/apache-http2-security-flaw-exposes.html"
+        },
+        {
+            "title": "Critical Apache HTTP/2 Vulnerability (CVE-2026-119618): How Imperva Protects Customers",
+            "link": "https://www.imperva.com/blog/critical-apache-http-2-vulnerability-cve-2026-119618-how-imperva-protects-customers/"
         }
     ],
     "CVE-2026-43284": [
         {
             "title": "GSocket Backdoor Allows Hackers to Retain Remote Control Over Linux Servers",
             "link": "https://www.cysecurity.news/2026/11/gsocket-backdoor-allows-hackers-to.html"
+        }
+    ],
+    "CVE-2026-6460": [
+        {
+            "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+            "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html"
+        }
+    ],
+    "CVE-2026-127119": [
+        {
+            "title": "CVE-2026-127119 \u2013 Unverified ownership of the default EMR cluster log location in AWS SDK for pandas",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/"
+        }
+    ],
+    "CVE-2026-114713": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-114713",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-114713"
         }
     ]
 }
