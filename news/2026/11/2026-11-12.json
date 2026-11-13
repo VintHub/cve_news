@@ -19,6 +19,14 @@
         {
             "title": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability",
             "link": "https://cyberpress.org/cisa-microsoft-outlook-zero-day-vulnerability/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Outlook User Interaction 0-Day Vulnerability",
+            "link": "https://cybersecuritynews.com/active-exploitation-of-outlook-0-day-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Microsoft Outlook Zero-Day Vulnerability",
+            "link": "https://gbhackers.com/cisa-warns-of-microsoft-outlook-zero-day-vulnerability/"
         }
     ],
     "CVE-2026-116928": [
@@ -47,6 +55,10 @@
         {
             "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE",
             "link": "https://cyberpress.org/critical-mongodb-flaw/"
+        },
+        {
+            "title": "Critical MongoDB Use-After-Free Vulnerability Allows Remote Code Execution Without Authentication",
+            "link": "https://gbhackers.com/critical-mongodb-use-after-free-vulnerability/"
         }
     ],
     "CVE-2026-119618": [
@@ -73,6 +85,10 @@
         {
             "title": "Palo Alto Networks Patches Panorama RCE Flaw Allowing Administrators to Gain Root Access",
             "link": "https://cyberpress.org/palo-alto-networks-patches-panorama-rce-flaw/"
+        },
+        {
+            "title": "Palo Alto Networks Patches PAN-OS Vulnerability Allowing Remote Code Execution With Root Privileges",
+            "link": "https://gbhackers.com/palo-alto-networks-patches-pan-os-vulnerability/"
         }
     ],
     "CVE-2026-0322": [
@@ -190,6 +206,10 @@
         {
             "title": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability",
             "link": "https://cyberpress.org/cisa-microsoft-outlook-zero-day-vulnerability/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Outlook User Interaction 0-Day Vulnerability",
+            "link": "https://cybersecuritynews.com/active-exploitation-of-outlook-0-day-vulnerability/"
         }
     ],
     "CVE-2026-8053": [
@@ -208,6 +228,10 @@
         {
             "title": "Critical Cisco Expressway Flaw Allows Hackers to Execute Root Commands, Public PoC Released",
             "link": "https://cyberpress.org/critical-cisco-expressway-flaw-poc-released/"
+        },
+        {
+            "title": "PoC Exploit Released for Critical Cisco Expressway RCE Vulnerability With CVSS 9.8 Score",
+            "link": "https://gbhackers.com/poc-exploit-released-for-critical-cisco-expressway-rce/"
         }
     ],
     "CVE-2026-126905": [
@@ -794,6 +818,34 @@
         {
             "title": "CVE-2026-125350: Chrome XML Zero-Day Actively Exploited",
             "link": "https://www.cybermaterial.com/p/cve-2026-125350-chrome-xml-zero-day"
+        }
+    ],
+    "CVE-2026-123710": [
+        {
+            "title": "Critical Red Hat Quay Vulnerability Allows Unauthenticated Attackers to Hijack Container Registries",
+            "link": "https://cybersecuritynews.com/red-hat-quay-vulnerability/"
+        }
+    ],
+    "CVE-2026-125926": [
+        {
+            "title": "AWS MCP Gateway Security Flaw Allowing Access to Internal Networks and Cloud Credentials",
+            "link": "https://cybersecuritynews.com/aws-mcp-gateway-security-flaw/"
+        },
+        {
+            "title": "CVE-2026-125926 \u2013 Server-side request forgery in the server registration and update API in mcp-gateway-registry",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/"
+        }
+    ],
+    "CVE-2026-81936": [
+        {
+            "title": "Lenovo Warns of High-Severity Server Flaw That Restores Default Root Credentials After Reset",
+            "link": "https://cybersecuritynews.com/lenovo-server-flaw/"
+        }
+    ],
+    "CVE-2026-100307": [
+        {
+            "title": "CVE-2026-100307 \u2013 Missing authorization on the external management API in mcp-gateway-registry enables privilege escalation to registry administrator",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/"
         }
     ]
 }
