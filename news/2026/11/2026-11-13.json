@@ -55,12 +55,20 @@
         {
             "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/product-tech/2026/11/12/ai-didnt-create-a-new-kind-of-risk-it-removed-the-time-you-had-to-fix-the-old-one"
         }
     ],
     "CVE-2026-96951": [
         {
             "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/product-tech/2026/11/12/ai-didnt-create-a-new-kind-of-risk-it-removed-the-time-you-had-to-fix-the-old-one"
         }
     ],
     "CVE-2026-124194": [
@@ -71,18 +79,34 @@
         {
             "title": "November Patch Tuesday: How to Sort Through the Patches",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/product-tech/2026/11/13/november-patch-tuesday-how-to-sort-through-the-patches"
+        },
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/product-tech/2026/11/12/ai-didnt-create-a-new-kind-of-risk-it-removed-the-time-you-had-to-fix-the-old-one"
         }
     ],
     "CVE-2026-28400": [
         {
             "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/product-tech/2026/11/12/ai-didnt-create-a-new-kind-of-risk-it-removed-the-time-you-had-to-fix-the-old-one"
         }
     ],
     "CVE-2025-6514": [
         {
             "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/product-tech/2026/11/12/ai-didnt-create-a-new-kind-of-risk-it-removed-the-time-you-had-to-fix-the-old-one"
         }
     ],
     "CVE-2025-41450": [
@@ -107,6 +131,10 @@
         {
             "title": "New XLoader Phishing Campaign Tricks Employees Into Opening Malicious Microsoft Word Documents",
             "link": "https://cyberpress.org/xloader-phishing-targets-employees/"
+        },
+        {
+            "title": "Hackers Use Fake Purchase Order Emails to Deliver XLoader Malware Through Malicious Word Documents",
+            "link": "https://cybersecuritynews.com/fake-purchase-order-emails/"
         }
     ],
     "CVE-2026-123710": [
@@ -123,18 +151,30 @@
         {
             "title": "November Patch Tuesday: How to Sort Through the Patches",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/product-tech/2026/11/13/november-patch-tuesday-how-to-sort-through-the-patches"
         }
     ],
     "CVE-2026-118207": [
         {
             "title": "November Patch Tuesday: How to Sort Through the Patches",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/product-tech/2026/11/13/november-patch-tuesday-how-to-sort-through-the-patches"
         }
     ],
     "CVE-2026-119892": [
         {
             "title": "November Patch Tuesday: How to Sort Through the Patches",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/product-tech/2026/11/13/november-patch-tuesday-how-to-sort-through-the-patches"
         }
     ],
     "CVE-2026-23918": [
@@ -181,6 +221,198 @@
         {
             "title": "CVE-2026-126793 \u2013 Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/"
+        }
+    ],
+    "CVE-2026-111339": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111334": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120861": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111342": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107414": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120863": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-111336": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111333": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111338": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-107413": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111341": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120860": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107415": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120867": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111340": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120864": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107409": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107410": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111337": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120865": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120862": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107407": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120868": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-107412": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-111335": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120866": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107408": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-107411": [
+        {
+            "title": "Citrix Patches 28 Security Vulnerabilities in NetScaler, Including a Critical Flaw in Default Installations",
+            "link": "https://cybersecuritynews.com/citrix-patches-netscaler-security-vulnerabilities/",
+            "listOnly": true
         }
     ]
 }

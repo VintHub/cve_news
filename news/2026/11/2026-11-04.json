@@ -75,6 +75,10 @@
         {
             "title": "Guiding Customers Through Critical PHP Vulnerabilities",
             "link": "https://www.paloaltonetworks.com/blog/2026/11/guiding-customers-through-critical-php-vulnerabilities/"
+        },
+        {
+            "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
+            "link": "https://blog.qualys.com/product-tech/2026/11/04/php2shell-windows-macos-car-upgrade-scripts"
         }
     ],
     "CVE-2026-109618": [
@@ -85,6 +89,10 @@
         {
             "title": "Guiding Customers Through Critical PHP Vulnerabilities",
             "link": "https://www.paloaltonetworks.com/blog/2026/11/guiding-customers-through-critical-php-vulnerabilities/"
+        },
+        {
+            "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
+            "link": "https://blog.qualys.com/product-tech/2026/11/04/php2shell-windows-macos-car-upgrade-scripts"
         }
     ],
     "CVE-2026-109593": [
