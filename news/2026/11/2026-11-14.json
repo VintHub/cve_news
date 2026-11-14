@@ -1,0 +1,12 @@
+{
+    "CVE-2026-123039": [
+        {
+            "title": "CISA Warns of Actively Exploited Check Point Zero-Day Vulnerability Allowing Attackers to Gain Root Access",
+            "link": "https://gbhackers.com/cisa-check-point-zero-day-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access",
+            "link": "https://cybersecuritynews.com/check-point-0-day-vulnerability/"
+        }
+    ]
+}
