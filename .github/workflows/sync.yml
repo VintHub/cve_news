@@ -43,10 +43,18 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      - name: Prepare Pages Directory
+        run: |
+          # Rename news folder to _site (putting all news files at the root)
+          mv news _site
+          
+          # Move cves folder inside _site (creating _site/cves)
+          mv cves _site/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './news'
+          path: '_site'
 
       - name: Deploy to GitHub Pages
         id: deployment
