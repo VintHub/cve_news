@@ -214,6 +214,22 @@ def process_rss_feeds():
             if 'content' in entry:
                 content = " ".join([c.get('value', '') for c in entry.content])
 
+            # --- Custom extractor for Qualys blog links ---
+            if "blog.qualys.com" in url or "blog.qualys.com" in link or any("blog.qualys.com" in l.get('href', '') for l in entry.get('links', [])):
+                # Search entry.links for the true non-category alternate article URL
+                for l in entry.get('links', []):
+                    href = l.get('href', '')
+                    rel = l.get('rel', 'alternate')
+                    if href and '/category/' not in href and 'blog.qualys.com/' in href:
+                        link = href
+                        if rel == 'alternate':
+                            break
+                # Fallback to entry.id (permalink) if it's a valid URL and not a category
+                if ('/category/' in link or not link.startswith('http')) and entry.get('id'):
+                    post_id = entry.get('id')
+                    if post_id.startswith('http') and '/category/' not in post_id:
+                        link = post_id
+
             # --- Extract the original link for itsecuritynews.info ---
             if "itsecuritynews.info" in link:
                 # Merge description and content, replace HTML entity for ampersand to parse URL query smoothly
