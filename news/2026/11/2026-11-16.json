@@ -10,5 +10,77 @@
             "title": "11-Year-Old Linux Kernel Flaw NoisyTCP Lets Hackers Remotely Crash Servers Without Login",
             "link": "https://cyberpress.org/11-year-old-linux-kernel-flaw/"
         }
+    ],
+    "CVE-2026-114713": [
+        {
+            "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2024-54085": [
+        {
+            "title": "New OWASP Top 10 Exposes Hidden Security Weaknesses in Neocloud and AI Infrastructure",
+            "link": "https://cybersecuritynews.com/owasp-top-10-incubator/"
+        }
+    ],
+    "CVE-2025-23266": [
+        {
+            "title": "New OWASP Top 10 Exposes Hidden Security Weaknesses in Neocloud and AI Infrastructure",
+            "link": "https://cybersecuritynews.com/owasp-top-10-incubator/"
+        }
+    ],
+    "CVE-2014-4492": [
+        {
+            "title": "Apple Fixes iOS Flaw That Let Sandboxed Apps Secretly Record Microphone Audio Without Permission",
+            "link": "https://cybersecuritynews.com/apple-fixes-ios-flaw/"
+        }
+    ],
+    "CVE-2025-43530": [
+        {
+            "title": "Apple Fixes iOS Flaw That Let Sandboxed Apps Secretly Record Microphone Audio Without Permission",
+            "link": "https://cybersecuritynews.com/apple-fixes-ios-flaw/"
+        },
+        {
+            "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators",
+            "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/"
+        }
+    ],
+    "CVE-2026-65339": [
+        {
+            "title": "Apple Fixes iOS Flaw That Let Sandboxed Apps Secretly Record Microphone Audio Without Permission",
+            "link": "https://cybersecuritynews.com/apple-fixes-ios-flaw/"
+        },
+        {
+            "title": "Apple Microphone Vulnerability Allows Hackers to Secretly Record Audio Without User Permission",
+            "link": "https://gbhackers.com/apple-microphone-vulnerability/"
+        },
+        {
+            "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators",
+            "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/"
+        }
+    ],
+    "CVE-2026-129349": [
+        {
+            "title": "Critical Apache Shiro and APISIX Flaws Let Hackers Bypass Authentication Without Login",
+            "link": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/"
+        }
+    ],
+    "CVE-2026-124679": [
+        {
+            "title": "Critical Apache Shiro and APISIX Flaws Let Hackers Bypass Authentication Without Login",
+            "link": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+            "link": "https://isc.sans.edu/diary/rss/33522"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+            "link": "https://isc.sans.edu/diary/rss/33522"
+        }
     ]
 }
