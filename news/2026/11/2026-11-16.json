@@ -1,0 +1,14 @@
+{
+    "CVE-2026-99288": [
+        {
+            "title": "11-Year-Old Linux Kernel Flaw NoisyTCP Lets Hackers Remotely Crash Servers Without Login",
+            "link": "https://cyberpress.org/11-year-old-linux-kernel-flaw/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "11-Year-Old Linux Kernel Flaw NoisyTCP Lets Hackers Remotely Crash Servers Without Login",
+            "link": "https://cyberpress.org/11-year-old-linux-kernel-flaw/"
+        }
+    ]
+}
