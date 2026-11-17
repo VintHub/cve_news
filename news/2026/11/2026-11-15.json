@@ -10,5 +10,23 @@
             "title": "Attackers Exploit Critical UnrealIRCd Flaw Enabling Server Command Injection",
             "link": "https://www.cysecurity.news/2026/11/attackers-exploit-critical-unrealircd.html"
         }
+    ],
+    "CVE-2026-99288": [
+        {
+            "title": "CVE-2026-99288 NoisyTCP: Linux TCP Flaw Crashes Servers",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-99288-noisytcp-linux-kernel-tcp-flaw.html"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "CVE-2026-99288 NoisyTCP: Linux TCP Flaw Crashes Servers",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-99288-noisytcp-linux-kernel-tcp-flaw.html"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "CVE-2026-99288 NoisyTCP: Linux TCP Flaw Crashes Servers",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-99288-noisytcp-linux-kernel-tcp-flaw.html"
+        }
     ]
 }
