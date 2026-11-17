@@ -118,5 +118,11 @@
             "title": "Ransomware Group Wiped an Entire VMware Estate in Ten Days Without Exploiting a Single Vulnerability",
             "link": "https://www.cysecurity.news/2026/11/ransomware-group-wiped-entire-vmware.html"
         }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+            "link": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation"
+        }
     ]
 }
