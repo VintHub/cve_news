@@ -796,6 +796,14 @@
         {
             "title": "Why SMS Two-Factor Still Runs on a Number You Reuse Everywhere",
             "link": "https://www.cyberkendra.com/2026/11/why-sms-two-factor-still-runs-on-a-number-you-reuse-everywhere.html"
+        },
+        {
+            "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+            "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
+        },
+        {
+            "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17"
         }
     ],
     "CVE-2026-93546": [
@@ -1076,12 +1084,20 @@
         {
             "title": "Why SMS Two-Factor Still Runs on a Number You Reuse Everywhere",
             "link": "https://www.cyberkendra.com/2026/11/why-sms-two-factor-still-runs-on-a-number-you-reuse-everywhere.html"
+        },
+        {
+            "title": "Java4Shell (CVE-2026-114938): Pre-Auth RCE Flaw in Java 17 Puts Servers at Risk",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-114938-pre-auth-rce-flaw-in-java-17-puts-servers-at-risk.html"
         }
     ],
     "CVE-2026-109618": [
         {
             "title": "Why SMS Two-Factor Still Runs on a Number You Reuse Everywhere",
             "link": "https://www.cyberkendra.com/2026/11/why-sms-two-factor-still-runs-on-a-number-you-reuse-everywhere.html"
+        },
+        {
+            "title": "Java4Shell (CVE-2026-114938): Pre-Auth RCE Flaw in Java 17 Puts Servers at Risk",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-114938-pre-auth-rce-flaw-in-java-17-puts-servers-at-risk.html"
         }
     ],
     "CVE-2026-114820": [
@@ -1100,6 +1116,24 @@
         {
             "title": "Siemens ROS#",
             "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06"
+        }
+    ],
+    "CVE-2021-44228": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Pre-Auth RCE Flaw in Java 17 Puts Servers at Risk",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-114938-pre-auth-rce-flaw-in-java-17-puts-servers-at-risk.html"
+        }
+    ],
+    "CVE-2026-130621": [
+        {
+            "title": "CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/"
+        }
+    ],
+    "CVE-2026-115731": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-115731",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-115731"
         }
     ]
 }
