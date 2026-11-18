@@ -1,0 +1,28 @@
+{
+    "CVE-2026-114938": [
+        {
+            "title": "CVE-2026-114938: Critical vulnerability in OpenJDK JAVA",
+            "link": "https://blog.talosintelligence.com/java4shell/"
+        },
+        {
+            "title": "CVE-2026-114938: Critical Memory Corruption Vulnerability in OpenJDK Java",
+            "link": "https://www.akamai.com/blog/security-research/2026/nov/cve-2026-114938-openjdk-java-memory-corruption-vulnerability"
+        },
+        {
+            "title": "Optimizely hack hits CNN, Fox and BBC, Java4Shell puts servers at risk, California sues OpenAI over rogue agents",
+            "link": "https://cybersecuritytoday.libsyn.com/optimizely-hack-hits-cnn-fox-and-bbc-java4shell-puts-servers-at-risk-california-sues-openai-over-rogue-agents"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+            "link": "https://isc.sans.edu/diary/rss/33522"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
+            "link": "https://isc.sans.edu/diary/rss/33522"
+        }
+    ]
+}

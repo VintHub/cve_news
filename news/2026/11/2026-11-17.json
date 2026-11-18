@@ -804,6 +804,14 @@
         {
             "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17"
+        },
+        {
+            "title": "Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938)",
+            "link": "https://www.tenable.com/blog/oracle-november-2026-critical-security-patch-update-addresses-640-cves-cve-2026-114938"
+        },
+        {
+            "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+            "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now"
         }
     ],
     "CVE-2026-93546": [
