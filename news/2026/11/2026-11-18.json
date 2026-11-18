@@ -11,6 +11,14 @@
         {
             "title": "Optimizely hack hits CNN, Fox and BBC, Java4Shell puts servers at risk, California sues OpenAI over rogue agents",
             "link": "https://cybersecuritytoday.libsyn.com/optimizely-hack-hits-cnn-fox-and-bbc-java4shell-puts-servers-at-risk-california-sues-openai-over-rogue-agents"
+        },
+        {
+            "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+            "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
+        },
+        {
+            "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+            "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"
         }
     ],
     "CVE-2026-42271": [
@@ -23,6 +31,30 @@
         {
             "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
             "link": "https://isc.sans.edu/diary/rss/33522"
+        }
+    ],
+    "CVE-2026-115731": [
+        {
+            "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+            "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html"
+        }
+    ],
+    "CVE-2026-47501": [
+        {
+            "title": "NVIDIA GPU Driver Flaw Allows Attackers to Gain Root Access and Escape Containers",
+            "link": "https://gbhackers.com/nvidia-gpu-driver-flaw/"
+        }
+    ],
+    "CVE-2026-0462": [
+        {
+            "title": "Mior Attack Breaks AMD SEV-SNP Security, Enabling Arbitrary Memory Access and Forged Attestation",
+            "link": "https://gbhackers.com/mior-attack-breaks-amd-sev-snp-security/"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+            "link": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation"
         }
     ]
 }

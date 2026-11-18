@@ -812,6 +812,10 @@
         {
             "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
             "link": "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/17/how-to-find-mitigate-and-patch-the-critical-java4shell-flaw-cve-2026-114938-now"
+        },
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability"
         }
     ],
     "CVE-2026-93546": [
@@ -1142,6 +1146,48 @@
         {
             "title": "CISA KEV Addition: CVE-2026-115731",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-115731"
+        }
+    ],
+    "CVE-2012-4681": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability",
+            "listOnly": true
+        }
+    ],
+    "CVE-2013-0422": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability",
+            "listOnly": true
+        }
+    ],
+    "CVE-2012-1723": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability",
+            "listOnly": true
+        }
+    ],
+    "CVE-2013-0431": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability",
+            "listOnly": true
+        }
+    ],
+    "CVE-2012-0507": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability",
+            "listOnly": true
+        }
+    ],
+    "CVE-2013-2465": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): Frequently asked questions about OpenJDK remote code execution vulnerability",
+            "link": "https://www.tenable.com/blog/java4shell-cve-2026-114938-frequently-asked-questions-about-openjdk-rce-vulnerability",
+            "listOnly": true
         }
     ]
 }
