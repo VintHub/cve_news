@@ -45,6 +45,10 @@
         {
             "title": "Critical Perforce Puppet RCE Exploited in Attacks",
             "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+        },
+        {
+            "title": "U.S. CISA adds Perforce Puppet Enterprise\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-47501": [
@@ -93,6 +97,10 @@
         {
             "title": "nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched",
             "link": "https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now"
         }
     ],
     "CVE-2026-123007": [
@@ -103,6 +111,14 @@
         {
             "title": "nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched",
             "link": "https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ],
     "CVE-2026-131004": [
@@ -2024,18 +2040,33 @@
         {
             "title": "nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched",
             "link": "https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
+            "listOnly": true
         }
     ],
     "CVE-2026-123634": [
         {
             "title": "nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched",
             "link": "https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
+            "listOnly": true
         }
     ],
     "CVE-2026-121810": [
         {
             "title": "nginx2root: NGINX HTTP/2 RCE Flaws (CVE-2026-123007) Patched",
             "link": "https://www.cyberkendra.com/2026/11/nginx2root-nginx-http2-rce-cve-2026-123007.html"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
+            "listOnly": true
         }
     ],
     "CVE-2026-118899": [
@@ -2060,6 +2091,36 @@
         {
             "title": "CVE-2026-130622 and CVE-2026-130623 \u2013 Incorrect authorization in credential loading and handling for namespace-scoped issuers in AWS Private CA Connector for Kubernetes (aws-privateca-issuer)",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-187-aws/"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+            "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+        }
+    ],
+    "CVE-2024-10441": [
+        {
+            "title": "CISA KEV Addition: CVE-2024-10441",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-10441"
+        }
+    ],
+    "CVE-2026-40217": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-40217",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-40217"
+        }
+    ],
+    "CVE-2026-90817": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-90817",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-90817"
+        }
+    ],
+    "CVE-2026-90436": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-90436",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-90436"
         }
     ]
 }
