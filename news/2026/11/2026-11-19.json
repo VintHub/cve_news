@@ -19,6 +19,78 @@
         {
             "title": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
             "link": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/"
+        },
+        {
+            "title": "Hackers Exploiting Java4Shell RCE Flaw Using ARTEX Disguise Themselves as Chrome",
+            "link": "https://cybersecuritynews.com/java4shell-rce-flaw-exploited/"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+            "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "ruby2\u00dfhell: Critical One-Byte Heap Overflow in Ruby Could Allow RCE Attacks",
+            "link": "https://cybersecuritynews.com/ruby2shell-rce/"
+        }
+    ],
+    "CVE-2026-131287": [
+        {
+            "title": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+            "link": "https://cybersecuritynews.com/splunk-patches-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76535": [
+        {
+            "title": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+            "link": "https://cybersecuritynews.com/splunk-patches-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-131297": [
+        {
+            "title": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+            "link": "https://cybersecuritynews.com/splunk-patches-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-131253": [
+        {
+            "title": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+            "link": "https://cybersecuritynews.com/splunk-patches-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20253": [
+        {
+            "title": "Splunk Patches Critical 9.9 RCE and Authentication Bypass Vulnerabilities in SOAR and Enterprise",
+            "link": "https://cybersecuritynews.com/splunk-patches-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Hackers Actively Exploit Critical Apache Roller RCE Flaw to Execute Code Without Authentication",
+            "link": "https://cybersecuritynews.com/apache-roller-rce-exploitation/"
+        },
+        {
+            "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+            "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        }
+    ],
+    "CVE-2026-82384": [
+        {
+            "title": "Hackers Actively Exploit Critical Apache Roller RCE Flaw to Execute Code Without Authentication",
+            "link": "https://cybersecuritynews.com/apache-roller-rce-exploitation/"
+        },
+        {
+            "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+            "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        }
+    ],
+    "CVE-2025-24813": [
+        {
+            "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+            "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
         }
     ]
 }
