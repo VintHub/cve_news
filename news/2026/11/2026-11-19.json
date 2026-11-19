@@ -3,12 +3,40 @@
         {
             "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
             "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+        },
+        {
+            "title": "Synology Fixes Critical Security Flaws With CVSS Scores of 9.8 and 8.1 Across NAS Platforms",
+            "link": "https://gbhackers.com/synology-fixes-critical-security-flaws/"
+        },
+        {
+            "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/"
+        },
+        {
+            "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks",
+            "link": "https://cyberpress.org/synology-warns-critical-nas-flaws/"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ],
     "CVE-2026-115731": [
         {
             "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
             "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html"
+        },
+        {
+            "title": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
+            "link": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Puppet Vulnerability Allowing Remote Code Execution on Enterprise Servers",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-critical-puppet.html"
+        },
+        {
+            "title": "U.S. CISA adds Perforce Puppet Enterprise\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-114938": [
@@ -23,12 +51,24 @@
         {
             "title": "Hackers Exploiting Java4Shell RCE Flaw Using ARTEX Disguise Themselves as Chrome",
             "link": "https://cybersecuritynews.com/java4shell-rce-flaw-exploited/"
+        },
+        {
+            "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+            "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/"
         }
     ],
     "CVE-2026-115560": [
         {
             "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
             "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+        },
+        {
+            "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+            "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
+        },
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
         }
     ],
     "CVE-2026-97229": [
@@ -75,6 +115,14 @@
         {
             "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
             "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        },
+        {
+            "title": "Apache Roller Vulnerability Allows Remote Code Execution Through Unsafe XML-RPC Deserialization",
+            "link": "https://gbhackers.com/apache-roller-vulnerability-2/"
+        },
+        {
+            "title": "Apache Roller RCE Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/11/apache-roller-rce-vulnerability.html"
         }
     ],
     "CVE-2026-82384": [
@@ -85,12 +133,158 @@
         {
             "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
             "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        },
+        {
+            "title": "Apache Roller RCE Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/11/apache-roller-rce-vulnerability.html"
         }
     ],
     "CVE-2025-24813": [
         {
             "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
             "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        }
+    ],
+    "CVE-2026-126714": [
+        {
+            "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+            "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
+        },
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Everything Is a Web Application, Including Your Firewall",
+            "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+        },
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Everything Is a Web Application, Including Your Firewall",
+            "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+        },
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-120382": [
+        {
+            "title": "Synology Fixes Critical Security Flaws With CVSS Scores of 9.8 and 8.1 Across NAS Platforms",
+            "link": "https://gbhackers.com/synology-fixes-critical-security-flaws/"
+        },
+        {
+            "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks",
+            "link": "https://cyberpress.org/synology-warns-critical-nas-flaws/"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-132802": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132808": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2025-27212": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132806": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132805": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132803": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132807": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132804": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-115732": [
+        {
+            "title": "Hackers Exploit Critical Puppet Vulnerability Allowing Remote Code Execution on Enterprise Servers",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-critical-puppet.html"
+        }
+    ],
+    "CVE-2026-129289": [
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-129474": [
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-129182": [
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-129496": [
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-48841": [
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2026-129481": [
+        {
+            "title": "phpAfterShell CVE-2026-126714: PHP RCE Bypasses PHP2Shell Fix",
+            "link": "https://www.cyberkendra.com/2026/11/phpaftershell-cve-2026-126714-php-rce.html"
+        }
+    ],
+    "CVE-2024-10441": [
+        {
+            "title": "U.S. CISA adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/203504/hacking/u-s-cisa-adds-apache-axis-vanderbilt-redcapberriai-litellm-and-synology-dsm-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ]
 }
