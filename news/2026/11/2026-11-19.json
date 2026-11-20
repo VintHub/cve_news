@@ -55,6 +55,10 @@
         {
             "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
             "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/"
+        },
+        {
+            "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
+            "link": "https://blog.talosintelligence.com/java4shell/"
         }
     ],
     "CVE-2026-115560": [
@@ -285,6 +289,84 @@
         {
             "title": "U.S. CISA adds Apache Axis, Vanderbilt REDCap,BerriAI LiteLLM, and Synology DSM\u00a0flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/203504/hacking/u-s-cisa-adds-apache-axis-vanderbilt-redcapberriai-litellm-and-synology-dsm-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Critical Drupal Installer Flaw CVE-2026-132165 Lets Unauthenticated Attackers Take Over Sites",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-132165-drupal-installer-rce.html"
+        }
+    ],
+    "CVE-2026-9082": [
+        {
+            "title": "Critical Drupal Installer Flaw CVE-2026-132165 Lets Unauthenticated Attackers Take Over Sites",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-132165-drupal-installer-rce.html"
+        }
+    ],
+    "CVE-2026-132825": [
+        {
+            "title": "Ruby2Shell Flaw in Ruby Exposes Default Rails Apps to Unauthenticated Code Execution",
+            "link": "https://www.cyberkendra.com/2026/11/ruby2shell-cve-2026-132825-rails-rce.html"
+        }
+    ],
+    "CVE-2026-123893": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-123891": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-59309": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-119618": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-123892": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-123894": [
+        {
+            "title": "Chinese Hackers Exploited vCenter Zero-Day CVE-2026-123890 Months Before Broadcom Patch",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-123890-vcenter-zero-day-exploited.html"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "FastUnlock Zero-Day Uses Windows Narrator to Bypass Lock Screen and BitLocker on Windows 11",
+            "link": "https://www.cyberkendra.com/2026/11/fastunlock-windows-narrator-lock-screen-bypass.html"
         }
     ]
 }
