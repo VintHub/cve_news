@@ -1,0 +1,32 @@
+{
+    "CVE-2026-123890": [
+        {
+            "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+            "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "Critical NGINX HTTP/2 Vulnerabilities (CVE-2026-123633 and CVE-2026-123007): What Imperva Customers Need to Know",
+            "link": "https://www.imperva.com/blog/critical-nginx-http-2-vulnerabilities-cve-2026-123633-and-cve-2026-123007-what-imperva-customers-need-to-know/"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "Critical NGINX HTTP/2 Vulnerabilities (CVE-2026-123633 and CVE-2026-123007): What Imperva Customers Need to Know",
+            "link": "https://www.imperva.com/blog/critical-nginx-http-2-vulnerabilities-cve-2026-123633-and-cve-2026-123007-what-imperva-customers-need-to-know/"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): What You Need to Know and How Imperva Protects You",
+            "link": "https://www.imperva.com/blog/java4shell-cve-2026-114938-what-you-need-to-know-and-how-imperva-protects-you/"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Fixes Critical RCE Flaw That Could Let Unauthenticated Hackers Take Over Websites",
+            "link": "https://cybersecuritynews.com/drupal-fixes-critical-rce-flaw/"
+        }
+    ]
+}
