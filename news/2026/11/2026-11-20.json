@@ -7,6 +7,10 @@
         {
             "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
             "link": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-123890",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123890"
         }
     ],
     "CVE-2026-123007": [
@@ -17,12 +21,24 @@
         {
             "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
             "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
+        },
+        {
+            "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+            "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/"
         }
     ],
     "CVE-2026-123633": [
         {
             "title": "Critical NGINX HTTP/2 Vulnerabilities (CVE-2026-123633 and CVE-2026-123007): What Imperva Customers Need to Know",
             "link": "https://www.imperva.com/blog/critical-nginx-http-2-vulnerabilities-cve-2026-123633-and-cve-2026-123007-what-imperva-customers-need-to-know/"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ],
     "CVE-2026-114938": [
@@ -41,6 +57,14 @@
         {
             "title": "A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate",
             "link": "https://blog.qualys.com/misc/2026/11/20/a-technical-guide-to-mitigate-java4shell-with-trurisk-eliminate"
+        },
+        {
+            "title": "A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate",
+            "link": "https://blog.qualys.com/qualys-insights/2026/11/20/a-technical-guide-to-mitigate-java4shell-with-trurisk-eliminate"
+        },
+        {
+            "title": "Java4Shell: A Closer Look and Patch Analysis (CVE-2026-114938)",
+            "link": "https://www.akamai.com/blog/security-research/2026/nov/java4shell-closer-look-patch-analysis-cve-2026-114938"
         }
     ],
     "CVE-2026-132165": [
@@ -63,12 +87,24 @@
         {
             "title": "Critical Cisco Expressway Vulnerability Exploited By Hackers Shortly After Public PoC Release",
             "link": "https://www.cysecurity.news/2026/11/critical-cisco-expressway-vulnerability.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-76466",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76466"
         }
     ],
     "CVE-2026-23871": [
         {
             "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
             "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/"
+        },
+        {
+            "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+            "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+        },
+        {
+            "title": "CVE-2026-23871: WhatsApp Bug Helped Scammers Make Messages Look Legitimate",
+            "link": "https://securityaffairs.com/203622/security/cve-2026-23871-whatsapp-bug-helped-scammers-make-messages-look-legitimate.html"
         }
     ],
     "CVE-2026-132825": [
@@ -228,6 +264,42 @@
         {
             "title": "New Windows 11 Zero-Day Lets Attackers Bypass Lock Screen Using Microsoft Narrator",
             "link": "https://cyberpress.org/new-windows-11-zero-day/"
+        }
+    ],
+    "CVE-2026-123634": [
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
+        }
+    ],
+    "CVE-2026-113425": [
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
+        }
+    ],
+    "CVE-2026-121810": [
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
+        }
+    ],
+    "CVE-2026-118899": [
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-129448",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-129448"
+        }
+    ],
+    "CVE-2025-42884": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-42884",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-42884"
         }
     ]
 }
