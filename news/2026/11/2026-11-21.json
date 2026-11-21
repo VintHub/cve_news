@@ -86,5 +86,23 @@
             "title": "Critical Ruby String Case-Conversion Vulnerabilities Could Lead to Remote Code Execution",
             "link": "https://www.imperva.com/blog/critical-ruby-string-case-conversion-vulnerabilities-could-lead-to-remote-code-execution/"
         }
+    ],
+    "CVE-2026-129975": [
+        {
+            "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+            "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+            "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
+        }
     ]
 }
