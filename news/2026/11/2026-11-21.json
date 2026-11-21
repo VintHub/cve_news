@@ -103,6 +103,34 @@
         {
             "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
             "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
+        },
+        {
+            "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Patches Critical RCE Flaw, Urges Immediate Updates",
+            "link": "https://www.cysecurity.news/2026/11/drupal-patches-critical-rce-flaw-urges.html"
+        }
+    ],
+    "CVE-2026-132166": [
+        {
+            "title": "Drupal Patches Critical RCE Flaw, Urges Immediate Updates",
+            "link": "https://www.cysecurity.news/2026/11/drupal-patches-critical-rce-flaw-urges.html"
+        }
+    ],
+    "CVE-2026-41709": [
+        {
+            "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
         }
     ]
 }
