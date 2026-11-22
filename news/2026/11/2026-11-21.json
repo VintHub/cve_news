@@ -13,6 +13,10 @@
         {
             "title": "Critical F5 BIG-IP Vulnerability Allows Hackers to Execute Code Without Authentication",
             "link": "https://cyberpress.org/critical-f5-big-ip-vulnerability/"
+        },
+        {
+            "title": "Critical F5 BIG-IP Stack Buffer Overflow Flaw Enables Remote Code Execution and Denial-of-Service Attacks",
+            "link": "https://gbhackers.com/critical-f5-big-ip-stack-buffer-overflow-flaw/"
         }
     ],
     "CVE-2026-120292": [
@@ -53,6 +57,10 @@
         {
             "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages",
             "link": "https://cyberpress.org/whatsapp-security-flaw/"
+        },
+        {
+            "title": "WhatsApp Security Flaw Lets Attackers Delete Files and Leak Chat Database Information on Android Devices",
+            "link": "https://gbhackers.com/whatsapp-security-flaw/"
         }
     ],
     "CVE-2026-44908": [
@@ -79,6 +87,10 @@
         {
             "title": "Critical Apache Tomcat Flaw Lets Unauthenticated Attackers Join Secure Server Clusters",
             "link": "https://cyberpress.org/critical-apache-tomcat-flaw/"
+        },
+        {
+            "title": "Critical Apache Tomcat Security Flaw Enables Unauthorized Nodes to Join Protected Server Clusters",
+            "link": "https://gbhackers.com/critical-apache-tomcat-security-flaw/"
         }
     ],
     "CVE-2026-132825": [
@@ -131,6 +143,24 @@
         {
             "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
             "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
+        }
+    ],
+    "CVE-2026-125396": [
+        {
+            "title": "Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain",
+            "link": "https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html"
+        }
+    ],
+    "CVE-2026-114727": [
+        {
+            "title": "Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain",
+            "link": "https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html"
+        }
+    ],
+    "CVE-2026-65640": [
+        {
+            "title": "Upload2Shell Ghostscript Bug Turns File Uploads Into Remote Code Execution, Patch Gaps Remain",
+            "link": "https://www.cyberkendra.com/2026/11/upload2shell-ghostscript-bug-turns-file-uploads-into-remote-code-execution-patch-gaps-remain.html"
         }
     ]
 }
