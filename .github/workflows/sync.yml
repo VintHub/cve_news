@@ -51,6 +51,9 @@ jobs:
           # Move cves folder inside _site (creating _site/cves)
           mv cves _site/
 
+          # Create 404 page at site root
+          echo "VintHub - Not Found" > _site/404.html
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
