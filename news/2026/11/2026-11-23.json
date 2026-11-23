@@ -1,0 +1,46 @@
+{
+    "CVE-2026-131914": [
+        {
+            "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"
+        },
+        {
+            "title": "Critical ASP.NET AntiCsrf Flaw Under Attack, Allowing Hackers to Execute Code Without Login",
+            "link": "https://cybersecuritynews.com/asp-net-anticsrf-flaw-under-attack/"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Infiltrate Internal Networks",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-cisco-expressway-flaw/"
+        },
+        {
+            "title": "Critical Cisco Expressway Flaw Exploited in Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "Palo Alto Confirms NGINX Vulnerabilities Impact PAN-OS and Releases Workarounds",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "Palo Alto Confirms NGINX Vulnerabilities Impact PAN-OS and Releases Workarounds",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57766": [
+        {
+            "title": "WPIDE \u2264 3.6.4 \u2014 CSRF Nonce Bypass Leading to Unauthenticated RCE (CVE-2026-124251)",
+            "link": "https://cyberscoop.com/wpide-csrf-vulnerability-cve-2026-124251/"
+        }
+    ],
+    "CVE-2026-124251": [
+        {
+            "title": "WPIDE \u2264 3.6.4 \u2014 CSRF Nonce Bypass Leading to Unauthenticated RCE (CVE-2026-124251)",
+            "link": "https://cyberscoop.com/wpide-csrf-vulnerability-cve-2026-124251/"
+        }
+    ]
+}
