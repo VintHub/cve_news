@@ -7,6 +7,14 @@
         {
             "title": "Critical ASP.NET AntiCsrf Flaw Under Attack, Allowing Hackers to Execute Code Without Login",
             "link": "https://cybersecuritynews.com/asp-net-anticsrf-flaw-under-attack/"
+        },
+        {
+            "title": "Hackers Actively Exploit Critical ASP.NET Vulnerability to Execute Remote Code and Compromise Web Servers",
+            "link": "https://gbhackers.com/hackers-actively-exploit-critical-asp-net-vulnerability/"
+        },
+        {
+            "title": "Critical ASP.NET Vulnerability Allows Hackers to Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-asp-net-vulnerability/"
         }
     ],
     "CVE-2026-76466": [
@@ -17,18 +25,50 @@
         {
             "title": "Critical Cisco Expressway Flaw Exploited in Attacks",
             "link": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/"
+        },
+        {
+            "title": "Hackers Exploit Cisco Expressway CVE-2026-76466 After Public PoC Release to Gain Root Privileges",
+            "link": "https://gbhackers.com/hackers-exploit-cisco-expressway-cve-2026-76466/"
+        },
+        {
+            "title": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)",
+            "link": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/"
+        },
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities",
+            "link": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Breach Internal Networks",
+            "link": "https://cyberpress.org/critical-cisco-expressway-flaw-2/"
         }
     ],
     "CVE-2026-123007": [
         {
             "title": "Palo Alto Confirms NGINX Vulnerabilities Impact PAN-OS and Releases Workarounds",
             "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Allow Unauthenticated Attackers to Execute Code Remotely",
+            "link": "https://gbhackers.com/critical-palo-alto-networks-pan-os-flaws/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
         }
     ],
     "CVE-2026-123633": [
         {
             "title": "Palo Alto Confirms NGINX Vulnerabilities Impact PAN-OS and Releases Workarounds",
             "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Allow Unauthenticated Attackers to Execute Code Remotely",
+            "link": "https://gbhackers.com/critical-palo-alto-networks-pan-os-flaws/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
         }
     ],
     "CVE-2026-57766": [
@@ -41,6 +81,58 @@
         {
             "title": "WPIDE \u2264 3.6.4 \u2014 CSRF Nonce Bypass Leading to Unauthenticated RCE (CVE-2026-124251)",
             "link": "https://cyberscoop.com/wpide-csrf-vulnerability-cve-2026-124251/"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
+        }
+    ],
+    "CVE-2026-134624": [
+        {
+            "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+            "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)",
+            "link": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/"
+        },
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities",
+            "link": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-42884": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities",
+            "link": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities",
+            "link": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-82384": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware, Cisco, SAP and Apache Vulnerabilities",
+            "link": "https://cyberpress.org/cisa-exploiting-vmware-cisco-sap-apache-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0330": [
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
+        }
+    ],
+    "CVE-2026-0310": [
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
         }
     ]
 }
