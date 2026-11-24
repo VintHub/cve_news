@@ -58,5 +58,193 @@
             "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"
         }
+    ],
+    "CVE-2026-123903": [
+        {
+            "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+            "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+        },
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-87268": [
+        {
+            "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+            "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "Hackers Have Spent Weeks Silently Hijacking MSP Technician Machines Through a Critical ScreenConnect Flaw",
+            "link": "https://www.cysecurity.news/2026/11/hackers-have-spent-weeks-silently.html"
+        }
+    ],
+    "CVE-2026-126714": [
+        {
+            "title": "New phpAfterShell Bug Reopens PHP2Shell Attack Path",
+            "link": "https://www.cysecurity.news/2026/11/new-phpaftershell-bug-reopens-php2shell.html"
+        }
+    ],
+    "CVE-2026-109484": [
+        {
+            "title": "CVE-2026-109484: Critical Azure App Service Linux Flaw Fixed",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-109484-azure-app-service-linux-flaw.html"
+        }
+    ],
+    "CVE-2026-58630": [
+        {
+            "title": "CVE-2026-109484: Critical Azure App Service Linux Flaw Fixed",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-109484-azure-app-service-linux-flaw.html"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "CVE-2026-109484: Critical Azure App Service Linux Flaw Fixed",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-109484-azure-app-service-linux-flaw.html"
+        }
+    ],
+    "CVE-2026-10701": [
+        {
+            "title": "Minecraft2Shell RCE in Minecraft Java Still Unpatched",
+            "link": "https://www.cyberkendra.com/2026/11/minecraft2shell-minecraft-java-rce-resource-pack.html"
+        }
+    ],
+    "CVE-2026-131914": [
+        {
+            "title": "Attackers Exploit Unpatchable Idunno.AntiCsrf RCE Flaw CVE-2026-131914 in ASP.NET Apps",
+            "link": "https://www.cyberkendra.com/2026/11/cve-2026-131914-idunno-anticsrf-rce-exploited.html"
+        },
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-131914",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-131914"
+        }
+    ],
+    "CVE-2026-21619": [
+        {
+            "title": "Hex.pm Breach: Attacker Ran Commands on Erlang and Elixir Package Registry Servers \u2014 Reset Your 2FA",
+            "link": "https://www.cyberkendra.com/2026/11/hex-pm-breach-cve-2026-129514.html"
+        }
+    ],
+    "CVE-2026-124283": [
+        {
+            "title": "Hex.pm Breach: Attacker Ran Commands on Erlang and Elixir Package Registry Servers \u2014 Reset Your 2FA",
+            "link": "https://www.cyberkendra.com/2026/11/hex-pm-breach-cve-2026-129514.html"
+        }
+    ],
+    "CVE-2026-129514": [
+        {
+            "title": "Hex.pm Breach: Attacker Ran Commands on Erlang and Elixir Package Registry Servers \u2014 Reset Your 2FA",
+            "link": "https://www.cyberkendra.com/2026/11/hex-pm-breach-cve-2026-129514.html"
+        }
+    ],
+    "CVE-2026-123914": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123911": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123909": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123912": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123906": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123913": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123904": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123905": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123907": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123910": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123908": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123915": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-123926": [
+        {
+            "title": "VMware ESX Flaws CVE-2026-123910 and CVE-2026-123911 Allow Remote Code Execution on Hosts",
+            "link": "https://www.cyberkendra.com/2026/11/vmware-esx-rce-cve-2026-123910-and-cve-2026-123911.html"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-132165",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-132165"
+        }
+    ],
+    "CVE-2026-132224": [
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-132224",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-132224"
+        }
     ]
 }
