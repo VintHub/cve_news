@@ -1,0 +1,58 @@
+{
+    "CVE-2026-134815": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2022-24433": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2026-28292": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2026-6951": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Hackers Actively Exploiting Cisco Expressway Vulnerability to Gain Full Root Access",
+            "link": "https://cybersecuritynews.com/cisco-expressway-vulnerability-exploited/"
+        },
+        {
+            "title": "Critical Cisco Expressway RCE Vulnerability Exploited in the Wild to Execute Commands as Root",
+            "link": "https://gbhackers.com/critical-cisco-expressway-rce-vulnerability/"
+        },
+        {
+            "title": "Critical Cisco Expressway Flaw Allows Remote Attackers to Execute Commands With Root Privileges",
+            "link": "https://cyberpress.org/critical-cisco-expressway-flaw-3/"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "OpenAI and Cisco Launch Shirudo AI Security Tool to Block Exploits on Linux Servers",
+            "link": "https://cybersecuritynews.com/openai-and-cisco-launch-shirudo/"
+        }
+    ],
+    "CVE-2026-119853": [
+        {
+            "title": "Hackers Could Exploit Windows Remote Access API Vulnerability to Gain SYSTEM-Level Access",
+            "link": "https://cyberpress.org/exploit-windows-remote-access-api-vulnerability/"
+        }
+    ],
+    "CVE-2026-134624": [
+        {
+            "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers",
+            "link": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/"
+        }
+    ]
+}
