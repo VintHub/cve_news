@@ -93,6 +93,14 @@
         {
             "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
             "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-134624",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-134624"
         }
     ],
     "CVE-2026-123890": [
@@ -133,6 +141,34 @@
         {
             "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
             "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
+        }
+    ],
+    "CVE-2026-134814": [
+        {
+            "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+            "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+        }
+    ],
+    "CVE-2023-38646": [
+        {
+            "title": "Jailbroken AI Agent Helps Hacker Steal Customer Data and 8.6GB of European Government Files",
+            "link": "https://cybersecuritynews.com/jailbroken-ai-agent/"
+        }
+    ],
+    "CVE-2026-134069": [
+        {
+            "title": "CVE-2026-134069 \u2013 Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/"
+        }
+    ],
+    "CVE-2026-133968": [
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-133968",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133968"
         }
     ]
 }
