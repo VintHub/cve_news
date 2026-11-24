@@ -53,6 +53,10 @@
         {
             "title": "Critical N-able Mail Assure SSRF Vulnerability Exposes Internal Systems to Attackers",
             "link": "https://cyberpress.org/critical-n-able-mail-assure-ssrf/"
+        },
+        {
+            "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"
         }
     ]
 }
