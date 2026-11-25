@@ -123,6 +123,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-131914",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-131914"
+        },
+        {
+            "title": "Hackers Actively Exploit ASP.NET Remote Code Execution Flaw to Target Vulnerable Web Applications",
+            "link": "https://cyberpress.org/asp-net-remote-code-execution-flaw/"
         }
     ],
     "CVE-2026-21619": [
@@ -245,6 +249,24 @@
         {
             "title": "CISA KEV Addition: CVE-2026-132224",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-132224"
+        }
+    ],
+    "CVE-2026-123158": [
+        {
+            "title": "Critical OpenSSH Flaw Lets Hackers Bypass Password Authentication on Alpine Linux With 257-Byte Password",
+            "link": "https://cyberpress.org/critical-openssh-flaw/"
+        }
+    ],
+    "CVE-2026-134401": [
+        {
+            "title": "Critical Chrome Security Flaw Lets Attackers Escape Browser Sandbox Through Malicious Webpages",
+            "link": "https://cyberpress.org/critical-chrome-security-flaw/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Secure Remote Desktop Solutions for Enterprises: Closing the Gaps Attackers Exploit",
+            "link": "https://www.cyberkendra.com/2026/11/secure-remote-desktop-solutions-for-enterprises.html"
         }
     ]
 }
