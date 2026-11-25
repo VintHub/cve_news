@@ -136,5 +136,53 @@
             "title": "Critical VMware vCenter Flaw Could Let Hackers Bypass Authentication and Gain Unauthorized Access to Servers",
             "link": "https://cyberpress.org/critical-vmware-vcenter-flaw/"
         }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        }
+    ],
+    "CVE-2026-132224": [
+        {
+            "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        }
+    ],
+    "CVE-2026-131914": [
+        {
+            "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+            "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+            "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+            "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/"
+        }
+    ],
+    "CVE-2026-134624": [
+        {
+            "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+            "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
+        }
     ]
 }
