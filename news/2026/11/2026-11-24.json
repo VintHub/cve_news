@@ -268,5 +268,11 @@
             "title": "Secure Remote Desktop Solutions for Enterprises: Closing the Gaps Attackers Exploit",
             "link": "https://www.cyberkendra.com/2026/11/secure-remote-desktop-solutions-for-enterprises.html"
         }
+    ],
+    "CVE-2026-96805": [
+        {
+            "title": "Hackers Could Suddenly Apply Trailer Brakes at Highway Speeds Through Bluetooth Vulnerability",
+            "link": "https://gbhackers.com/bluetooth-vulnerability/"
+        }
     ]
 }
