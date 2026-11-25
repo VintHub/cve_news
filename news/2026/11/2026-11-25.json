@@ -153,6 +153,10 @@
         {
             "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
             "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+            "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/"
         }
     ],
     "CVE-2026-109618": [
@@ -183,6 +187,12 @@
         {
             "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
+        }
+    ],
+    "CVE-2026-103782": [
+        {
+            "title": "Critical 9.9 Dell Enterprise SONiC Flaw Could Let Hackers Execute Malicious Commands on Network Switches",
+            "link": "https://cybersecuritynews.com/critical-dell-enterprise-sonic-flaw/"
         }
     ]
 }
