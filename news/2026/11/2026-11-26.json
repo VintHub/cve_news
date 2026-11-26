@@ -124,6 +124,18 @@
         {
             "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
             "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        },
+        {
+            "title": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/drupal-website-takeover-flaw/"
+        },
+        {
+            "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites",
+            "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/"
+        },
+        {
+            "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+            "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
         }
     ],
     "CVE-2026-132224": [
@@ -142,18 +154,46 @@
         {
             "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
             "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        },
+        {
+            "title": "Drupal Warns of Active Attacks Exploiting New Critical Website Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/drupal-website-takeover-flaw/"
+        },
+        {
+            "title": "Hackers Actively Exploit Critical Drupal Vulnerability to Take Over Websites",
+            "link": "https://gbhackers.com/hackers-actively-exploit-critical-drupal-vulnerability/"
+        },
+        {
+            "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites",
+            "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/"
         }
     ],
     "CVE-2026-133275": [
         {
             "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+        },
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
         }
     ],
     "CVE-2026-129713": [
         {
             "title": "Critical Danfoss Refrigeration Controller Flaw Could Allow Remote Code Execution Without Authentication",
             "link": "https://cybersecuritynews.com/danfoss-refrigeration-controller-flaw/"
+        },
+        {
+            "title": "Critical Danfoss Refrigeration Controller Vulnerability Could Let Hackers Execute Arbitrary Code Remotely",
+            "link": "https://gbhackers.com/critical-danfoss-refrigeration-controller-vulnerability/"
+        },
+        {
+            "title": "Hackers Could Exploit Critical Danfoss Flaw to Execute Malicious Code on Refrigeration Controllers",
+            "link": "https://cyberpress.org/critical-danfoss-flaw/"
         }
     ],
     "CVE-2023-38646": [
@@ -166,6 +206,150 @@
         {
             "title": "Hackers Target Hundreds of U.S. Law Firms With Credential Attacks and Vulnerability Exploits",
             "link": "https://cyberpress.org/hackers-target-law-firms/"
+        }
+    ],
+    "CVE-2026-103406": [
+        {
+            "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        },
+        {
+            "title": "CISA Adds Exploited Juniper Session Smart Conductor RCE to KEV",
+            "link": "https://www.esecurityplanet.com/cybersecurity-threats/news-juniper-session-smart-conductor-cve-2026-103406-exploited/"
+        }
+    ],
+    "CVE-2026-133324": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2023-25914": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2023-25915": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2025-41450": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133323": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133469": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133303": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133311": [
+        {
+            "title": "CISA Adds 10 Flaws from Danfoss, HPE, Mitel MiCollab and Vates Xen to Exploited Catalog",
+            "link": "https://cybersecuritynews.com/cisa-adds-10-flaws-to-kev/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-118737": [
+        {
+            "title": "Microsoft Confirms Windows November Updates Can Break SSO and Third-Party App Logins",
+            "link": "https://cybersecuritynews.com/november-update-breaks-authentication/"
+        },
+        {
+            "title": "Microsoft Windows Update Causes NTLM Authentication Failures in Enterprise Apps and SSO",
+            "link": "https://cyberpress.org/microsoft-windows-update-ntlm-authentication/"
+        }
+    ],
+    "CVE-2026-129245": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-129243": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-129244": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-120705": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-129242": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+            "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/"
         }
     ]
 }
