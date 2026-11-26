@@ -105,6 +105,10 @@
         {
             "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
             "link": "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch"
         }
     ],
     "CVE-2026-123007": [
@@ -127,6 +131,10 @@
         {
             "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
             "link": "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch"
         }
     ],
     "CVE-2026-131004": [
@@ -2057,6 +2065,11 @@
         {
             "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
             "link": "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
+            "listOnly": true
         }
     ],
     "CVE-2026-123634": [
@@ -2072,6 +2085,11 @@
         {
             "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
             "link": "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
+            "listOnly": true
         }
     ],
     "CVE-2026-121810": [
@@ -2087,6 +2105,11 @@
         {
             "title": "NGINX2Root (CVE-2026-123007): Frequently asked questions about five critical NGINX vulnerabilities",
             "link": "https://www.tenable.com/blog/nginx2root-cve-2026-123007-frequently-asked-questions-about-five-critical-nginx"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
+            "listOnly": true
         }
     ],
     "CVE-2026-118899": [
@@ -2101,6 +2124,11 @@
         {
             "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
             "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
+            "listOnly": true
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
             "listOnly": true
         }
     ],
@@ -2161,6 +2189,11 @@
             "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
             "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
             "listOnly": true
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
+            "listOnly": true
         }
     ],
     "CVE-2026-123640": [
@@ -2171,6 +2204,11 @@
         {
             "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
             "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
+            "listOnly": true
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
             "listOnly": true
         }
     ],
@@ -2183,6 +2221,11 @@
             "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
             "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
             "listOnly": true
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
+            "listOnly": true
         }
     ],
     "CVE-2026-125283": [
@@ -2193,6 +2236,11 @@
         {
             "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
             "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch-now",
+            "listOnly": true
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/product-tech/patch-management/2026/11/18/nginx2root-five-nginx-flaws-led-by-cve-2026-123007-how-to-find-mitigate-and-patch",
             "listOnly": true
         }
     ]

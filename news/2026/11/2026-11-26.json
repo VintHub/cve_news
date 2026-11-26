@@ -120,6 +120,10 @@
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+            "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
         }
     ],
     "CVE-2026-132224": [
@@ -132,6 +136,36 @@
         {
             "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
             "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        }
+    ],
+    "CVE-2026-136716": [
+        {
+            "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+            "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        }
+    ],
+    "CVE-2026-133275": [
+        {
+            "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+        }
+    ],
+    "CVE-2026-129713": [
+        {
+            "title": "Critical Danfoss Refrigeration Controller Flaw Could Allow Remote Code Execution Without Authentication",
+            "link": "https://cybersecuritynews.com/danfoss-refrigeration-controller-flaw/"
+        }
+    ],
+    "CVE-2023-38646": [
+        {
+            "title": "4,000+ Servers Running AI Hacking Agents Are Exposed to the Internet and Actively Attacking",
+            "link": "https://cybersecuritynews.com/4000-servers-running-ai-hacking-agents-are-exposed/"
+        }
+    ],
+    "CVE-2019-19781": [
+        {
+            "title": "Hackers Target Hundreds of U.S. Law Firms With Credential Attacks and Vulnerability Exploits",
+            "link": "https://cyberpress.org/hackers-target-law-firms/"
         }
     ]
 }
