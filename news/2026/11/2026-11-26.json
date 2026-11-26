@@ -1,0 +1,137 @@
+{
+    "CVE-2026-123172": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123168": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123171": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82319": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82313": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82321": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82322": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82320": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123167": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123166": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82315": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82314": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123170": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123165": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123169": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123173": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82316": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82317": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Take Control of Servers",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        }
+    ],
+    "CVE-2026-132224": [
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        }
+    ],
+    "CVE-2026-131914": [
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+        }
+    ]
+}
