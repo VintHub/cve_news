@@ -43,6 +43,56 @@
         {
             "title": "Drupal Fail2Install (CVE-2026-132165): Active Attacks & Fix",
             "link": "https://hackersonlineclub.com/drupal-fail2install-cve-2026-132165/"
+        },
+        {
+            "title": "Drupal Fixes CVE-2026-132165 Site Takeover Flaw",
+            "link": "https://www.techbarrista.com/drupal-cve-2026-132165/"
+        }
+    ],
+    "CVE-2026-92027": [
+        {
+            "title": "Tor Browser Flaw Could Reveal Users\u2019 Real IP Addresses With Just One Click on Malicious Websites",
+            "link": "https://cybersecuritynews.com/tor-browser-flaw/"
+        }
+    ],
+    "CVE-2026-124286": [
+        {
+            "title": "Critical Erlang/OTP Vulnerability Allows Hackers to Bypass TLS Certificate Authentication",
+            "link": "https://gbhackers.com/critical-erlang-otp-vulnerability/"
+        },
+        {
+            "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+            "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/"
+        }
+    ],
+    "CVE-2026-89422": [
+        {
+            "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+            "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/"
+        }
+    ],
+    "CVE-2026-105236": [
+        {
+            "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+            "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/"
+        }
+    ],
+    "CVE-2026-3854": [
+        {
+            "title": "Critical GitHub Flaw Could Let Hackers Execute Malicious Code and Access Millions of Private Repositories",
+            "link": "https://cyberpress.org/critical-github-flaw/"
+        }
+    ],
+    "CVE-2021-42235": [
+        {
+            "title": "WeaveLotus Exploits GeoServer and osTicket Flaws to Breach Government Networks",
+            "link": "https://cyberpress.org/weavelotus-breaches-government-networks/"
+        }
+    ],
+    "CVE-2024-36401": [
+        {
+            "title": "WeaveLotus Exploits GeoServer and osTicket Flaws to Breach Government Networks",
+            "link": "https://cyberpress.org/weavelotus-breaches-government-networks/"
         }
     ]
 }
