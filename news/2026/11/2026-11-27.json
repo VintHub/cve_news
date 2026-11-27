@@ -1,0 +1,14 @@
+{
+    "CVE-2026-123903": [
+        {
+            "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter"
+        }
+    ]
+}
