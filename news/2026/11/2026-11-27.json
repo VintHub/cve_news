@@ -38,5 +38,11 @@
             "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
         }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Fail2Install (CVE-2026-132165): Active Attacks & Fix",
+            "link": "https://hackersonlineclub.com/drupal-fail2install-cve-2026-132165/"
+        }
     ]
 }
