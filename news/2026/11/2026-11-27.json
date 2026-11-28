@@ -172,5 +172,15 @@
             "title": "CISA KEV Addition: CVE-2026-136716",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-136716"
         }
+    ],
+    "CVE-2026-99362": [
+        {
+            "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"
+        },
+        {
+            "title": "12-Year-Old NFS2ROOT Linux Flaw Let Hackers Take Full Control of Servers Without a Password",
+            "link": "https://cybersecuritynews.com/nfs2root-linux-vulnerability/"
+        }
     ]
 }
